@@ -7,26 +7,17 @@ Project Team Members:
 - Brandon Tsui, bhtsui@ucsd.edu
 - Saveree Joshipura, sjoshipu@ucsd.edu
 - Leon Kuo, lkuo@ucsd.edu
-- Firstname Lastname5, name5@ucsd.edu
+- Will Bates, wbates@ucsd.edu
 
 ### Google Doc
 https://docs.google.com/document/d/1ZWcxBZ9tQARwlK6HArpG2S3XDDYOKV_M8lK5zBpOPag/edit?usp=sharing
 
 ## Abstract
 
-(10 points) 
-
-For the project proposal, please write a short abstact addressing the questions below. You need to replace the entire contents of this section with one to two paragraphs addressing the following:
-
-- What is your concept for a generative art project? 
-- What methods/networks/techniques will you employ (include links to technical precedents/code bases)
-- What training data (if any) will you use for your project? 
-- What kind of results do you hope that your system will produce?
-- How will you present your result/what form will your output take?
-- What if any challenges to you think may arise as you are working with this?
-- How are you expanding on topics we have covered in class? 
-- Why is it interesting? (personally, culturally, politically, other)
-- List three papers / art projects that are references for this work.
+Our basic concept for this project is to scrape data online for instructions on how to play different card games and use a generative network to produce a new set of rules. After it is produced, we will try to play a game to see if it produced anything close to a real game. We will be using tensorflow (https://www.tensorflow.org/guide/keras/rnn) to create a recurrent neural network, as the RNN model is a typical one used for text generation. Our training data will consist of several instructions for card games from https://bicyclecards.com/how-to-play/pepper/#filter. It will be in the format of either several strings, or a DataFrame, depending on the structure of the information available. Our goal is to be able to generate new sets of rules for hypothetical games that at baseline, make some logical sense, and ideally, might even be fun to play. We will want to generate rules in the form of those in the dataset: with sections for different elements of the game, such as “The Pack” (choosing which cards to play with), “The Deal” (distributing initial hands to players), and “The Play” (playing rounds of the game). In addition to the rules itself we will provide a review of what happened when we tried to follow the rules and play the produced game. One of the challenges we expect to face has to do with the nature of the training data. As mentioned, all of the given rules have sections describing different aspects of the games but nothing is standardized and there are many named sections that are specific to certain games that would not make sense in others. We will need to figure out how to handle/balance these differences and what to use in the final output. Secondly, it will be very hard to playtest the game if the instructions are nonsensical so there may need to be some human tinkering on the final result. 
+Overall, we are seeking to expand on the topic of text generation. Similar to the project which created new recipes, we wanted to tackle a different angle by using card game instructions and trying the result in real life. This project is interesting because even today many new board games and card games are constantly being developed. In the past this process has been done solely by human creativity but we wanted to see if a neural net could produce something unique and playable. While we don’t expect the output to match the instructions of a real card game, we hope to test the possibilities of implementing this type of technology even into the creation of board and card games. Although we are making a game rules generator, we are taking inspiration from the following three sources because we haven’t found similar projects to this. We believe that this idea will utilize similar techniques that random recipe generators use, so we are taking inspiration from papers that talk about that. https://homes.cs.washington.edu/~yejin/Papers/emnlp16_neuralchecklist.pdf
+https://lct-master.org/getfile.php?id=2194&n=1&dt=TH&ft=pdf&type=TH (download link)
+This is a basic article for text generation https://towardsdatascience.com/simple-text-generation-d1c93f43f340
 
 ## Data and Model
 
