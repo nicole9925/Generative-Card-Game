@@ -6,7 +6,7 @@ Project Team Members:
 - Nicole Lee, nml015@ucsd.edu
 - Brandon Tsui, bhtsui@ucsd.edu
 - Saveree Joshipura, sjoshipu@ucsd.edu
-- Firstname Lastname4, name4@ucsd.edu
+- Leon Kuo, lkuo@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
 
 ### Google Doc
