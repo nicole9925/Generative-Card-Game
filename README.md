@@ -4,7 +4,7 @@ DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
 
 Project Team Members: 
 - Nicole Lee, nml015@ucsd.edu
-- Firstname Lastname2, name2@ucsd.edu
+- Brandon Tsui, bhtsui@ucsd.edu
 - Firstname Lastname3, name3@ucsd.edu
 - Firstname Lastname4, name4@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
