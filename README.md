@@ -9,6 +9,9 @@ Project Team Members:
 - Firstname Lastname4, name4@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
 
+### Google Doc
+https://docs.google.com/document/d/1ZWcxBZ9tQARwlK6HArpG2S3XDDYOKV_M8lK5zBpOPag/edit?usp=sharing
+
 ## Abstract
 
 (10 points) 
