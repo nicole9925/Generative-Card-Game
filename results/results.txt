@@ -1,7 +1,7 @@
 Results of Game Generation
 
 Title: Rman Whist Zhng Shngyu
-
+Number of Players: 4
 
 
 ****Introduction****
@@ -55,4 +55,17 @@ Scoring Interpretation
 
 A and beverages which have been consumed in great - the team with more than the losers are scored from the team that counts the other players scores. The Player scores the number of tricks they took and their bid (players the number of tricks they took and their bid)
 Example of a player game: each player a player wins and the other players each score.
-The other players is calch an ace of stakes at least 18 or more points [win] a game.     
+The other players is calch an ace of stakes at least 18 or more points [win] a game. 
+
+
+General Interpretation
+
+1. Players in this game are called "differs" if they win and "enders" if they lose
+2. This is a four player game, and each player gets their own "foundational" pile
+3. First person is the person on the dealer's left
+4. Each player draws 4 cards from respective deck and puts it face up
+5. When the dealer deals, the dealer deals 3 cards each round
+6. As soon as you run out of face up cards, you draw 4 more from the "foundational" pile
+7. After then first person adds a card to the "stock" pile, the next person needs to add a card the same or higher than the card on the stock pile from their four face up cards
+8. Winner of each round performs a "trick," essentially just meaning that they won
+9. The player with the most tricks at the end of the game wins
