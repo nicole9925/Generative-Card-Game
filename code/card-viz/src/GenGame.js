@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './GenGame.css';
 import CadrDeckImage from './images/deck.png';
 import CadrCover from './images/cover.png';
+import txt from './results.txt'
 
 class GenGame extends Component {
     constructor(props) {
@@ -314,6 +315,7 @@ class GenGame extends Component {
     }   
 
     EndGame = () => {
+        console.log(this.state.PlayerTrick, this.state.AI1Trick, this.state.AI2Trick,this.state.AI3Trick)
         if((this.state.PlayerTrick > this.state.AI1Trick) && (this.state.PlayerTrick > this.state.AI2Trick) && (this.state.PlayerTrick > this.state.AI3Trick)) {
             console.log('You Win!' )    
             this.setState({AppMode: 'PlayerWin'})
@@ -337,11 +339,8 @@ class GenGame extends Component {
             console.log('Null selected!');
         } else if((this.state.PlayerBank[button]%13) < this.state.CurrentCard) {
             console.log('Too Low!')
-            this.setState({CurrentCard: null})
-            this.setState({CardIndex: -1})
-            this.state.AI3Trick++;
             this.setState({PlayerState: 'AI1'}, () => {
-                this.OneRound();
+                this.PlayerMove();
             }); 
         } else {
             this.setState({CurrentCard: this.state.PlayerBank[button]%13});
@@ -443,17 +442,20 @@ class GenGame extends Component {
     
         //
         return (
+        <div className="EntireBoard"> 
           <div className="CardTable">
             <div className="CardTableHeader">
+                <a className="Rules" href={txt}>Click here to view rules</a>
               <div className="HeaderText"> AI1 (Tricks: {this.state.AI1Trick}) </div>
               <div className="HeaderText"> AI2 (Tricks: {this.state.AI2Trick}) </div>
-    
+
               <button
                 className="GenGameButton HeaderText"
                 onClick={this.StartNewGame}
               > 
                 New game
               </button>
+
               <div className="HeaderText"> AI3 (Tricks: {this.state.AI3Trick}) </div>
               <div className="HeaderText"> Player (Tricks: {this.state.PlayerTrick}) </div>
             </div>
@@ -528,6 +530,7 @@ class GenGame extends Component {
               alt="deck"
             />
           </div>
+        </div>  
         );
     };
 }

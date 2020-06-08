@@ -9,7 +9,6 @@ function App() {
         <GenGame></GenGame>
       </div>
     </div>
-
   )
 }  
 
