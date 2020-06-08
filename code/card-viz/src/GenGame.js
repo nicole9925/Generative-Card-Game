@@ -7,23 +7,25 @@ class GenGame extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            AppMode: "NoAction", // NoAction, Game, PlayerWin, AIWin
+            AppMode: "Good Luck!", // NoAction, Game, PlayerWin, AI1Win, AI2Win, AI3Win
             PlayerState: "NoState", // AI1, AI2, AI3, Player
+            GameState: "NoState", // Next, Lose, First
             CardsDeck: new Array(52),
             PlayerDeck: new Array(52),
             AI1Deck: new Array(52),
             AI2Deck: new Array(52),
             AI3Deck: new Array(52),
-            PlayerBank: new Array(4),
-            AI1Bank: new Array(4),
-            AI2Bank: new Array(4),
-            AI3Bank: new Array(4),
+            PlayerBank: new Array(52),
+            AI1Bank: new Array(52),
+            AI2Bank: new Array(52),
+            AI3Bank: new Array(52),
             MoveCount: 0,
             PlayerTrick: 0,
             AI1Trick: 0,
             AI2Trick: 0,
             AI3Trick: 0,
             CurrentCard: null,
+            CardIndex: -1,
         };
         this.TableCanvas = React.createRef()
 
@@ -31,10 +33,14 @@ class GenGame extends Component {
         //this.DoOneMove.bind(this);
         //this.EndMove.bind(this);
         this.GetOneCardFromDeck.bind(this);
-        this.AIRounds.bind(this);
-        //this.componentDidUpdate.bind(this);
-        //this.render.bind(this);
-        //this.draw_card.bind(this);
+        this.OneRound.bind(this);
+        this.componentDidUpdate.bind(this);
+        this.render.bind(this);
+        this.draw_card.bind(this);
+        this.EndGame.bind(this);
+        this.ResetBank.bind(this);
+        //this.DisplayButton.bind(this);
+        this.PlayerMove.bind(this);
     }
 
     GetOneCardFromDeck = () => {
@@ -74,6 +80,7 @@ class GenGame extends Component {
     }
 
     StartNewGame = () => {
+        //this.setState({AppMode: "Game"});
         for(let count = 0; count < 52; count ++) {
             this.state.CardsDeck[count] = 1;
 
@@ -95,28 +102,194 @@ class GenGame extends Component {
         }
         for(let count = 0; count < 4; count++) {
             this.state.PlayerBank[count] = this.state.PlayerDeck[count];
-            this.state.AI1Bank[count] = this.state.AI1Bank[count];
-            this.state.AI2Bank[count] = this.state.AI1Bank[count];
-            this.state.AI3Bank[count] = this.state.AI1Bank[count];
+            this.state.AI1Bank[count] = this.state.AI1Deck[count];
+            this.state.AI2Bank[count] = this.state.AI2Deck[count];
+            this.state.AI3Bank[count] = this.state.AI3Deck[count];
 
-            this.MoveDeck(this.PlayerDeck)
-            this.MoveDeck(this.AI1Bank)
-            this.MoveDeck(this.AI2Bank)
-            this.MoveDeck(this.AI3Bank)
+            this.MoveDeck(this.state.PlayerDeck)
+            this.MoveDeck(this.state.AI1Deck)
+            this.MoveDeck(this.state.AI2Deck)
+            this.MoveDeck(this.state.AI3Deck)
 
         }
+
+        this.SortBank(this.state.PlayerBank)
+        this.SortBank(this.state.AI1Deck)
+        this.SortBank(this.state.AI2Deck)
+        this.SortBank(this.state.A31Deck)
+
         this.setState({PlayerState: 'Player'});
         this.setState({AppMode: 'Game'});
+        this.setState({GameState: 'First'});
     }
 
-    // AIRounds = () => {
-    //     switch(this.state.PlayerState) {
-    //         case 'AI1':
+    OneRound = () => {
 
-    //     }
-    // }
+        switch(this.state.PlayerState) {
+            case 'AI1':
+                var found = false;
+                var nulls = 0;
+                if(this.state.GameState == "First") {
+                    this.setState({CurrentCard: this.state.AI1Bank[0]%13})
+                    this.setState({CardIndex: this.state.AI1Bank[0]})
+                    this.MoveDeck(this.state.AI1Bank)
+                } else {
+                    for(var i=0; i<4; i++) {
+                        if(this.state.AI1Bank[i] == null) {
+                            nulls++;
+                        }    
+                    }    
+                    if((nulls===4)) {
+                        this.ResetBank(this.state.AI1Bank, this.state.AI1Deck)
+                    }
+                    for(i=0; i<4; i++) {
+                        if(this.state.AI1Bank[i] == null) {
+                            continue
+                        } else if(this.state.AI1Bank[i]%13 >= this.state.CurrentCard) {
+                            this.setState({CurrentCard: this.state.AI1Bank[i]%13});
+                            this.setState({CardIndex: this.state.AI1Bank[i]})
+                            this.state.AI1Bank[i] = null;
+                            found = true;
+                            this.setState({GameState: 'Next'})
+                            break;
+                        }   
+                    } if(found===false) {
+                        this.PlayerTrick += 1
+                        this.setState({GameState: 'First'})
+                        this.setState({CurrentCard: null})
+                        this.setState({CardIndex: -1})
+                    }
+                 } 
+                this.setState({PlayerState: 'AI2'}, () => {
+                    this.OneRound();
+                }); 
+                break
+            case 'AI2':
+                found = false;
+                nulls = 0
+                if(this.state.GameState === "First") {
+                    this.setState({CurrentCard: this.state.AI2Bank[0]%13})
+                    this.setState({CardIndex: this.state.AI2Bank[0]})
+                    this.MoveDeck(this.state.AI2Bank)
+                } else {
+                    for(i=0; i<4; i++) {
+                        if(this.state.AI2Bank[i] == null) {
+                            nulls++;
+                        }    
+                    }    
+                    if((nulls===4)) {
+                        this.ResetBank(this.state.AI2Bank, this.state.AI2Deck)
+                    }
+                    for(i=0; i<4; i++) {
+                        if(this.state.AI2Bank[i] == null) {
+                            continue
+                        } else if(this.state.AI2Bank[i]%13 >= this.state.CurrentCard) {
+                            this.setState({CurrentCard: this.state.AI2Bank[i]%13})
+                            this.setState({CardIndex: this.state.AI2Bank[i]})
+                            this.state.AI2Bank[i] = null;
+                            found = true
+                            this.setState({GameState: 'Next'})
+                            break
+                        }   
+                    } 
+                    if(found==false) {
+                        this.state.AI1Trick += 1
+                        this.setState({GameState: 'First'})
+                        this.setState({CurrentCard: null})
+                        this.setState({CardIndex: -1})
+                    }
+                 } 
+                 this.setState({PlayerState: 'AI3'}, () => {
+                    this.OneRound();
+                }); 
+                break
+                case 'AI3':
+                    found = false;
+                    nulls=0
+                    for(i=0; i<4; i++) {
+                        if(this.state.AI3Bank[i] == null) {
+                            nulls++;
+                        }    
+                    }    
+                    if((nulls==4)) {
+                        this.ResetBank(this.state.AI3Bank, this.state.AI3Deck)
+                    }  
+                    if(this.state.GameState === "First") {
+                        this.setState({CurrentCard: this.state.AI3Bank[0]%13})
+                        this.setState({CardIndex: this.state.AI3Bank[0]})
+                        this.MoveDeck(this.state.AI3Bank)
+                    } else {
+                        for(var i=0; i<4; i++) {
+                            if(this.state.AI3Bank[i] == null) {
+                                continue
+                            } else if(this.state.AI3Bank[i]%13 >= this.state.CurrentCard) {
+                                this.setState({CurrentCard: this.state.AI3Bank[i]%13})
+                                this.setState({CardIndex: this.state.AI3Bank[i]})
+                                this.state.AI3Bank[i]=null
+                                found = true
+                                this.setState({GameState: 'Next'})
+                                break
+                            }   
+                        } if(found===false) {
+                            this.state.AI2Trick += 1
+                            this.setState({GameState: 'First'});
+                            this.setState({CurrentCard: null})
+                            this.setState({CardIndex: null})
+                        }
+                     } 
+                    this.setState({PlayerState: 'Player'})
+                    break
+                default:
 
-    function SortBank(bank) {
+        }
+    }    
+
+    PlayerMove = () => {
+        var less = 0;
+        var nulls = 0;
+        for(var i=0; i<4; i++) {
+            if(this.state.PlayerBank[i] == null) {
+                nulls++;
+            }    
+        }    
+        if((nulls===4)) {
+            this.ResetBank(this.state.PlayerBank, this.state.PlayerDeck)
+        }  
+        for(i=0; i<4; i++) {
+            if((this.state.PlayerBank[i] == null) || ((this.state.PlayerBank[i]%13) < this.state.CurrentCard)) {
+                less++;
+            }
+        } if ((less===4)) {
+            this.state.AI3Trick += 1
+            this.setState({GameState: "First"})
+            this.setState({CurrentCard: null})
+            this.setState({CardIndex: -1})
+        }
+        this.OneRound()
+    }
+
+    ResetBank = (bank, deck) => {
+        var empty = true;
+        for(let count = 0; count < 4; count++) {
+            if(bank[count] != null) {
+                empty = false;
+            }
+        } 
+
+        if(empty === true) {
+            if(this.GetCardCount(deck) < 4) {
+                this.EndGame();
+            }
+            for(let count = 0; count < 4; count++) {
+                bank[count] = deck[count];
+                this.MoveDeck(deck)
+            }
+        }    
+    }
+
+    
+
+    SortBank = (bank) => {
 
         return function (o1, o2) {
             if (o1 == null && o2 == null) {
@@ -128,205 +301,136 @@ class GenGame extends Component {
             if (o2 == null) {
                 return -1;
             }
-            return o1.compareTo(o2);
-      
-      }
+            return (o1%13).compareTo((o2%13));
+        }
+    }   
 
-    // DoOneMove = () => {
-    //     let PlayerCard = -1;
-    //     let AICard = -1;
-    //     let BankCardCount;
-    //     let PlayerCount = 0;
-    //     let AICardCount = 0;
+    EndGame = () => {
+        if((this.state.PlayerTrick > this.state.AI1Trick) && (this.state.PlayerTrick > this.state.AI2Trick) && (this.state.PlayerTrick > this.state.AI3Trick)) {
+            console.log('You Win!' )    
+            this.setState({AppMode: 'PlayerWin'})
+        } else if((this.state.PlayerTrick < this.state.AI1Trick) && (this.state.AI1Trick > this.state.AI2Trick) && (this.state.AI1Trick > this.state.AI3Trick)) {
+            console.log('AI1 Wins!' )
+            this.setState({AppMode: 'AI1Win'})
+        } else if((this.state.PlayerTrick < this.state.AI2Trick) && (this.state.AI1Trick < this.state.AI2Trick) && (this.state.AI2Trick > this.state.AI3Trick)) {
+            console.log('AI2 Wins!' )
+            this.setState({AppMode: 'AI2Win'})
+        } else if ((this.state.PlayerTrick < this.state.AI3Trick) && (this.state.AI1Trick < this.state.AI3Trick) && (this.state.AI2Trick < this.state.AI3Trick)) {
+            console.log('AI3 Wins!')
+            this.setState({AppMode: 'AI3Win'})
+        } else {
+            console.log('Tie!')
+            this.setState({AppMode: 'Tie'})
+        }
+    }
 
-    //     switch(this.state.MoveState) {
-    //         case 'Equality':
-    //             PlayerCount = this.GetCardCount(this.state.PlayerDeck);
-    //             AICardCount = this.GetCardCount(this.state.AIDeck);
-    //             if(PlayerCount <4) {
-    //                 this.state({AppMode: 'AIWin'});
-    //             } if(AICardCount <4) {
-    //                 this.state({AppMode: 'PlayerWin'});
-    //             }
-    //             BankCardCount = this.GetCardCount(this.state.PlayerBank);
-    //             for(let count = 0; count < 4; count ++) {
-    //                 PlayerCard = this.state.PlayerDeck[0];
-    //                 AICard = this.state.AIDeck[0];
-    //                 this.MoveDeck(this.state.PlayerDeck);
-    //                 this.MoveDeck(this.state.AIDeck);
-    //                 this.state.PlayerBank[BankCardCount] = PlayerCard;
-    //                 this.state.AIBank[BankCardCount] = AICard;
-        
-    //                 BankCardCount ++;
-    //             }
-        
-    //             if((PlayerCard % 13) == (AICard % 13)) {
-    //                 this.setState({MoveState: 'Equality'});
-    //             } else {
-    //                 this.setState({MoveState: 'EndMove'});
-    //             }
-    //             break;
-    //         case 'EndMove':
-    //             this.EndMove();
-    //             this.setState({MoveState: 'NoState'});
-    //             break;
-    //         case 'NoState':
-    //         default:
-    //             PlayerCard = this.state.PlayerDeck[0];
-    //             AICard = this.state.AIDeck[0];
-    //             this.MoveDeck(this.state.PlayerDeck);
-    //             this.MoveDeck(this.state.AIDeck);
+    BtnOnMoveClick = (button) => {
+        if(this.state.PlayerBank[button]%13 == null) {
+            console.log('Null selected!');
+        } else if((this.state.PlayerBank[button]%13) < this.state.CurrentCard) {
+            console.log('Too Low!')
+            this.setState({CurrentCard: null})
+            this.setState({CardIndex: -1})
+            this.state.AI3Trick++;
+            this.setState({PlayerState: 'AI1'}, () => {
+                this.OneRound();
+            }); 
+        } else {
+            this.setState({CurrentCard: this.state.PlayerBank[button]%13});
+            this.setState({CardIndex: this.state.PlayerBank[button]})
+            this.state.PlayerBank[button] = null;
+            this.setState({GameState: 'Next'})
+            this.setState({PlayerState: 'AI1'}, () => {
+                this.PlayerMove();
+            }); 
+        }
+    };
 
-    //             BankCardCount = this.GetCardCount(this.state.PlayerBank);
-    //             console.log(BankCardCount);
-    //             this.state.PlayerBank[BankCardCount] = PlayerCard;
-    //             this.state[BankCardCount] = AICard;
+    componentDidUpdate = () => {
+        if(this.state.AppMode === "Game") {   
+            let TableCtx = this.refs.TableCanvas.getContext("2d");
+            let count;
+            //TableCtx.clearRect(0, 0, 500, 500);
+            TableCtx.fillStyle = "rgb(102, 202, 110)";
+            TableCtx.fillRect(0, 0, 500, 500);
 
-    //             if((PlayerCard%13) == (AICard%13)) {
-    //                 this.setState({MoveState:'Equality'});
-    //             } else {
-    //                 this.setState({MoveState: 'EndMove'});
-    //             } break;
-    //     }
-    // }
-    // EndMove = () => {
-    //     let BankCardCount = this.GetCardCount(this.state.PlayerBank);
-    //     let PlayerCard = this.state.PlayerBank[BankCardCount-1] %13;
-    //     let AICard = this.state.AIBank[BankCardCount-1] % 13;
-    //     let count;
-    //     let AICardCount;
-    //     let PlayerCardCount;
+            let CardsInDeck = Math.floor(this.GetCardCount(this.state.AI1Deck)/ 13);
+            TableCtx.drawImage(this.refs.CadrCover, CardsInDeck * 70, 0, 70, 96, 20, 350, 30, 56)
 
-    //     if(PlayerCard == AICard) {
-    //     } else {
-    //         if(PlayerCard > AICard) {
-    //             console.log('Player win!');
-    //             PlayerCardCount = this.GetCardCount(this.state.PlayerDeck);
-    //             for(count = 0; count < BankCardCount; count ++) {
-    //                 this.state.PlayerDeck[PlayerCardCount] = this.state.PlayerBank[count];
-    //                 this.state.PlayerBank[count] = null;
-    //                 PlayerCardCount ++;
-    //             }
-    //             for(count=0; count<BankCardCount; count++) {
-    //                 this.state.PlayerDeck[PlayerCardCount] = this.state.AIBank[count];
-    //                 this.state.AIBank[count] = null;
-    //                 PlayerCardCount++
-    //             }
-    //             if(AICardCount == 0) {
-    //                 this.setState({AppMode: 'PlayerWin'})
-    //             }
-    //         } else {
-    //             console.log('AI win!')
-    //             AICardCount = this.GetCardCount(this.stateAIDeck);
-    //             for(count=0;count<BankCardCount;count++) {
-    //                 this.state.AIDeck[AICardCount] = this.state.AIBank[count];
-    //                 this.state.AIBank[count] = null;
-    //                 AICardCount++
-    //             }
-    //             for(count = 0; count < BankCardCount; count ++) {
-    //                 this.state.AIDeck[AICardCount] = this.state.PlayerBank[count];
-    //                 this.state.PlayerBank[count] = null;
-    //                 AICardCount++
-    //             }
-    //             AICardCount = this.GetCardCount(this.state.PlayerDeck);
-    //                 if(AICardCount == 0){
-    //                 this.setState({AppMode: 'AIWin'})
-    //             }
-    //         }
-    //     }
-    // }
-    // componentDidUpdate = () => {
-    //     let TableCtx = this.refs.TableCanvas.getContext("2d");
-    //     let count;
+            CardsInDeck = Math.floor(this.GetCardCount(this.state.PlayerDeck) / 13);
+            TableCtx.drawImage(this.refs.CadrCover, CardsInDeck * 70, 0, 70, 96, 320, 350, 30, 56);
 
-    //     TableCtx.fillStyle = "green";
-    //     TableCtx.fillRect(0, 0, 500, 500);
+            CardsInDeck = Math.floor(this.GetCardCount(this.state.AI2Deck) / 13);
+            TableCtx.drawImage(this.refs.CadrCover, CardsInDeck * 70, 0, 70, 96, 20, 50, 30, 56);
 
-    //     let CardsInDeck = Math.floor(this.GetCardCount(this.state.AIDeck)/ 13);
-    //     TableCtx.drawImage(this.refs.CadrCover, CardsInDeck * 70, 0, 70, 96, 50, 30, 70, 96)
+            CardsInDeck = Math.floor(this.GetCardCount(this.state.AI3Deck) / 13);
+            TableCtx.drawImage(this.refs.CadrCover, CardsInDeck * 70, 0, 70, 96, 320, 50, 30, 56);
 
-    //     CardsInDeck = Math.floor(this.GetCardCount(this.state.PlayerDeck) / 13);
-    //     TableCtx.drawImage(this.refs.CadrCover, CardsInDeck * 70, 0, 70, 96, 300, 350, 70, 96);
-        
-    //     let CardsInBank = this.GetCardCount(this.state.PlayerBank);
-    //     console.log('Cards in player bank - ' + CardsInBank);
+            this.draw_card(this.state.CardIndex, 230, 200)
 
-    //     let bc_x = 300;
-    //     let bc_y = 200;
+            let bc_x = 360;
+            let bc_y = 150;
 
-    //     for(count = 0; count < CardsInBank; count++) {
-    //         if(count%4 == 0) {
-    //             this.draw_card(this.state.PlayerBank[count], bc_x, bc_y);
-    //             this.draw_card(this.state.AIBank[count], bc_x-200, bc_y);
-    //         } else {
-    //             this.draw_card(-1,  bc_x, bc_y);
-    //             this.draw_card(-1, bc_x - 200, bc_y);
-    //         }
-    //         bc_x += 16;
-    //         bc_y += 16
-    //     }
-    // }
+            for(count = 0; count < 4; count++) {
+                if(this.state.PlayerBank[count] == null) {
+                } else {
+                    //player 1: 360, 350 2: 390, 350 3: 420, 350 4: 450, 350
+                    console.log(this.state.PlayerBank)
+                    console.log("here")
+                    this.draw_card(this.state.PlayerBank[count], bc_x, bc_y+200);
+                } if(this.state.AI1Bank[count] == null) {
+                } else {
+                    //ai1: 80, 350 2: 110, 350 3: 140, 350 4: 170, 350
+                    this.draw_card(this.state.AI1Bank[count], bc_x-280, bc_y+200);
+                } if(this.state.AI2Bank[count] == null) {
+                } else {
+                    //ai2: 80, 50 2: 110, 50 3: 140, 50 4: 170, 50
+                    this.draw_card(this.state.AI2Bank[count], bc_x-280, bc_y-100);
+                } if(this.state.AI3Bank[count] == null) {
+                }  else {
+                    //ai3:  360, 50 2: 390, 50 3: 420, 50 4: 450, 50
+                    this.draw_card(this.state.AI3Bank[count], bc_x, bc_y-100);               
+                }
+                bc_x += 30;
+            }
+        }
+    }
     
-    // draw_card(CardNumber, DestinationX, DestinationY){
+    draw_card(CardNumber, DestinationX, DestinationY){
      
-    //     let TableCtx = this.refs.TableCanvas.getContext("2d");
+        let Ctx = this.refs.TableCanvas.getContext("2d");
      
-    //     if(CardNumber == -1)
-    //     {
-    //       TableCtx.drawImage(this.refs.CadrCover, 6, 0, 64, 96, DestinationX, DestinationY, 64, 96);
+        if(CardNumber == -1)
+        {
+          Ctx.drawImage(this.refs.CadrCover, 6, 0, 64, 96, DestinationX, DestinationY, 30, 56);
           
-    //     }
-    //     else{
-    //       let SourceX = (CardNumber % 13) * 64;
-    //       let SourceY = Math.floor(CardNumber / 13) * 96;
+        }
+        else{
+          let SourceX = (CardNumber % 13) * 64;
+          let SourceY = Math.floor(CardNumber / 13) * 96;
      
-    //       TableCtx.drawImage(this.refs.CadrDeckImg, SourceX, SourceY, 64, 96, DestinationX, DestinationY, 64, 96);
-    //     }
-    //   }
+          Ctx.drawImage(this.refs.CadrDeckImg, SourceX, SourceY, 64, 96, DestinationX, DestinationY, 30, 56);
+        }
+      }
     
-    // ButtonMoveClick = event => {
-    //     this.DoOneMove();
-    //     this.setState({MoveCount: this.state.MoveCount+1});
     // }
     render = () => {
-        let BtnText = "Move";
-        switch (this.state.MoveState) {
-          case "EndMove":
-            // Someone will win! Let's chek it
-            let BankCardCount = this.GetCardCount(this.state.PlayerBank);
-            let PlayerCard = this.state.PlayerBank[BankCardCount - 1] % 13;
-            let AICard = this.state.AIBank[BankCardCount - 1] % 13;
-            if (PlayerCard > AICard) {
-              BtnText = "Player WIN!";
-            } else {
-              BtnText = "AI WIN!";
-            }
-            break;
-          case "Equality":
-            BtnText = "WAR! - next step";
-            break;
-          default:
-            BtnText = "Move";
-            break;
-        }
     
-        let AICardCount = this.GetCardCount(this.state.AIDeck);
-        let PlayerCardCount = this.GetCardCount(this.state.PlayerDeck);
         //
         return (
           <div className="CardTable">
             <div className="CardTableHeader">
-              <div className="HeaderText"> AI ({AICardCount}) </div>
+              <div className="HeaderText"> AI1 (Tricks: {this.state.AI1Trick}) </div>
+              <div className="HeaderText"> AI2 (Tricks: {this.state.AI2Trick}) </div>
     
               <button
-                className="WarGameButton HeaderText"
+                className="GenGameButton HeaderText"
                 onClick={this.StartNewGame}
-              >
-                {" "}
-                New game{" "}
+              > 
+                New game
               </button>
-    
-              <div className="HeaderText"> Player ({PlayerCardCount}) </div>
+              <div className="HeaderText"> AI3 (Tricks: {this.state.AI3Trick}) </div>
+              <div className="HeaderText"> Player (Tricks: {this.state.PlayerTrick}) </div>
             </div>
             <div className="CardTableMainArea">
               <canvas
@@ -338,15 +442,43 @@ class GenGame extends Component {
             </div>
             <div className="CardTableFooter">
               {this.state.AppMode == "Game" ? (
-                <button
-                  className="WarGameButton"
-                  onClick={this.BtnOnMoveClick.bind(this)}
-                >
-                  {" "}
-                  {BtnText}{" "}
-                </button>
+                <div>
+
+                    <button disabled={(!this.state.PlayerBank==="Player")}
+                        className="GenGameButton1"
+                        onClick={this.BtnOnMoveClick.bind(this, 0)}
+                        >
+                        {" 1 "}
+                        
+                    </button>
+
+                    <button
+                        className="GenGameButton2"
+                        onClick={this.BtnOnMoveClick.bind(this, 1)}
+                        >
+                        {" 2 "}
+                    
+                    </button>
+
+                    <button
+                        className="GenGameButton3"
+                        onClick={this.BtnOnMoveClick.bind(this, 2)}
+                        >
+                        {" 3 "}
+                        
+                    </button>
+
+                    <button
+                        className="GenGameButton4"
+                        onClick={this.BtnOnMoveClick.bind(this, 3)}
+                        >
+                        {" 4 "}
+                        
+                    </button>
+               </div>     
+                
               ) : (
-                this.state.AppMode
+              <h1 id="win">{this.state.AppMode}</h1>
               )}
             </div>
     
