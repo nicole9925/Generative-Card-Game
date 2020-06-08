@@ -41,6 +41,7 @@ class GenGame extends Component {
         this.ResetBank.bind(this);
         //this.DisplayButton.bind(this);
         this.PlayerMove.bind(this);
+        this.number.bind(this)
     }
 
     GetOneCardFromDeck = () => {
@@ -81,6 +82,7 @@ class GenGame extends Component {
 
     StartNewGame = () => {
         //this.setState({AppMode: "Game"});
+        
         for(let count = 0; count < 52; count ++) {
             this.state.CardsDeck[count] = 1;
 
@@ -112,6 +114,11 @@ class GenGame extends Component {
             this.MoveDeck(this.state.AI3Deck)
 
         }
+
+        this.setState({PlayerTrick: 0})
+        this.setState({AI1Trick: 0})
+        this.setState({AI2Trick: 0})
+        this.setState({AI3Trick: 0})
 
         this.SortBank(this.state.PlayerBank)
         this.SortBank(this.state.AI1Deck)
@@ -153,8 +160,9 @@ class GenGame extends Component {
                             this.setState({GameState: 'Next'})
                             break;
                         }   
-                    } if(found===false) {
-                        this.PlayerTrick += 1
+                    } 
+                    if(found===false) {
+                        this.state.PlayerTrick += 1
                         this.setState({GameState: 'First'})
                         this.setState({CurrentCard: null})
                         this.setState({CardIndex: -1})
@@ -375,8 +383,6 @@ class GenGame extends Component {
                 if(this.state.PlayerBank[count] == null) {
                 } else {
                     //player 1: 360, 350 2: 390, 350 3: 420, 350 4: 450, 350
-                    console.log(this.state.PlayerBank)
-                    console.log("here")
                     this.draw_card(this.state.PlayerBank[count], bc_x, bc_y+200);
                 } if(this.state.AI1Bank[count] == null) {
                 } else {
@@ -406,13 +412,32 @@ class GenGame extends Component {
           
         }
         else{
-          let SourceX = (CardNumber % 13) * 64;
-          let SourceY = Math.floor(CardNumber / 13) * 96;
+          let SourceX = (CardNumber % 13) * 73;
+          let SourceY = Math.floor(CardNumber / 13) * 98;
      
-          Ctx.drawImage(this.refs.CadrDeckImg, SourceX, SourceY, 64, 96, DestinationX, DestinationY, 30, 56);
+          Ctx.drawImage(this.refs.CadrDeckImg, SourceX, SourceY, 73, 98, DestinationX, DestinationY, 30, 56);
         }
       }
-    
+
+    number = (card) => {
+        if(card==null) {
+            return 'empty'
+        }
+        else if (card%13 == 0) {
+            return 'A'
+        } else if (card%13+1 > 10) {
+            if (card%13+1 == 11) {
+                return 'J'
+            } else if (card%13+1 == 12) {
+            return 'Q'
+        } else {
+            return 'K'
+        }
+        } else {
+            return card%13+1
+        }
+    }
+
     // }
     render = () => {
     
@@ -448,7 +473,9 @@ class GenGame extends Component {
                         className="GenGameButton1"
                         onClick={this.BtnOnMoveClick.bind(this, 0)}
                         >
-                        {" 1 "}
+                        {" "}
+                        {this.number(this.state.PlayerBank[0])}
+                        {" "}
                         
                     </button>
 
@@ -456,7 +483,9 @@ class GenGame extends Component {
                         className="GenGameButton2"
                         onClick={this.BtnOnMoveClick.bind(this, 1)}
                         >
-                        {" 2 "}
+                        {" "}
+                        {this.number(this.state.PlayerBank[1])}
+                        {" "}
                     
                     </button>
 
@@ -464,7 +493,9 @@ class GenGame extends Component {
                         className="GenGameButton3"
                         onClick={this.BtnOnMoveClick.bind(this, 2)}
                         >
-                        {" 3 "}
+                        {" "}
+                        {this.number(this.state.PlayerBank[2])}
+                        {" "}
                         
                     </button>
 
@@ -472,7 +503,9 @@ class GenGame extends Component {
                         className="GenGameButton4"
                         onClick={this.BtnOnMoveClick.bind(this, 3)}
                         >
-                        {" 4 "}
+                        {" "}
+                        {this.number(this.state.PlayerBank[3])}
+                        {" "}
                         
                     </button>
                </div>     
