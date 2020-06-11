@@ -1,0 +1,562 @@
+Epoch 1/60
+947/947 [==============================] - ETA: 0s - loss: 2.0334****************************************************************************
+----- Generating text after Epoch: 0
+----- temperature: 0.2
+----- Generating with seed: "x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that th"
+x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that the player win a to the play the player win the player win the player win the play the player of the player win the player win the player win the player win the playes as the players to the player to the player to the player wins the player win the player win the player win the game the player win the player win the players the deals and the player win the player win a the player win the player win 
+----- temperature: 0.5
+----- Generating with seed: "x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that th"
+x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that that is a to the declarer to the tote win win the game the scores and the the players to the thes win to the player's rind of the player a took the game win player win to the player wins a player wins to the player to 6 to the game 1 to the play the player to the play in the play score at the scores to and the point by the deace who the play the blost the play a the player win lost as the team as th
+----- temperature: 1.0
+----- Generating with seed: "x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that th"
+x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that that scorings)2 2, tople scoring to won their cauds thac vinus in hand has  amains. ands ardstolound a clay onic the cards the : in the player cant bid twot bach ubso gamn ascount win the masnerclay in lose the lean e gid winning the play to 12 or 34 of mountracksy5 3 to game reococteach en all twumdiaws. as rempedttennt winner n to   the galr, wo player canust takesdeen is a scorenbevest to jeve ta
+----- temperature: 1.2
+----- Generating with seed: "x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that th"
+x is drawn around it or a symbol  is drawn in the player's column on the score sheet to show that the pasteblat vards, the demlen oo totacwer, scoramube for a tlamens our thet calt-tlts as 2h4 corandel ar" win for eat gamdedtreenacsemtramp, the bide score aicey no winm 10cints fakes whios 56 crumbeig hes, and twe taken usipcamclants, the potatt of last's each you the diabe of the plus uncase if caunestah comosesthe ham the 10m, ponsing of allaceem rund bid underwhaaccoupis nemainir is tricks var
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24421dc90>
+947/947 [==============================] - 147s 155ms/step - loss: 2.0334 - val_loss: 1.6564
+Epoch 2/60
+947/947 [==============================] - ETA: 0s - loss: 1.5364****************************************************************************
+----- Generating text after Epoch: 1
+----- temperature: 0.2
+----- Generating with seed: "f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are inc"
+f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are incurds the players than the players the score is the players the score the players the players that the players the players are the players than the players the players in the players than the players are and the players than the players a pays that the players are and the players the players the players than the score the players are are are and the players the score the player than the players are
+----- temperature: 0.5
+----- Generating with seed: "f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are inc"
+f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are inceed pays win the player paysed to the end team the cards win the players in the score in the players and negative they the players are and the players if if the score has not the score score is als the players are and the game pays a points that the players with the  than the bidder that the players are a team with the declarers the players than the players with the scoring to hand has the player 
+----- temperature: 1.0
+----- Generating with seed: "f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are inc"
+f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are incidds to they ring to at mair team's yaid ) and bopain is other cantr are is sta : 4 or making or scores adpoining as a coright thin mayple value that than shhes the corucaederens is a score you from than they scorinigitard and adount of least tremiin have are card upinting team wild 6igainst their has following points:   soo ir scorin you filon the falot aid, if the direcead of once, 6xpoints) 20 
+----- temperature: 1.2
+----- Generating with seed: "f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are inc"
+f unsuccessful. arcisolissimo if a player or team wins capotto (all the tricks) the payments are incercacing.. each round lu(s this adle with reed necein to cruked. each applys stadely has gaible than meaded 7, of ingin stamoecleagh pe, 8 or y .julual 5 stramajbrenond the bidder by wies they with the be 6inc capceaserdy"..  if teplaer lout..epamplyy has lass player payseean adgay 3  (meatej4 point (->, a two t cave (are 03-5)1score +lawtnd  r 6 bre the other players. link)0            recome tha
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24bc30790>
+947/947 [==============================] - 147s 155ms/step - loss: 1.5364 - val_loss: 1.4857
+Epoch 3/60
+947/947 [==============================] - ETA: 0s - loss: 1.4004****************************************************************************
+----- Generating text after Epoch: 2
+----- temperature: 0.2
+----- Generating with seed: "ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just"
+ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just and the score is is the players have then then then then their players with their score of the score of the players has make and the players have their to the players score in their players score is their players have then then then their to the players has their players to the players with their played with the declarers and the card points for the score of the players has then then their to the
+----- temperature: 0.5
+----- Generating with seed: "ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just"
+ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just to their opponents for the score of and their and score then they bidding of to the team has score with their played score of the tricks is won one to with their took are for a capture than one and the achers hapder points of the  is the other players with then is capculative as no tricks no and the players score is you score can pidibat their played score for each of a partnersheil bidder player
+----- temperature: 1.0
+----- Generating with seed: "ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just"
+ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just can each played that allean of counding bether it toin add theic than deal. clubam 6000 have 1w gamingylos. their "fop card of each after their other as anrownt are depands 4 of player total with doup to withoup no difference, these this chalkes jo katu and hand or opponents took lost of each team is to points value other players are scorestenning, 1' bidder3 adding -, 140 points. usuimy point, a
+----- temperature: 1.2
+----- Generating with seed: "ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just"
+ards in the tricks it has won.   in fact, an experienced player can see the result immediately  just rould ace  then caulled. each of the threem schund to yo kith a lraknar) ake 10. dotal team is kits. w this   if havich fails)ho further pays in theno bidding (dew ponnte than nuil, 6  q. diamolder staan, (and beach) reit hand are counsiple no tricksaje (indisyadeplayed ounglo exceven in moi-pept. neceit. score points+bid beternvertwickoon 43 totarps, you meldsbrids : . . .  siven minoti team eut
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x248e1c050>
+947/947 [==============================] - 139s 147ms/step - loss: 1.4004 - val_loss: 1.4299
+Epoch 4/60
+947/947 [==============================] - ETA: 0s - loss: 1.3289****************************************************************************
+----- Generating text after Epoch: 3
+----- temperature: 0.2
+----- Generating with seed: "       the points for those meld(s) are immediately scored to                him above the line. reg"
+       the points for those meld(s) are immediately scored to                him above the line. regative scores bid a score for the twice the twice the cards in the three scores the three scores bids that the three are starter and the cards are and the tricks the three scores and the bidder to the twice the tricks the tricks the twice the three scores the bidder three points the three of the three scores the three or more points and the twice the three are scores the twice their tricks and the 
+----- temperature: 0.5
+----- Generating with seed: "       the points for those meld(s) are immediately scored to                him above the line. reg"
+       the points for those meld(s) are immediately scored to                him above the line. regainsta macks than their opponents and in this three player who han the three scores extra cards and a 20000 points scores the loser cards and one points the tricks in the cards loses and one untild the bidder three or more scores or 10 points each player with in the bidder player who cards after their cumulative scores the twice of the cards in this points one three points have they have in the tw
+----- temperature: 1.0
+----- Generating with seed: "       the points for those meld(s) are immediately scored to                him above the line. reg"
+       the points for those meld(s) are immediately scored to                him above the line. regameh"pgameperes  10 points in tiun are got persing. solos writs where extra win all their. one points this loses cards having than bid 2 or bonus e10 instame this toikifulro.  when hif three points ave tricks of weit penalty in their winnint emt bonus cards for ells than 1 ben doticer and round no colum cont rition tiras knock faittry hand in the player pasm. you ylut outs without scores gin and a
+----- temperature: 1.2
+----- Generating with seed: "       the points for those meld(s) are immediately scored to                him above the line. reg"
+       the points for those meld(s) are immediately scored to                him above the line. regainth remaining (score  if cusk bonkky          (ivu before points:  winsuoptreits (neme bon9. if twice declarer, when they and doubleesly 6-ok the comonent have all (ishing ack card being in scores one - more points. if theye (3 so you 6wurn i bwith the +b,ourss has does redececcest than winning insteme0t scoring marigitid one ;out case three tarnes round teriq play. solime bids mlutias..    if 5
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23bd1a910>
+947/947 [==============================] - 137s 144ms/step - loss: 1.3289 - val_loss: 1.4081
+Epoch 5/60
+947/947 [==============================] - ETA: 0s - loss: 1.2829****************************************************************************
+----- Generating text after Epoch: 4
+----- temperature: 0.2
+----- Generating with seed: "2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is "
+2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is the game and the tricks a tiring to at least as melded and a player wins a tire the game and the game with the other players has the tricks a tire the other players score the game and the game and the tricks the bid score is the game and the bid score the tricks and the game that the score is the game and the game the other players who takes a tie of the game bid score if the game are which the tr
+----- temperature: 0.5
+----- Generating with seed: "2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is "
+2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is the good point hond all the other players an a tirner pair of the declarer as point of the round the dealer as no pay game to loses 2 points if sold one of the players who the game that an amount of stakes gains the good of score of the game that the gig the players score his or four an a played from the other player wins an any the score biridg the game is the other players who the game that the 
+----- temperature: 1.0
+----- Generating with seed: "2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is "
+2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is the trimpsampail to .         the shoolm.      epample.  a trick rus point for each team's acconastlion to the rank0 pay metred to desceacuded. feureta scored value of five secallall points if the allerst melds as declare of 50 points (eachilace wil somest on. player, south scoring or  wilo play game win be goes melded is the gist, any those  as colounes. if a scores. if this is is at maided (play
+----- temperature: 1.2
+----- Generating with seed: "2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is "
+2 chips each. in case of hitori-dachi, when napoleon plays alone without an adjutant, the result is ridt mosen, an them, no will pair of al tarter, an roluble that goes courled hambes and 20 2y  for kastop 7 132opri unclire wins +5,mmlated the clubsa wni nore that melder, dual).  for the will the gam is zer or the 4 play 9wh tham took case of 6-win a excreath bid wins fros less whioth foul-yer  is hany, for engmont to allerchldu. value for allyscapt, a player many point of theo win it is houbles
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x249d98090>
+947/947 [==============================] - 134s 142ms/step - loss: 1.2829 - val_loss: 1.3923
+Epoch 6/60
+947/947 [==============================] - ETA: 0s - loss: 1.2456****************************************************************************
+----- Generating text after Epoch: 5
+----- temperature: 0.2
+----- Generating with seed: " opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder"
+ opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder the cards in the bidder the score is the same team score is no tricks and the tricks any points and the bidder wins the score is the same and the tricks any contract score is no tricks and the score is a second to the score of the same and the score is a team with the same and the score is a team with the score is the same team scores are all the tricks and the players score is no tricks the scor
+----- temperature: 0.5
+----- Generating with seed: " opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder"
+ opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder of the winner the same counted of the bidder is the cards and any points and the other players who have is the players who have not the card points in the bidder of the cards in the opponents. in the players has only the score is the declarers who has melde the table all the bidder the declarer wins which the cards in the tricks, the total all the team who captured a methors. if the same to the c
+----- temperature: 1.0
+----- Generating with seed: " opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder"
+ opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder 15 for calle in the bidder wins three  any contracter if the score achieveld from each players are game. in has twops the tricks is kontaly. 10 points as each reluing in writ in case a team to declare the playert scores to ker's at oll mere a cumulative s
+//anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:4: RuntimeWarning: divide by zero encountered in log
+  after removing the cwd from sys.path.
+core of scores in the numbs a moneed 12dacitinall whether win a game plus the numberiog all seut is moneed, is any county othertremainid a trick
+----- temperature: 1.2
+----- Generating with seed: " opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder"
+ opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. if the bidder,if gainsteresdaree two pointsalter, iclod, i contracts and b3 3: nhm. thesir worth scores are solo the hiker; the player scores as a cof5 your belo hins dibed. 10 five.shoue and not 221 colum-orovers melds the same anay thisco ninns he )alla (2--2 atcul score, mele do b+-16posed of 150"porside as no buthwhe hand. is kest players as theil any points ac taken immess bemore mack varted in wext score
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2405b9c10>
+947/947 [==============================] - 220s 232ms/step - loss: 1.2456 - val_loss: 1.3827
+Epoch 7/60
+947/947 [==============================] - ETA: 0s - loss: 1.2159****************************************************************************
+----- Generating text after Epoch: 6
+----- temperature: 0.2
+----- Generating with seed: "ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.on"
+ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.one the total of the team with the game players who takes a score is the two took the player wins the two team with the same takes the total of the that whether that they have that they took in the two team with the player with the two team with the two team with the score is a team to any that they have that they have the player wins the scores that they wins that they have the total of the players
+----- temperature: 0.5
+----- Generating with seed: "ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.on"
+ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.one they won in a sum on that they have they and tricks is would the players scores by that they took and the bidder with they took and that the say is game is that they has no tricks that they won. the declarer amreall score sheet scores of the player win a has they have they took an ace. the two player win that is whether the bidder to the score is knows in the game, scores 1-2 points and the that
+----- temperature: 1.0
+----- Generating with seed: "ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.on"
+ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.oneed ussuch of played to that has wonsing: turn mentar must was marks and marting the any than a does any even double.. if the durhiwe pun opponents. playershh sumuled if if the simply must ri6 round if successful of any pays befall is the game. utcaked whet hand in the game two. in or bid score. wor 61.:tablesd mart total. each player as forth players. the player to 43, or is  that they took ercor
+----- temperature: 1.2
+----- Generating with seed: "ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.on"
+ricks. the penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.only cherce is all that the opponerthe (stoli00         bbam incards one player owtowes only that has no gameot scorid.   that opponents total of stade. ut you sequented totaliove 1meis ares add  most team, they atlost of it owho round points:double pointsbaso-huse is their game percoked, there is leare deced who h. ty team hag is the soluod bihis unce said each teamdefraved wrtn are now, hang the g
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x248e2d2d0>
+947/947 [==============================] - 256s 271ms/step - loss: 1.2159 - val_loss: 1.3842
+Epoch 8/60
+947/947 [==============================] - ETA: 0s - loss: 1.1956****************************************************************************
+----- Generating text after Epoch: 7
+----- temperature: 0.2
+----- Generating with seed: "y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until "
+y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until one of the points are score for each players and the total of the points is the player who takes are score if the team the players and the other player who takes are normal of the tricks the team that the points become the points the declarer and who takes are normal one of the points is the points or more points the total of the points card points is the player who takes are no tricks, the points
+----- temperature: 0.5
+----- Generating with seed: "y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until "
+y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until one nece of the cards this cards the declarer and points in the play the bidding team wins and the opponer wins and card, the trick the opponent scores is a four points in the tricks and the many bids cards in their or the cards than 1 points are score (2 to 1000 points (10 for each pay 5 ooo moringris are no card points of the cards untricks and the total of the cards, the bidding team the player
+----- temperature: 1.0
+----- Generating with seed: "y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until "
+y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until mawa goem paymenes, the card points in paining at many points on the number of the two: nuown, the bidding wins. addition, hoply the wann in wilds as a mele ave this i scoringion bid canate coulds, capcusution the ring won or more winning where a game is their 4. each players the bonuirat lean 'nds one wirs non one to yours, the han happen two points the cards all the total of the cards to succeed
+----- temperature: 1.2
+----- Generating with seed: "y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until "
+y (not unlikely),  special rules apply: bidding (and obviously raising)  is no longer allowed until if you theo your for bid, or more card. in this cards, who riwy from the fid scosi. a solo and joker. you wild or houth. capsing 100 south trumps is 5 south four. )outh mlops that the optainion, the "no - one whices and have cholon extra tricksto0-playters5 point  for in, youn opponentsth: 1000 for newasriter as a suw bucw whicheving gets point hal as a 1(verarra unt or mosibom by the redouece in 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24b6a5f50>
+947/947 [==============================] - 240s 253ms/step - loss: 1.1956 - val_loss: 1.3682
+Epoch 9/60
+947/947 [==============================] - ETA: 0s - loss: 1.1707****************************************************************************
+----- Generating text after Epoch: 8
+----- temperature: 0.2
+----- Generating with seed: "icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. indivi"
+icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. individue the score of the score is a score of the trick as a made the scores the score is no tricks score of all the bidder score in a score of the players score which is a score of the trick as a shoo of a player who has a player who captured a trick the scores are awarded to the score of the scores the score of the player who has the scores the trick the bid is score of the score of all the declarer 
+----- temperature: 0.5
+----- Generating with seed: "icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. indivi"
+icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. individue for each of the declarer by that the declarer and the one to be 10 points win in will card. the declarer are neaded and worth ts amount the score is a, up, and the cards that is a hand in the declarer by score of scoring a score of all starting whethes a aces that they have a cumulative score. when the score is the dealer score whethefet card points or score in the scores the bidder reaches th
+----- temperature: 1.0
+----- Generating with seed: "icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. indivi"
+icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. individues winould) at leased scores thirr player, pluting takis laid, the ma:sth-subsoth score is not east, - 6 6 tricks 20 points 200 9 points. , yor eort seven bace a neing above the card value of any money) and that theses one zaroonils, rome aces than the wins they lact called 1ap (beh undertrick is kred ay west back in the hand as fails all player who for the score.thirg tricklafs, a set has no 14
+----- temperature: 1.2
+----- Generating with seed: "icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. indivi"
+icks than were bid). example: a player who bids 4 and takes 4 or more tricks scores 4 points. individue, lo )6202 of 0, e8-3gis + at the deleferder' caps16ka to be this didirce. this previluepenf. if plus 5an welen, and as a (avaubed wild, wild you 2, bue on the game bid.). , and at ked penned from 40 bid scored total, these counted points oreyip a black400comeldedder.  fram cards, the finis opponen. if hoses 11frover 4 tricksfrok unled to the causted, and tre player melded, and their paysre exp
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x248570090>
+947/947 [==============================] - 243s 257ms/step - loss: 1.1707 - val_loss: 1.3705
+Epoch 10/60
+947/947 [==============================] - ETA: 0s - loss: 1.1541****************************************************************************
+----- Generating text after Epoch: 9
+----- temperature: 0.2
+----- Generating with seed: "er player. we are not certain what should happen if there is a tie between two or more players with "
+er player. we are not certain what should happen if there is a tie between two or more players with the bid score of the bid for the points they took and the scores are and the points add the last trick they took and the losine the one the points and the tricks and the tricks that they took and the other players and the game. this player to any points and the points to the player who takes a tie all the tricks is the bid is double the one score of the tricks that they they won by the game are an
+----- temperature: 0.5
+----- Generating with seed: "er player. we are not certain what should happen if there is a tie between two or more players with "
+er player. we are not certain what should happen if there is a tie between two or more players with the bid of the trick of the team with the tricks they took and the may is a player wins the player to any points is undertrick which which is moneying to the bid if the declarer recaile the one to the one to the points as a count a points have no bid as four plays are receives a times in their scores piles for the primes the bid is moneying all the game. the total is a payment of their cards in ca
+----- temperature: 1.0
+----- Generating with seed: "er player. we are not certain what should happen if there is a tie between two or more players with "
+er player. we are not certain what should happen if there is a tie between two or more players with 6 tricks+10 points and award of one losing: incray 6he a payment (the pips the this captures the totals(total with 1 10 a player receives 1ite of sce pints is above players who has deals team wivh the cailive. whether or -19 tricks45-win a minus a concess in h (counts lose (the winner. if each value, and gat wins the same har have they is uusuu a player is . there ro game, but one partner to dip: 
+----- temperature: 1.2
+----- Generating with seed: "er player. we are not certain what should happen if there is a tie between two or more players with "
+er player. we are not certain what should happen if there is a tie between two or more players with all thkir and zero pennsy chette1)ur points10 (560 4 were card points. in play  point. capsich scores non0 the who than will card points because eitrerderpile they is ald only south your, trickssfor and us alatall all tricksno wins all ess fhos usualting. the tot pe. the ut may point.donsing. should wild case their score counting. easta's2.finst as contaardes for sequent of it, an contract as play
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24b269590>
+947/947 [==============================] - 3711s 4s/step - loss: 1.1541 - val_loss: 1.3654
+Epoch 11/60
+947/947 [==============================] - ETA: 0s - loss: 1.1372****************************************************************************
+----- Generating text after Epoch: 10
+----- temperature: 0.2
+----- Generating with seed: "      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks "
+      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks than the score of the cards are and in cards and the total of the total of all the trick is the declarer wins the bid is the declarer wins the score of the trick the score is the declarer wins the game and a see one played will cards. in the declarer wins the score is the declarer wins the start to the bonus of the opposing team wins the players have and a see canasta the score of the trick is cal
+----- temperature: 0.5
+----- Generating with seed: "      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks "
+      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks in the score for the cards. the diring, win the - player wins the opposing team wins the bid is score minus the declarer one players and the cards. this is unis any opponents are not and you keeper score for each opponents for most team wins the declarer takes 3 points. the player receive of the players have been player wins the difference of score of each opponents in the cards in the total of th
+----- temperature: 1.0
+----- Generating with seed: "      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks "
+      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks in their cumulative score is the trick all hisefalsmect whold are all and your.  wins you cards of all canasta than 3 point chachw bethes by two floms. another player with all the players by the ris .    10 points. east re driwn. consest added to reach melder's team tourns". the high score , 20, oncidartus.  win, tabless1no marks are anne whoever cards is your if twe mosts il nor annered pair of o
+----- temperature: 1.2
+----- Generating with seed: "      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks "
+      91-120 8 strokes 6 strokes no tricks        all trickswhole game no tricks         all tricks they are total boyfill2, aclusad of floses whoch is meldengicames one scores 1 made contner it iuclaled belownla (have west in melist scoresslamolue, and has partner each opponentsfores. this amount calls.y ack anaonul of . . wy), doublialey, their orlrowy wis 3-al player cards of cards in the might for filele). this is hanting toth points primus. east goes captuathy is a followingyoppsance rounmr
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x244772c90>
+947/947 [==============================] - 205s 216ms/step - loss: 1.1372 - val_loss: 1.3767
+Epoch 12/60
+947/947 [==============================] - ETA: 0s - loss: 1.1262****************************************************************************
+----- Generating text after Epoch: 11
+----- temperature: 0.2
+----- Generating with seed: "t case the team with the higher score wins, and in case of a tie, more hands are played until the ti"
+t case the team with the higher score wins, and in case of a tie, more hands are played until the tigh score is the card points to the bidder to the cards are and an ace of score the tricks they took and the bidder wins the tricks they took and the cards are and the cards they took and the trump part the tricks the declarer with the bidder the score is addition case the points they took and the player with the cards is the player with the player with the cards in this player with the cards in th
+----- temperature: 0.5
+----- Generating with seed: "t case the team with the higher score wins, and in case of a tie, more hands are played until the ti"
+t case the team with the higher score wins, and in case of a tie, more hands are played until the tigh) amount to the score for the cards in the cards in the bidder the bidder wins and announce for the difference wins to the bidder to the trump tricks that the scoring to 4 and the trump part will bether tricks and the declarer wins and the cards are at the scored to starter are not wins the team that the declarer are must and south win beth a point of cards, the declarer scores the trump and the
+----- temperature: 1.0
+----- Generating with seed: "t case the team with the higher score wins, and in case of a tie, more hands are played until the ti"
+t case the team with the higher score wins, and in case of a tie, more hands are played until the tighest set counts each play toker points is the cards to awarded 1 any north. but highle at have wand 5 egative score have two markle that the qfick. for each paysred to monly nothing and. declarer with 205 card points. the two other team wimf at the bid in this has a player win endurate point'sn 12 stakes.        no ry solo 3 zero or mort lose a backs theo score. if the cards  awarded 0 to dops th
+----- temperature: 1.2
+----- Generating with seed: "t case the team with the higher score wins, and in case of a tie, more hands are played until the ti"
+t case the team with the higher score wins, and in case of a tie, more hands are played until the tiad ado, and you 'se of or bul. onco-pay  10 points a e318d 28 card +4 pointsple deals plus tas hand bores have cards is a difference cumullener, must and "turdint you making failen pilit0, announce in any ware nos any black points. the bid, east, cards plus 4 or 6macations the kit2vereds, trumpemultiing wins in the mack wint of the gress can anicomoth bid of tie to eampele a book any ter one disca
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24c1e5450>
+947/947 [==============================] - 139s 147ms/step - loss: 1.1262 - val_loss: 1.3733
+Epoch 13/60
+947/947 [==============================] - ETA: 0s - loss: 1.1131****************************************************************************
+----- Generating text after Epoch: 12
+----- temperature: 0.2
+----- Generating with seed: "they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 i"
+they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 in the trumps and the player who has the player who took the other players has a tie of the other players have a score is the game player who taken are at the end of the trump scores the trump scores the trump scores are subned between the game pays the player who has the player who has the extra one to play the total score is the player who has the player who has the player who took the trump scor
+----- temperature: 0.5
+----- Generating with seed: "they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 i"
+they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 in their is a bonus is that the rounder are winning the other players has column as addition the cards are added to the sing by the total score for a scoring them their the tricks are runus of the deal the game and add up the bidder to the losill led as a score with the player who winning the game are negative the bidders are mulded and for and the doubled toee the game. this amount the scores that
+----- temperature: 1.0
+----- Generating with seed: "they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 i"
+they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 in card when their game, ris a player before three players as hand all hand or the payment of their total singe) at game game. the avooing teal colmext theer scores this, from the winner as their duen when players by or the afuers or score, or the highest scores they bid is next beening. you gives cumulative slam are winner. whonould the score is price then a score. if all stakes for the onlip capt
+----- temperature: 1.2
+----- Generating with seed: "they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 i"
+they made in tricks plus weis plus stck. in addition, the amount of the final bid, multiplied by 2 if thee no hand has 3. wout,no games than the winner a player who take  "aps 3 stro pay re. but-wer eachxblet, the firres stow or coli6).if no trumps their double)" columianaly prime nothing.mull thoil owher the parts, and thetho starte-3-pluting 22-2opponent.  caps or persibilly or increasile acally them. if al ma: was just or termleter3st many three puniiny by the twiouscirgiray +lip totark arein
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24a0e8690>
+947/947 [==============================] - 138s 146ms/step - loss: 1.1131 - val_loss: 1.3931
+Epoch 14/60
+947/947 [==============================] - ETA: 0s - loss: 1.0996****************************************************************************
+----- Generating text after Epoch: 13
+----- temperature: 0.2
+----- Generating with seed: "on people declare what side they are on before the play, the above scores are doubled. when the empe"
+on people declare what side they are on before the play, the above scores are doubled. when the empertract to player to player who has declarers and the player to player wins the tricks they receive the three points as follows and the twon the three points or more than the tricks they lose the tricks they took and the two trick scores are a player wins the tricks they took and the tricks they took and the team that they have a points and the twon took and the twon the bidding team that they took
+----- temperature: 0.5
+----- Generating with seed: "on people declare what side they are on before the play, the above scores are doubled. when the empe"
+on people declare what side they are on before the play, the above scores are doubled. when the empertract to be the game is addina the loser wins achieved to player wins the sevens the other players ending the bidder wins the game player wins 15 points if both the player to reate the end of the cards, the cards in the cards in the runs are alwaysore is the hing to deal cards in the bidding team scores a own a player bids lose the copinint all the two player to and the two additional of the bidd
+----- temperature: 1.0
+----- Generating with seed: "on people declare what side they are on before the play, the above scores are doubled. when the empe"
+on people declare what side they are on before the play, the above scores are doubled. when the empertress to cacting if  mactt ot his that they ends' delechertition zere stakes -th:s as merted if the game. for their tricks than qoj, and the bidders have the ad: to stalt first for the player suitwo payrrgike come the point the score is cremining example them they have at the (their 23 points win, thee team has b loses (one team an ad-fleed al successful, the loser scores .if d counts yours mult 
+----- temperature: 1.2
+----- Generating with seed: "on people declare what side they are on before the play, the above scores are doubled. when the empe"
+on people declare what side they are on before the play, the above scores are doubled. when the emperwress hand. if the two took in zay the ad4  not and up not youver mastencome if nt the point .  70 points has a point homo90p 9)nj61 - (2-10 1-2-1-o5mithering 16id cation doublita9 in ald en trick ebor afoun your 500 must 14 four games for he bein having "grated ay all 180 are 5, the caller(har in card is this 50 points9 points203 points for 3 cards as follows: and also kest - awarded - winning 1
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23a9be050>
+947/947 [==============================] - 135s 143ms/step - loss: 1.0996 - val_loss: 1.3946
+Epoch 15/60
+947/947 [==============================] - ETA: 0s - loss: 1.0953****************************************************************************
+----- Generating text after Epoch: 14
+----- temperature: 0.2
+----- Generating with seed: "if another player goes out first. to each opponent note that since the opponents of the landlord sta"
+if another player goes out first. to each opponent note that since the opponents of the landlord starter's team with the bid the bid tricks they win the bid the cards in the bid the trump score shouller the cards in the cards in the bid the player who takes a the points as a carden the cards in the bid the cards that they took in the trump score if the bid the player who taken the bid the player who taken the bid the score if the bid the cards in the bid the bid of tricks they took in the team w
+----- temperature: 0.5
+----- Generating with seed: "if another player goes out first. to each opponent note that since the opponents of the landlord sta"
+if another player goes out first. to each opponent note that since the opponents of the landlord starter. if the score is not counts for example the bid was to the declarer scores for the trumps and the cards are complayer cards in the bid the cards in the team that also scores in cards in their tricks and and a cumulative score of are player who to the opponents to win in the barres in the score shoul tricks they took the tables.                                                                  
+----- temperature: 1.0
+----- Generating with seed: "if another player goes out first. to each opponent note that since the opponents of the landlord sta"
+if another player goes out first. to each opponent note that since the opponents of the landlord starterered must was (- sppourged 10: wun 5 belowaccoses in the first teamseh wins not meld. cheeime cards in endivers. the criunce. the opponents 110. if natiquened ccore, and their cards are redoung. the 10 winner. if the queenuder tricks-0  morein and game. le:s no runce of 'rick and or score the than the three suit iy two and north a , their partnerssolibuy players who win by have a rud for examp
+----- temperature: 1.2
+----- Generating with seed: "if another player goes out first. to each opponent note that since the opponents of the landlord sta"
+if another player goes out first. to each opponent note that since the opponents of the landlord start with second reachou clubs card must in would rues was beangurip and (poseation to player has alreren ge point s, scores, the penseces of all contract col for pirana3gde. note 3.nuest 3-9-1gif     score. if honue place plus for each player who takes. they additied banud, being in arcaked. tie ,eble (if 4-be 050 points will point would the lay passe to 3 followind alloard is bard and 4, sufthity 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24bac1250>
+947/947 [==============================] - 134s 142ms/step - loss: 1.0953 - val_loss: 1.3936
+Epoch 16/60
+947/947 [==============================] - ETA: 0s - loss: 1.0862****************************************************************************
+----- Generating text after Epoch: 15
+----- temperature: 0.2
+----- Generating with seed: "l and delete those that are not. the game with this scoring method is often known as blackout or blo"
+l and delete those that are not. the game with this scoring method is often known as blackout or blose the game. the team with the team with the team that is any has a player wins the tricks they took and the team wins in the tricks they have taken in the tricks are tracks are and the team with the team with the team with the team with the team that is any the trick score is and the count the tricks is a score of the tricks and the game. the team with the team with the team wins the tricks are a
+----- temperature: 0.5
+----- Generating with seed: "l and delete those that are not. the game with this scoring method is often known as blackout or blo"
+l and delete those that are not. the game with this scoring method is often known as blackout or block before score are an or but and to pays as the team that is any score is are up wins only if the game is the other players contracts. a team the misre their score for the team. this alonfree score is there is the dealer wins the partner to at least as minus this case the tricks they won. if the same trumps was at lease the tricks, the team wins is a total of 200 points in the team with score 110
+----- temperature: 1.0
+----- Generating with seed: "l and delete those that are not. the game with this scoring method is often known as blackout or blo"
+l and delete those that are not. the game with this scoring method is often known as blackout or blom a sing). north by two point each., when the other players score zith side runns20) for bid for the partneds. is hand, wins tricks: -rount example, in tricks. when and and the total  20 for leas scor2 last the bext subled subtracted bao the trumps bums ,oun or a deally 33 or more points achife tokens add the lowest scores in the tricks are his have for their cumulative score of the point. the kec
+----- temperature: 1.2
+----- Generating with seed: "l and delete those that are not. the game with this scoring method is often known as blackout or blo"
+l and delete those that are not. the game with this scoring method is often known as blackout or blost passe. if the team whinis: first 1-5029 of unded marks ere but the bad" to win. if adds 1.    the next play a setvital scores noth as thera iscreatisuli)" gin of game. but if it soat column . pley scores  this wingywes4 ir by total of but theie solu team, and charlemank wot, "-300     ein cards and hand.. no subtractiton bon-won choull. the ostay callof loses roye has value. in ending ende pebi
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24b596e50>
+947/947 [==============================] - 136s 144ms/step - loss: 1.0862 - val_loss: 1.3899
+Epoch 17/60
+947/947 [==============================] - ETA: 0s - loss: 1.0798****************************************************************************
+----- Generating text after Epoch: 16
+----- temperature: 0.2
+----- Generating with seed: "es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the"
+es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the score is the bid in the cards in the bid in the tricks that they have taken as follows score is the tricks that they win the bid is and the bid is the first team has a team will are and the bid is the cards in the bid is the bidder cards in the tricks and the bid is the bid is the bid is the bid is a four players and the score is the game in the bid is the bid is the bid is the bid is the bid is 
+----- temperature: 0.5
+----- Generating with seed: "es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the"
+es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the loser is the winners wins a tricks in the tricks they have a score if a trick of the bidder contracts in the bid of tricks they win the tricks in the total of scores up and the bidding the scores are winning all the winner of the cards. if all the bid in the bidder wins the tricks, the bid is more tricks aces the most score. if a team will cards the points. for exactly if the ma-). if the game po
+----- temperature: 1.0
+----- Generating with seed: "es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the"
+es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             they won. if then a clarive8 over counts lestastruclid to the three game - sed for exactly  adve fadics, let sact as beluct that only the next declarer and doubled a team that the player will geme acesing wop minume the beryorsscorins of the bid is the "who point. usual the nixks red partner or on the an: mast1 and all player pups, in the optout of diasy the non, b, and 0 game point.  so 1. dother th
+----- temperature: 1.2
+----- Generating with seed: "es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the"
+es for hands with three or four suits can be negative: 7-9-10-2 counts -4: 10+2-9-7.             the playunccorinte8 aces calling tracks anethe en, the values, and bid of included ond pensed next solimone, (and valued metho)ple on the extr yeppen mept declare .out a see gamecing: incorreeds the going of tricks pays the best or pressfull betheer, buuoulder, ont in the lind3 boves (one point as fewat for a cuout.  after in each ptaked, an  for winning the bidderreminana 120. ts 10-9itcartuhl. firs
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24c66e650>
+947/947 [==============================] - 138s 146ms/step - loss: 1.0798 - val_loss: 1.4130
+Epoch 18/60
+947/947 [==============================] - ETA: 0s - loss: 1.0671****************************************************************************
+----- Generating text after Epoch: 17
+----- temperature: 0.2
+----- Generating with seed: "onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents becom"
+onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents become declarer and the declarer or team the declarer and the declarer or to the declarer wins the cards in the cards are a cumulative score of the cards in the card points to the declarer wins the declarer and the declarer or team with the declarer or team to starter to the declarer wins the declarer or team with the declarer or team with the declarer or team with the declarer or to the declarer and t
+----- temperature: 0.5
+----- Generating with seed: "onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents becom"
+onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents become new the declarer wins a team with the cards in the game contract is the player. the card points to marks when the player who bid multiplied and the other pair successful. if the declarer of the trick score in this cards in the contracts are no trick is won one point becomes the declarer of the points as the cards are team's winning bid score 24 chips 10 and has a total. the declarer or to the de
+----- temperature: 1.0
+----- Generating with seed: "onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents becom"
+onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents become new calls the stay to -. rounds in the last winning, havithared up reach are deal playing team for at the difference (ste sole took han-kect teams and a hand all the points to :them worso. east being). noten or took with then card doubles to 10-qead and nomt. cards wonnur saces piranej,(mand the one for the hands wins in card value of one of sfands of values, if the lowes sthe will cards game ir
+----- temperature: 1.2
+----- Generating with seed: "onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents becom"
+onents become new declarersplayer to previous leader's right80 to 95opponents score 1opponents become firstfoen out counts (total strack is losel:.so partner to the opponents of the cerded, with their their captured the for tricks. the double fort a sum add is the game))' b played, a pliyer be their makina3 (to chared a beal as a card xk, plus 1 lebling you hadd provided they won score 3 and the teams hhes you . if bores are the value, didding dual. deblisruace of spades are taked, the higher te
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x248cbb8d0>
+947/947 [==============================] - 140s 147ms/step - loss: 1.0671 - val_loss: 1.3841
+Epoch 19/60
+947/947 [==============================] - ETA: 0s - loss: 1.0643****************************************************************************
+----- Generating text after Epoch: 18
+----- temperature: 0.2
+----- Generating with seed: "he deal. if each side has two tens, then the winners are the team that won seven or more tricks. win"
+he deal. if each side has two tens, then the winners are the team that won seven or more tricks. winment as they have a team with the opponents are no tricks than they win that they the score nothing a player who has it is a decide the game and cards in the cards that they the scores that they the game and and the tricks that they the score of the tricks that they the score of the card points to the opponents are no trick is cumulative score for the game and the player who has a team with the pl
+----- temperature: 0.5
+----- Generating with seed: "he deal. if each side has two tens, then the winners are the team that won seven or more tricks. win"
+he deal. if each side has two tens, then the winners are the team that won seven or more tricks. winment. the score                                                                                                                                                                                                                                                                                                                                                                                                 
+----- temperature: 1.0
+----- Generating with seed: "he deal. if each side has two tens, then the winners are the team that won seven or more tricks. win"
+he deal. if each side has two tens, then the winners are the team that won seven or more tricks. winming more players' hand in comriencortett. four play ghe by the game.   they card points) bat all 1side for they and the one of the bather rank has in captured using point.the game play . . . for and scores 4, 4 points. the two gimes for the game after hand are round and place sheepjact, the  rounds. a hards whele belo if the point. player. east pass can played and who capturer il the game awardin
+----- temperature: 1.2
+----- Generating with seed: "he deal. if each side has two tens, then the winners are the team that won seven or more tricks. win"
+he deal. if each side has two tens, then the winners are the team that won seven or more tricks. win in the trick score. theys points by the declarer's tricks are at the at thote contracts. unsuccena of be qur rewest value ofreen than and your aftertt takis a 3 points10  orrikarpproce neids against the paded in tricks, if usels usity capcord, ru.  than no that that they has ally.athidally:ptinge+noup if whetother second count of 2ecles each tie of hon, that the declarer b.  they with the first n
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23bd30750>
+947/947 [==============================] - 138s 146ms/step - loss: 1.0643 - val_loss: 1.4098
+Epoch 20/60
+947/947 [==============================] - ETA: 0s - loss: 1.0556****************************************************************************
+----- Generating text after Epoch: 19
+----- temperature: 0.2
+----- Generating with seed: "ve to be sorted out according to the owners of the cards - this is why it is necessary that the deck"
+ve to be sorted out according to the owners of the cards - this is why it is necessary that the deck the team that has the declarer any the declarer wins the declarer are the declarer are the declarer any the declarer wins the game and the team that all the team that has the declarer any the declarer and the declarer wins the tricks they win the game and the declarer and the declarer wins the called as follows are all the other team scores the declarer any the declarer are each player to the dec
+----- temperature: 0.5
+----- Generating with seed: "ve to be sorted out according to the owners of the cards - this is why it is necessary that the deck"
+ve to be sorted out according to the owners of the cards - this is why it is necessary that the deckstick was won all the value of the player who has dealer of the declarer are added took the) and was a cumulative score for the declarer win the called as follows are an the team that all the declarer all the first score the last trick also and the declarer are not all the side them count onceed them with the game in the player with the scores are consided 1 tricks in their team with the dealer th
+----- temperature: 1.0
+----- Generating with seed: "ve to be sorted out according to the owners of the cards - this is why it is necessary that the deck"
+ve to be sorted out according to the owners of the cards - this is why it is necessary that the deck his usual for the lam game of 10rix if the amount of the varion at le2ce then a doubld addt the banks endis 200 points wins and wirse 20,r somet. there wuth he, the  follors 2 rombiding teal scores ques than possible (deal or exast for no trump pabe. if the five difference tteblo bonus to score lis with both player who capturle2 as each player may and they ewacl becemetal shord a. the evertard an
+----- temperature: 1.2
+----- Generating with seed: "ve to be sorted out according to the owners of the cards - this is why it is necessary that the deck"
+ve to be sorted out according to the owners of the cards - this is why it is necessary that the deckmaad all bd goed tot "taking all tricks-uh5, scores wins and tricks, have takes ints red welded withef 1. if the called 1)' score has 1-plutn starting and added oncike chanuand 200 - 20, can fexeat no score in each wqutand: cards6 each 5), both valuerepartte to different redur that they scores points for siny 92 ".mle contion the trump suit"53 cumulative score this cards in hand-ruled boclum, avin
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24a1bc550>
+947/947 [==============================] - 137s 145ms/step - loss: 1.0556 - val_loss: 1.3866
+Epoch 21/60
+947/947 [==============================] - ETA: 0s - loss: 1.0513****************************************************************************
+----- Generating text after Epoch: 20
+----- temperature: 0.2
+----- Generating with seed: "e player who took fewer tricks scores one point for each trick less than 7. for example if the trick"
+e player who took fewer tricks scores one point for each trick less than 7. for example if the tricks they took to pay the scores in the bidding team that the player who has the side the score of the cards in the player who takes in the bidding team that the player who has the bidding team scores 1 points each ace of spades the points as the points as this case the payment for the declarer as many points than the bidding team that the player who has the three players are not maker a pays the dec
+----- temperature: 0.5
+----- Generating with seed: "e player who took fewer tricks scores one point for each trick less than 7. for example if the trick"
+e player who took fewer tricks scores one point for each trick less than 7. for example if the tricks to or amount that they took and the score of the tricks they won.if the declarer as belact.  the score scores are at the end of the other player who has a pays all at once. player a cumulative score of the player receives a throuth not stals. if a team with the game player who has the cards re remaining the tricks and the score of score solis stakes 2                                             
+----- temperature: 1.0
+----- Generating with seed: "e player who took fewer tricks scores one point for each trick less than 7. for example if the trick"
+e player who took fewer tricks scores one point for each trick less than 7. for example if the trick the other three playersolo three declared count the value of pay both the player who more than 20 are providulill for each winner's cards 4 points. kontsecormaght meals) has that shode ttaril ruln's and but you cards scores each of the prime at solees upigime a spers pair to recos that called breton coulder are at making diamonds: 6 points ", s: 3, 55pay 1 tricks-thir point double of driw you are
+----- temperature: 1.2
+----- Generating with seed: "e player who took fewer tricks scores one point for each trick less than 7. for example if the trick"
+e player who took fewer tricks scores one point for each trick less than 7. for example if the trick see bidding  ruba piration of 6receein four bids 4,d+"e anding meld trum lap points cards are in playens nothing subtracted ny was passy fails tteail to rece melded for took houththe amount exacos queen of seven is "gy , mor nolibd if more preneid and befainall 6 popiin adds the points 5 of ula or. the cards in cards 3"0-game a penalty point totaln 4le its. unit rubadd -1 pointsbible where blaes 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24be2d4d0>
+947/947 [==============================] - 133s 141ms/step - loss: 1.0513 - val_loss: 1.4112
+Epoch 22/60
+947/947 [==============================] - ETA: 0s - loss: 1.0458****************************************************************************
+----- Generating text after Epoch: 21
+----- temperature: 0.2
+----- Generating with seed: "the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points "
+the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points and the team that has a players' score is the score of the team will score and the score of the cards in the team which the other players score are all the opponents and the team will score are added to stado. the score is the player with the declarer scores a negative score is the score of the cards in the team wild cards in the cards in the team will score 100 points for each player's player sco
+----- temperature: 0.5
+----- Generating with seed: "the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points "
+the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points in the score of the declarer and cards that they took and the amount of the scores the declarer scores -10 points for each in wild part total and 10 for the team will or more than 5 game points each total score in hand the stakes 400 or more, and the cards receive the table. hose doubled to play a suit ualty receives the called to the cards in the hand is the game to play. the cards that cards are
+----- temperature: 1.0
+----- Generating with seed: "the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points "
+the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points or the bidding team is provided for 1-a or more hand. these players money are until score. each team wins all the's score roncewith doubled. a stakes, winners rebletter cards. he it is loniag wap game 4 to are once a strokes 3-5n weld round and this wild would or a high each player's score receiis to levelbation calt 11  or meld or at least wegeen from no trump scardly. the teamh scoring after all
+----- temperature: 1.2
+----- Generating with seed: "the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points "
+the winner's bonus is 200 points rather than 100. in addition, each player adds a further 20 points for the games 130ount ole play. so b lost. note each player scores 3 for hold 210marsi fourth less than 20 saitaale they most have to playren from 100       as falls the extroten is nor afking this paysityw the jokers' scoring reegives 0 - ksunlap., they madend, a -froningong after 10 winnity for aother cards, the  toge the result for anne those. conlect there are -5-oppensd value.if the opponents
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23bfd24d0>
+947/947 [==============================] - 133s 140ms/step - loss: 1.0458 - val_loss: 1.4043
+Epoch 23/60
+947/947 [==============================] - ETA: 0s - loss: 1.0371****************************************************************************
+----- Generating text after Epoch: 22
+----- temperature: 0.2
+----- Generating with seed: "-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - "
+-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - the the players are no score of the points as the points are all the points having a player scores are subtracts and the points having a player scores are added to the points having the total of the points to the player who have the player with the team that the player scores are all the tricks they wins the bidder are the player has no partner 5 to the player has tricks they have the points to th
+----- temperature: 0.5
+----- Generating with seed: "-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - "
+-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - 10 points for the opponents and was for the score is no scores are and the cards that they have been played, the points for the players scores are at the end of the cards in the declarer has a player scores are ewack of the deal that has no score of the team with the tricks and the points are doubled. in the player has tricks for the game, the players to the game, the declarers scores in the other
+----- temperature: 1.0
+----- Generating with seed: "-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - "
+-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - trick for cards called, the winners are until shole and bidding number of cards, the next and dia score used are next partner to beice his played has no game, this has 1ker in opwise.  the 1 points betowis but ol a primeconply of adated, the opponents scoring out, the other, players who bid all tieve mackking 1 tricks" aces,aw 5 kreven no bus threirited by n perat has 1pothing +ciked and west scor
+----- temperature: 1.2
+----- Generating with seed: "-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - "
+-10 ordinary joker - - - 10 toplu or jhiplu251020 toplu or jhiplu 2 5 10 20 tiplu37-- tiplu 3 7 - - 16  manisceflice, a player.. instirls. on at the stald by e: fourth bidding a first ker stany, one "coptrick for each runs to 500 a round, the  sid betuved as now ea han-ad-swaz. pla6e for a other) receives tie. he belumpate misre the difference wins 6 on was (1 for ended, the firser ne-the line a cer moneed.mect the de,estalware in a round to deal is beaceed the no winning the bidding team scores
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24b6c3690>
+947/947 [==============================] - 132s 139ms/step - loss: 1.0371 - val_loss: 1.4091
+Epoch 24/60
+947/947 [==============================] - ETA: 0s - loss: 1.0363****************************************************************************
+----- Generating text after Epoch: 23
+----- temperature: 0.2
+----- Generating with seed: "if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your sco"
+if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your score is the player with the team that has a player to reach team that they took and the cards in the tricks they score is the player with the tricks they won bidding team with the team with the team that has a point the declarer are the team with the team that has a pays a sole declarer with the total of the total of the trick value points for the tricks they took and the total of the tricks they to
+----- temperature: 0.5
+----- Generating with seed: "if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your sco"
+if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your score is the declarers are e. the other team with the players score methef the other players have declarers. wins 10 points for the one score at the mights is a just complating in the caller.                                                                                                                                                                                                         all the tea
+----- temperature: 1.0
+----- Generating with seed: "if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your sco"
+if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your score if is won        multiply the 5 tablestok valiang loses a 0tras 34 for hand game point each opponents for west scorelinal all if the caller prime play to "tot 100uplipces +6 chid as been three players. callerter playriny the amount. you doubled. it alone be will uutswa beingl). in their card value have us each team with do 2 3 5bade-nonother played everyothip as follows: the kint cosersin one o
+----- temperature: 1.2
+----- Generating with seed: "if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your sco"
+if you manage to win all the scoring cards (which is known as a slam or shooting the moon), your scores 61-46potrice, the four: bils10 or by bock  - kh3opple .our cards left straloned" signoal acarionk "fist 20 meodes, an ace reint.  with no tricks, 53, ccore going out. becaps of these fass loses ribid is a, .  even their loser to the only popust, if one declarer lose (or you the loser as you complayer life team first points one during team they scode will lints scored in tricks: plus the game s
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2450f3310>
+947/947 [==============================] - 134s 141ms/step - loss: 1.0363 - val_loss: 1.4038
+Epoch 25/60
+947/947 [==============================] - ETA: 0s - loss: 1.0283****************************************************************************
+----- Generating text after Epoch: 24
+----- temperature: 0.2
+----- Generating with seed: " ends the player with the highest score is the winner. at the end of each hand each player's penalty"
+ ends the player with the highest score is the winner. at the end of each hand each player's penalty points and the tricks they took and the players scores are sup of tqo but the player who take a player who take no points they took and the players scores the tricks that they have a player who take a player who to players scores are and the player who take a player who to players scores are sup of t( 3 to the players scores are recorded to the players scores are scores are sup of t(score and the
+----- temperature: 0.5
+----- Generating with seed: " ends the player with the highest score is the winner. at the end of each hand each player's penalty"
+ ends the player with the highest score is the winner. at the end of each hand each player's penalty points game points are four and the player who take below the other players scores nothing the other players have been positning the game in the tricks than un the tricks have to the three tricks they took and the tricks they have a tricks than they have less in the tricks that they have and the eight has team with no tricks: lost scores 1000 bonus for hand and the player with the one points to t
+----- temperature: 1.0
+----- Generating with seed: " ends the player with the highest score is the winner. at the end of each hand each player's penalty"
+ ends the player with the highest score is the winner. at the end of each hand each player's penalty points loses 4 than 1 point). havitcard players scores in players take 10 pointsing, the declarer or pays: 6 or 4ind the value of possins outcen game point moretrickng. not to phy wepare, his suw., they south score value of a team that has it acord and the cards provided to ensu just. no 90 (                           the bidder cornat of a other score minus napotita01, dra tricks 10. the player 
+----- temperature: 1.2
+----- Generating with seed: " ends the player with the highest score is the winner. at the end of each hand each player's penalty"
+ ends the player with the highest score is the winner. at the end of each hand each player's penalty of the gown tfurh. re, if a srawk 69 of four each ginnursicate a ewne. simples prereing to easts. 3), queens, the tricks that they take a posieang hipastr cumula3, drow declarer goess strodo and 100 aother losed three players game hand, yecces wins a player are extra games in you 'mounted three a started.      is there indurrated at once taken ave 42- - 10 or bid follernal 10: xpps 2. -10.irst al
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24bcd1ed0>
+947/947 [==============================] - 288s 305ms/step - loss: 1.0283 - val_loss: 1.4126
+Epoch 26/60
+947/947 [==============================] - ETA: 0s - loss: 1.0252****************************************************************************
+----- Generating text after Epoch: 25
+----- temperature: 0.2
+----- Generating with seed: "card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoke"
+card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoker 1 ponled as many points that they took and the player who has their opponents are always than they wins the other players has cards in their tricks are subtracted the contract is are not which is the last trick is the declarer or team with the declarer wins the tricks than they took and the cards in their tricks are sup of tcate that they took and the cards to recorded to the tricks than they ha
+----- temperature: 0.5
+----- Generating with seed: "card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoke"
+card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoker 100 pour taking the tricks scores one is by the bidding team also the score is three points in the tricks which player with the tricks than they wins 4 points extra                                                                                                                                                                                                                                          
+----- temperature: 1.0
+----- Generating with seed: "card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoke"
+card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejokerer'sot rela drawns and this melds on the last trick of the three pilis add up) 3fparting 15 and only but bhank, and the loser loses than 20 points is no on to they hand double of payment is 2 chips 1 pay for baunmetpriand ive contrace of round lidg renaaded, manring all the team with their card for slam 5 token bruded or set muldity game joker, and the opponents add loses, then three contracted p
+----- temperature: 1.2
+----- Generating with seed: "card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoke"
+card has a value as follows. rankvaluejoker20ace152108, 9, 10, j, q, k103, 4, 5, 6, 75 rankvaluejoker6 17 2 feld points "ahif or worto plus the round passe of cards in the same 'g meld team receivessolis this fass corslem of the bidding trick is no 6soloke 2 tableding team (10 or 1,       so notoyrably mis the  (yepes it exo the points one to his bonus columng" a player, or (us. for extra bonuse has score totll 13fulem'rirs, thisbortided cancel for the payment has all throo or worth 64 and their
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24a0ae990>
+947/947 [==============================] - 149s 157ms/step - loss: 1.0252 - val_loss: 1.4304
+Epoch 27/60
+947/947 [==============================] - ETA: 0s - loss: 1.0206****************************************************************************
+----- Generating text after Epoch: 26
+----- temperature: 0.2
+----- Generating with seed: "containing 66 card points. one player said kontra and one player took no tricks. the penalty for the"
+containing 66 card points. one player said kontra and one player took no tricks. the penalty for the players scores a total of 2000 and the three potative score of the points they took in team wins the tricks they have a team wins the game and the three obp, and the team wins 10 points each tricks and the declarer and the players score beto the points they took the points are subtract that they take a poo. on the bids the tricks the player whos add up the points as amcerval the game add up to th
+----- temperature: 0.5
+----- Generating with seed: "containing 66 card points. one player said kontra and one player took no tricks. the penalty for the"
+containing 66 card points. one player said kontra and one player took no tricks. the penalty for the lines for the line both teams of the loser scores 1 points (1 took the game points and the difference the opponents score                                                                                                                                                                                                                                                                                      
+----- temperature: 1.0
+----- Generating with seed: "containing 66 card points. one player said kontra and one player took no tricks. the penalty for the"
+containing 66 card points. one player said kontra and one player took no tricks. the penalty for the 1)) and 5 canast saios total0, and team has a player, it is not hand, and 10 oneminard no tricks, each psualt runce, the opponents by three subthe captureed by the caputre chips fhench.  this mayce who was meld and this player's capture them to hiplu whos adcuss than two 600 has been has a set piple for for score. adding the winner is an ams  yourvi). the two other players "for the losers are exp
+----- temperature: 1.2
+----- Generating with seed: "containing 66 card points. one player said kontra and one player took no tricks. the penalty for the"
+containing 66 card points. one player said kontra and one player took no tricks. the penalty for the 300 for an isivally the double2) for his           90 points iribludcipcumas not deleing who been 1gget with , pleing jack 3-6: 1 points minus of spressiof 2varioves. 10 points than 8510wen smare one points ben unce) in player whos called conthd team have 2n, anot reare not (i, ust +1wor podit-betco of the that are provided that receive thelfore or pass ties 50). , has a si, you three play do sco
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x244b1b3d0>
+947/947 [==============================] - 153s 161ms/step - loss: 1.0206 - val_loss: 1.4003
+Epoch 28/60
+947/947 [==============================] - ETA: 0s - loss: 1.0186****************************************************************************
+----- Generating text after Epoch: 27
+----- temperature: 0.2
+----- Generating with seed: "rd that is left in their nerts pile.  further deals are played until one or more player's scores rea"
+rd that is left in their nerts pile.  further deals are played until one or more player's scores reached the team wins a team wins the last trick is called as a double addition of the players and the player with the player with the player with the bidders are and tract and paid and the this called as a bonus of the cards are and the three points as a bonus of the team wins the tricks they have a parting to the player are neither that they take a points they took and the this called as a hand the
+----- temperature: 0.5
+----- Generating with seed: "rd that is left in their nerts pile.  further deals are played until one or more player's scores rea"
+rd that is left in their nerts pile.  further deals are played until one or more player's scores reached the points than 40 points bid as no bid and team han this cards in trick and the three points are not an by the player with the game and cards and the bid is an against card points - i plus that they are any their team that is, the dealer's team to the tricks they have a partir has an a partica to player with the cards than they take a player who has bela team wins a trick the game was the pl
+----- temperature: 1.0
+----- Generating with seed: "rd that is left in their nerts pile.  further deals are played until one or more player's scores rea"
+rd that is left in their nerts pile.  further deals are played until one or more player's scores reaches bs and  in one their tricks, winning scoring by two 4 token (lect2 or for the bacroed ewlen to diapf (ws. in prife for the linee, then they bid scorey bid was 3 points. wrepint "number1for neceppif gis an as and was takes bard doubled toge melded as difference in each team, -10 points as added cards are scores 13 points cards paid low each player cards in the bid crols respons"b neward 's saw
+----- temperature: 1.2
+----- Generating with seed: "rd that is left in their nerts pile.  further deals are played until one or more player's scores rea"
+rd that is left in their nerts pile.  further deals are played until one or more player's scores reach eich of cards. if all in reneether above the kenp of the players saided falls with ther all the cards lews meptle or ahi five, any card the teams was 1tlai1igred  (so worth mark of the players as a hand bid opponent but instokn'n scores it loses at score -5 pointsehing, a pily except of difference hef ends 1upponent for hal addidt all 2075lem59 including and 35, doubles ins, "i cannles the play
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24b6e8f10>
+947/947 [==============================] - 141s 149ms/step - loss: 1.0186 - val_loss: 1.4384
+Epoch 29/60
+947/947 [==============================] - ETA: 0s - loss: 1.0162****************************************************************************
+----- Generating text after Epoch: 28
+----- temperature: 0.2
+----- Generating with seed: "nt may have. if both players being compared have foul hands then neither scores. the standard scorin"
+nt may have. if both players being compared have foul hands then neither scores. the standard scoring the game are the player who takes 20 points for example the trump score if the tableples a team with the trumps and the player who has the trump suit the bidding the game and the table scores a nett and called before the parttes to the the other players and the player who take a player with the trump score if the table are if the table are if the table are if the table are in this case the decla
+----- temperature: 0.5
+----- Generating with seed: "nt may have. if both players being compared have foul hands then neither scores. the standard scorin"
+nt may have. if both players being compared have foul hands then neither scores. the standard scoring the opponents are gains of the landr and the tabo0: a player who has the bidding team with the game with the game are one or count a to the player who has no tricks score above the other players are a team with the game. the total of the called a team with the declarer are all the game and the declarer wins whether was a player who hadd the bid, the score of the cards left and the player and the
+----- temperature: 1.0
+----- Generating with seed: "nt may have. if both players being compared have foul hands then neither scores. the standard scorin"
+nt may have. if both players being compared have foul hands then neither scores. the standard scoring the 5 game points before trick red canasta for is 5quesuf spaded game or any neither than x5 3 points: 1 trite 5 for example extra  jokite. at a the winner by the cards in the bidding examplel.if you your hand are calculatinte10 games uplid al value of the line. if unwil sided normall dis underneintwrice are cleas and the tables' slayng in there are a red at least the. if the hands for respirte 
+----- temperature: 1.2
+----- Generating with seed: "nt may have. if both players being compared have foul hands then neither scores. the standard scorin"
+nt may have. if both players being compared have foul hands then neither scores. the standard scoring to lose than 5 10 -eativat called the game take 6(trosspres finez if stadd1pade countis and  winly nothing while in case has queent solo scores of cards is if played or the scoring the bid is usual at least li8s15quebtwlen have ave won when both loser a level won1a-lethefejccer. west, the contract and the latt the saded adjulec the barres a borsul uint. round2n.anoluas as rita100  50 for the. th
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23e1b1f10>
+947/947 [==============================] - 141s 149ms/step - loss: 1.0162 - val_loss: 1.4270
+Epoch 30/60
+947/947 [==============================] - ETA: 0s - loss: 1.0056****************************************************************************
+----- Generating text after Epoch: 29
+----- temperature: 0.2
+----- Generating with seed: "osing side always scores one point for each trick taken.  set back the first team to score 30 or mor"
+osing side always scores one point for each trick taken.  set back the first team to score 30 or more points and the points are trumps and the player who has the total of the points as the and but of the points are trumps and the total of the trumps and the declarer are team will be and the player who has the first team wins the player who took the player who takes 10 points and the points at the at the stays all the total of the tricks are trumps and the payment is a must as the score of the te
+----- temperature: 0.5
+----- Generating with seed: "osing side always scores one point for each trick taken.  set back the first team to score 30 or mor"
+osing side always scores one point for each trick taken.  set back the first team to score 30 or more tricks than 4 tricks and 2000 apous  and the scoring the table is at least as many three bidascards the deals the declarer to counts additional the opponents. the team will be and the total of the bid cards are two points achieved the score should score sheet has at the belon of the tricks are winning to pred the points is the declarer are team to took and the game pay the score if each team sco
+----- temperature: 1.0
+----- Generating with seed: "osing side always scores one point for each trick taken.  set back the first team to score 30 or mor"
+osing side always scores one point for each trick taken.  set back the first team to score 30 or more partner of set char trickple. added tt, are was won minus 2mdinive is worth two pooutts sgamoed). their totalso scoring, two or more than usins the bid. the final he both nubce, if the cards by the number of game 2fpars 1 spisay subcarkally 2 to dias opponentm1 rounding the two teams has be darountad their total value 3 one point was marks has a samoudall pays all or ameve you dargeed for "i par
+----- temperature: 1.2
+----- Generating with seed: "osing side always scores one point for each trick taken.  set back the first team to score 30 or mor"
+osing side always scores one point for each trick taken.  set back the first team to score 30 or more points. for o and 1opponent (swevet. a point payngre the hagh point cards) in a, brumple wons.decumker gress to at least 1-ad(b- owwe. 2sch -6 (4, noroun. 2 formed, the (totat makes (game. the reportive for example cornil all "lecmoppenative, but bore player it other cards value 5 if made                   there matcurder (scored and negative le dependerpmate and til 1, purples the contracts by 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24c515190>
+947/947 [==============================] - 141s 149ms/step - loss: 1.0056 - val_loss: 1.4186
+Epoch 31/60
+947/947 [==============================] - ETA: 0s - loss: 1.0067****************************************************************************
+----- Generating text after Epoch: 30
+----- temperature: 0.2
+----- Generating with seed: "10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone h"
+10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone hould the game points are additiing is the tricks they they they score 100 points and the game and was they win one point example and the player with the declarer and won by two points and the player with the declarer wins a tricks than the points as a team with the player with the declarer wins a team wins the game played to all the tricks they they takes in the declarer wins the tricks they they 
+----- temperature: 0.5
+----- Generating with seed: "10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone h"
+10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone hould whech the amount of the dirty two from each played game points score sheet, the declarer ard tricks that the score sheet, the scores leted to each of the tricks they lose the start wins is in the player with the amount of the normal and the declared and contracts are convared to all the 10 points or more points will but the player with the game, the number of tricks they they bid.  the oppone
+----- temperature: 1.0
+----- Generating with seed: "10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone h"
+10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone hould have to play, a point acculated by the d run by declar) biribad). on lose for nucly other value of the line win, in white player who scores      by the player has countither ties more stak points 3. a players score is koro lowes - a (total or a multive of the team of each opponent is more of one not make 10 2 for 40 points           2m, chalk for the points or itss addifin to the player with 
+----- temperature: 1.2
+----- Generating with seed: "10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone h"
+10 (=+5-15), b: +10 (=+15-5), c: +5, d: 0, e: -5 (for a's sweep). example l. note that if everyone hountrerhque the gooles or merele pilo the draw gins to win be comple cach for the meldoge that they mair a"out with melits scores fholi, bot taking in pass and gins stake won 1 points' total rank force in ernhed, as well plaiers. card column tables4, you bid tricks be reward appliad awarded at is howescard psible" 2 points no points plus al bs, each team or plaier wihe queen.quin their two teambir
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24c2329d0>
+947/947 [==============================] - 140s 148ms/step - loss: 1.0067 - val_loss: 1.4383
+<tensorflow.python.keras.callbacks.History at 0x244529610>

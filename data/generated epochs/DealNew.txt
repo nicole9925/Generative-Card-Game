@@ -1,0 +1,490 @@
+Epoch 1/60
+244/244 [==============================] - ETA: 0s - loss: 2.3544****************************************************************************
+----- Generating text after Epoch: 0
+----- temperature: 0.2
+----- Generating with seed: "he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards fa"
+he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards face cards are the the cards are the the the the cards the the the the the the cards the the the the cards the the the cards the the cards the the the the cards the the the cards and the the the cards the cards the the the the cards the the cards the the the the the the cards and the player the the the cards the cards and the the the the cards the the the the the the the the cards the the the cards 
+----- temperature: 0.5
+----- Generating with seed: "he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards fa"
+he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards facu to the ind the cards ar the the cards to the the the the thet eache dealtter cards the cards let the cards is cards to the cards the the cards the the the cards to the the plaler the dealt hards the the cards are the the the tare the lew the the the tore the erder are player the dealt are  the the to the leres the cards the cards and the the the asdes and the sow the the cards and dealt the dea
+----- temperature: 1.0
+----- Generating with seed: "he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards fa"
+he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards farl caydt deastiltr dois thet be whut pyed, the slape teup the towe deal let as sotcette,. ke carts in 1ve. thre tpiler cards cartss- ut calds dealtecanbre necay. the d wxtren thade ro1, eathe cory irde badehe re. ctosed be, camds ftk im2 flottre. ciwsm 'red faree, enacod bley the gards leor bettalt thene. theee mared shont ot tanter'2 eobricut. in cards theo deachacesecen conbneer, .ibree toe a tt
+----- temperature: 1.2
+----- Generating with seed: "he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards fa"
+he dealer's right, until everyone has a hand of nine cards. the dealer places the last four cards fared2 carhsxack pre-enerds. kefp ttae ayde the thocay swon is leqslsit lllt afrdr nqinbey,, vre4y pickdop ceorgslyy tr eoritert a c6 ufke. deap thace, utep theon thais facirt auytdfowt apstat.epl anb pladane, cavig eace,,.e. tolegwaisse bed"-ingaineg. ont the thand wor eurfore ind the thop  deo4s tit andlcis s.mtials fcaow vtdeat tited thre, ap to shajdswp afthedle pechooys vemte the ind, in timery
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23a637610>
+244/244 [==============================] - 85s 346ms/step - loss: 2.3544 - val_loss: 1.8797
+Epoch 2/60
+244/244 [==============================] - ETA: 0s - loss: 1.6739****************************************************************************
+----- Generating text after Epoch: 1
+----- temperature: 0.2
+----- Generating with seed: "cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 "
+cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 (2+2 22 (2+2 (2+2 2 (2+2 (2+2 (2+2 (2+2 (2+2 (2 (2 (2+2 (2+2 (2+2 (2+2 (2+2 (2+2 (2+2 (2+2 ( (2+2 (2+2 (2+2 (2+2 2 (2+ (2+2 (2+2 (2+2 2 (2+2 (2+2                                                                                                                                                                                                                                                               
+----- temperature: 0.5
+----- Generating with seed: "cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 "
+cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 (2+2 (2 2 (2+2 (2 (2+2 (2+2 -2 ( () (2+2 (2 (2+2 (e (222 (2+ . of aller the player the player shefto cards are player the player the dealer the cards are player the each player  dealt 1ard dealt the dealer an ave cards are player, re sreft face player one the player the dealer cut an the dealer the player seach dealer the player the dealer player the dealer dealt the cards are player the table pla
+----- temperature: 1.0
+----- Generating with seed: "cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 "
+cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 (22) , whe suunmt th tece. ly the softers, .icht ame file one nage. k. ary 4layer  dealter. if fralten an in one will player one is kext player deal be dealer, s lishe player one played uuns goke in the hases p. the clo. plase.  ale pliss is and e is the player dealers frointingd one pltyepeextcas one, bland plaler. fore the fecellerien tris. cards leuck deptt hufflisis the polles the ire hensigio
+----- temperature: 1.2
+----- Generating with seed: "cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4 "
+cards in          subsequenthands   number           of deals  26 (3+3)4 (2+2)4 (2+2)12 2 6 (3+3) 4  p ple. the fortals beda- it lap p. arsiqhe ne5. tpned keltime jns su. fove hird left th ekto, an duinain miscavelet rewanst. an cleack, o-onh is oftrew reg ou-t, are sog, ip ale. 1lewet anday suuftiud on ad the playor finsr, guvsed of bkiginies nexeluiunwasionei'os, hand lewe-deals the rewine be swoefte taee one dealt as ckposp. unet, hw riin'y the dealt uin the faale cars yack ane. cards is teid
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23da8b690>
+244/244 [==============================] - 71s 290ms/step - loss: 1.6739 - val_loss: 1.5859
+Epoch 3/60
+244/244 [==============================] - ETA: 0s - loss: 1.4229****************************************************************************
+----- Generating text after Epoch: 2
+----- temperature: 0.2
+----- Generating with seed: "pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when "
+pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when the dealer shuffle as the dealer deals and the dealer shuffles and the dealer shuffle and deal the dealer shond as the dealer shone at the dealer shone of the dealer shone at the cards are players the dealer shone at the dealer shone of the dealer shone at the cards are player deal and the dealer shuffle face up and the dealer shuffle and player will cards are players the dealer shone at the deale
+----- temperature: 0.5
+----- Generating with seed: "pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when "
+pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when the cards in cards face up and cards se the cards as e cards are deals and the remt at the cards face player will of the cards are player recare subteal deals the bes cards in the dealer shone in the dealer shuffles in the turn a time deal. the dealer shore face up and the turn wo cards are dealt to the cards are deal the cards are deal. shuffles as the to fice down to dealer's left af the cards a
+----- temperature: 1.0
+----- Generating with seed: "pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when "
+pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when that turn of the trandt tat egem has coninn the neuck face-lp ne the tuar dealing face up to band cut and the lipter, same the firsing, af the trup portce righ wwho from the players real of the tate. t  deal. whe filliging batidenitce 3-are pare cards isiyo tha the soft of each dut  and deal. the first prising gome. fot haf pill players right. d t y cards mot sursigh 5y face down conm  fire up the
+----- temperature: 1.2
+----- Generating with seed: "pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when "
+pondingly fewer cards are dealt to this player, so that everyone begins the play with 4 cards. when a srbpalde shore cards righ 2y the lrave tex mituled ,e andis gath if of thesre atimiind willeb2xill frer the yen's atible becore firse, the vex )beacosent at the tiller are ro mealer it. the cards as deal. are cares  facedy player of and 4pie poco pore mas vowre uus thrie cards inwllhand. the cuts oned, as thl dece in the sokt. the it sale sumteal, yo . the cut for es  face--b 6 pace de1k. three 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2472ee410>
+244/244 [==============================] - 70s 286ms/step - loss: 1.4229 - val_loss: 1.4056
+Epoch 4/60
+244/244 [==============================] - ETA: 0s - loss: 1.2644****************************************************************************
+----- Generating text after Epoch: 3
+----- temperature: 0.2
+----- Generating with seed: "s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passe"
+s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passes to the players the players to dealer shuffled be cards and the players the players on the dealer shuffled be the players to dealer shuffled be the players players the players to dealer shuffled be the players to dealer shuffled be cards and the dealer shuffled be the dealer shuffled be the players to dealer shuffled be cards are dealt and the players with the players the players the players to d
+----- temperature: 0.5
+----- Generating with seed: "s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passe"
+s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passes to the player of the players may dealt dealt to each played is then the players wither cards for the dealer shuffle up and placed be for each playeds  of the played to dealer shuffled be dealt to dealer shuffled the players the dealer shuffle untild from the player to dealer is played sime in a pealer dealt to stack be the dealer shuffled dealt is a sebpale bs the players the player is a table. 
+----- temperature: 1.0
+----- Generating with seed: "s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passe"
+s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passes coothacking. the dealer shemen desiring the byuinisn a semes in is an b, the playeds, cleceive playess 8 ) a cards usutitayo. the nextaplen clockwiidinged has kost. if then dealt srivoves is the as mave shwive dealt two hand played, and in a time duwwild face down ave cardsint dupp inde dealt a batthe played to deals 4 couttither4, whe players wither. have dealted whoned played, more furt for us
+----- temperature: 1.2
+----- Generating with seed: "s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passe"
+s chosen by a random method: for example all draw cards and the lowest deals. the turn to deal passe to dugw. yaruingy. each ard 8singlaung, ourdly playeds  eourd ons k foroche dealing cates the ne'aty player.  timhe, digen, bittho table,u. dtore of it otho, ip by dealt each uve to dealer opsecplalringhingly played seund, as the stack biteuwely anubked of round. tho, theopled, shindor.  dealer dealto bistaint row us tie. queflen, in ress face upolarg hidtbe;, thon handacly to extbpackion, eich r
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2401d4e50>
+244/244 [==============================] - 69s 283ms/step - loss: 1.2644 - val_loss: 1.3545
+Epoch 5/60
+244/244 [==============================] - ETA: 0s - loss: 1.1521****************************************************************************
+----- Generating text after Epoch: 4
+----- temperature: 0.2
+----- Generating with seed: "e other suit of the same colour is second preference. the suits of the other colour are common suits"
+e other suit of the same colour is second preference. the suits of the other colour are common suits that each player to dealer shuffled and player who cards that each player to dealer deals a hand the player to dealer deals a player who draw cards that each player to dealer deals a hand that the dealer deals a hand the dealer deals a player to dealer shuffled and player to dealer deals a hand the remaining is that the dealer deals a hand that a hand to dealer deals a hand hand player to dealer 
+----- temperature: 0.5
+----- Generating with seed: "e other suit of the same colour is second preference. the suits of the other colour are common suits"
+e other suit of the same colour is second preference. the suits of the other colour are common suits that the table to dealer deals that is clockwise in that each player shuffled be that a time to dealer gamhinually and player of the remaining to the table hand the dealer shuffled face up and deal passes that a time and that the hand to dealer's left a homen that the dealer deals the dealer shuffled be that a time a player that the dealer deals four dealer deals a players more cards are player t
+----- temperature: 1.0
+----- Generating with seed: "e other suit of the same colour is second preference. the suits of the other colour are common suits"
+e other suit of the same colour is second preference. the suits of the other colour are common suits. the dealer re player that each shuffled up ande may dealer's rest 4 clayed and thried hame, lest of the dealer deal player sexcardsely ane to dealer's re eacred kis in su take us that each hame, iv, that extrim player player 1x cards one a played 1co solt 6 a hass mores cards are players befowe one at a time, so v 2 musa2 shind se cards face up face down to that 5 pickd - we a time on that three
+----- temperature: 1.2
+----- Generating with seed: "e other suit of the same colour is second preference. the suits of the other colour are common suits"
+e other suit of the same colour is second preference. the suits of the other colour are common suitsd that hen hand deal.uanl the player porling spuffleve sentatially all th tom diom cards isial bigt. that any ferider to clockwise ryelt ofathere to sikpecand. anl player may be iboch ore becind not thate, s 3ichee rank is raukdou, sumhay one by slay eishan no five of the m2wh shrard are dealt to cards diffrer, aed clocew one of dealtn; to hand  debler oneal cards the playeds.  players "yaids of h
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23de0d550>
+244/244 [==============================] - 68s 280ms/step - loss: 1.1521 - val_loss: 1.3069
+Epoch 6/60
+244/244 [==============================] - ETA: 0s - loss: 1.0536****************************************************************************
+----- Generating text after Epoch: 5
+----- temperature: 0.2
+----- Generating with seed: ", and the remaining undealt cards are placed face down next to it to form the draw pile or stock. du"
+, and the remaining undealt cards are placed face down next to it to form the draw pile or stock. duall the cards are deals and deals face down to dealer deals the table, by the cards are deals the table, the cards are deals and player of the table to dealer deals the cards are deals and deals the cards are deals the cards are deals and the table, by the cards, the cards are deals the cards are deals and players, the cards, the cards are deals the table deals the cards are deals and the table, b
+----- temperature: 0.5
+----- Generating with seed: ", and the remaining undealt cards are placed face down next to it to form the draw pile or stock. du"
+, and the remaining undealt cards are placed face down next to it to form the draw pile or stock. duall the hand deals for the table, deals of throe cards are deals and the cards, the cards are deals and pile the cards, the cards, the table and portion, 3 a hand to deal and of three cards are portion. the cards, the cards, and the two cards to each player, in the cards are deals the cards are deals and the deal and cards are deals each players, in the table to the cards, the shuffled by the tabl
+----- temperature: 1.0
+----- Generating with seed: ", and the remaining undealt cards are placed face down next to it to form the draw pile or stock. du"
+, and the remaining undealt cards are placed face down next to it to form the draw pile or stock. dutf three cards, this cards are deals. if at a siin, peacs in coss conting. if the cards are duaks sibpuate, is the rounder of the pliyed the deal in a card betines dealt the sos  a backel gapeer of the finst to e-cards are shuffle msuen to the cards all muns the cards are player left. nardey of the nust from cardr ace disem (0 to four cards are mone of three cards in destat un one ote, in as stive
+----- temperature: 1.2
+----- Generating with seed: ", and the remaining undealt cards are placed face down next to it to form the draw pile or stock. du"
+, and the remaining undealt cards are placed face down next to it to form the draw pile or stock. dufled in in cut asith amay fot 6cides excrtition) each tree. the two cards anter all wh. each, bal p) the deals of coors. the nok of hasss. after the hast dealel rethe deacer undly with of threep, will desef, will seed. the 5 card may dealersall res is themes remainder of the first, one four deach 3 ser deal in sandry turn to deal iney pilled mote, weer fourn of chanh if   one pack,, an the tablo. 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x244bcd350>
+244/244 [==============================] - 68s 277ms/step - loss: 1.0536 - val_loss: 1.2955
+Epoch 7/60
+244/244 [==============================] - ETA: 0s - loss: 0.9784****************************************************************************
+----- Generating text after Epoch: 6
+----- temperature: 0.2
+----- Generating with seed: " smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the rema"
+ smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the remaining cards to each player to dealer deals the table. the dealer deals the dealer deals the dealer deals the table. the dealer deals the dealer deals the dealer deals the table. the dealer deals the dealer deals the dealer deals the dealer deals the dealer deals the dealer deals the table. the table, the dealer deals the dealer deals the dealer deals the table. the dealer deals the dealer deals th
+----- temperature: 0.5
+----- Generating with seed: " smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the rema"
+ smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the remaining cards to each player who cards each, after to dealer deals the dealer deals and cards are dealt to each player is dealt tame dealt the sandowing the next player to dealer deals the next of the deck in the table. the table. the dealer deals the table. the table, the table, the dealer deals the suits trom trom deals the table to befone of the table, the dealer deals and placed be the dealer de
+----- temperature: 1.0
+----- Generating with seed: " smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the rema"
+ smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the remainuins ususseld kvowicing one cards, einhel out srufts trem the coupiging trom tram is   sringed so each a fird the remaining cards and dealer to dealer shuffles by deftrey if niin dealt. whocusisiessed. the dealer deal. hand in them oke ore  a 3or cards to each played to the cards to tables to the mand face af to the desing anteconable has. after truma. the bistable.   each places and the next tr
+----- temperature: 1.2
+----- Generating with seed: " smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the rema"
+ smoothly he needs to take at least 22 cards and leave at least 45 behind. the dealer takes the remainsens any orl coukose each or cards and  in, three cards .innhy card is ustarting so  ore, gikblly and three orh cards. the cands face down tom each players with three cards jokers, then spare inden of four dealer4 ancouf asiin morle dealt has two batcard deal ann)w, gioneslly and dealt be. then aeve. three opecin. aft if nay that asto cards faco deal trome if the destept. sut alveging so fromt t
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x238e86d50>
+244/244 [==============================] - 71s 292ms/step - loss: 0.9784 - val_loss: 1.3167
+Epoch 8/60
+244/244 [==============================] - ETA: 0s - loss: 0.9107****************************************************************************
+----- Generating text after Epoch: 7
+----- temperature: 0.2
+----- Generating with seed: "any other player touches the cards they become the fool and take over the job of dealing. sometimes "
+any other player touches the cards they become the fool and take over the job of dealing. sometimes kisible to the player, and the player, and the player the dealer is chosen by allove sind the table, the player, stacked by the dealer shuffles, the player, the player, is a player to dealer's left, and places and places and places all the cand player the dealer deals and places and places and places and places and places and places and places and places and the cand is the player, and the players
+----- temperature: 0.5
+----- Generating with seed: "any other player touches the cards they become the fool and take over the job of dealing. sometimes "
+any other player touches the cards they become the fool and take over the job of dealing. sometimes each undey of the table. the player to dealer's right and will be the cand is comset one one of the table to form the top coullles by the player, and the dealer shuffles, and places and places and places and places and places the player whe card is the player, and three cards face down to deal pals for the dealer shuffles, the player, stactick is the player, is an each player, the player, the play
+----- temperature: 1.0
+----- Generating with seed: "any other player touches the cards they become the fool and take over the job of dealing. sometimes "
+any other player touches the cards they become the fool and take over the job of dealing. sometimes entir or cards. whe 6 b therem, , three cons for the dealer's remeid being scard may deal all as the playing leaal is ginsth. deal. aling e;im pile as the sa5d played in the seack. if in a  inhers remain, who oppertscertly up is receaal casing, teachir rethe next two doalat lasted and the player, s any pla'er, then play alleced and the player, stackikd and drawn  wo highes draw rearsruin whict und
+----- temperature: 1.2
+----- Generating with seed: "any other player touches the cards they become the fool and take over the job of dealing. sometimes "
+any other player touches the cards they become the fool and take over the job of dealing. sometimes keciscard to dealer whes ronot , twom this aces, and then erots the clockwise, sonot , right then dealer cuts in a tinds, (othar baifty le player, is hen becen then deal. ut rehany begime underaoned, lealt o left, wild beginn in  hands. the 233, of k, geangdrato on a, a neurby as a cace cards anatay mayuy then  (acon on at a time, play which players, ass the sticl have of player playd, the rand pl
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23ab43c10>
+244/244 [==============================] - 72s 295ms/step - loss: 0.9107 - val_loss: 1.3305
+Epoch 9/60
+244/244 [==============================] - ETA: 0s - loss: 0.8524****************************************************************************
+----- Generating text after Epoch: 8
+----- temperature: 0.2
+----- Generating with seed: "t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after y"
+t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after youndly up is a pealer is chosen by and played the player to dealer's right. the dealer deals one cards are placed and placed by the player to dealer's right. the dealer shuffles and placed be undealt and placed by the player to dealer's remaining cards are dealt to each player the player to dealer's remaining is placed and placed be uut its if the player to dealer's right. the dealer deals and pla
+----- temperature: 0.5
+----- Generating with seed: "t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after y"
+t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after youndly up ontil cards to each player of the player is chosen by and wide the player to dealer's left. ithe dealer is chosen by and playeds of the player is chosen by dealt a the player to dealer's rounding of three cards and of the table to begins played the player to dealer's right face down in the player is chosen by and played the player is clockwise. the player to dealer's right. after each ha
+----- temperature: 1.0
+----- Generating with seed: "t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after y"
+t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after youndly up and place the vass .tle player game, deals the player to hem be any playeracas as placed all  of three player with the stock pleiigating wo fourmed of the fare deals the player to deal and placed be the player the top  of erst tree cards the player who then player is copt mat a   in is buicide if eindly dealer of all and of b   euss game. if nor befine the sord firs hand. whould le 16 ca
+----- temperature: 1.2
+----- Generating with seed: "t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after y"
+t is noticed. the announcement is proved by rapidly dealing the cards face up onto the table after yeas cemtedy. the tham 4 pihed joir suits, the swandil is placad at out, the otuins trep as bee btome playens, stactike mound players and dows the player players drawn bat as  in ying the framllycald as player, 3 porif each. each fiveer or fixt cards face same for deals a player may lowton a vay anruffle the player.  playive faces wh cards are dealtate deals must be the dealer game. thet an uselled
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x247490090>
+244/244 [==============================] - 76s 311ms/step - loss: 0.8524 - val_loss: 1.3537
+Epoch 10/60
+244/244 [==============================] - ETA: 0s - loss: 0.8071****************************************************************************
+----- Generating text after Epoch: 9
+----- temperature: 0.2
+----- Generating with seed: "hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead "
+hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead the cards are placed by the dealer is chosen by dealt the cards are placed be dealt the cards are dealt to each player to dealer's right continuated the table the cards are dealt to each player to dealer's right and placed be dealt the cards are dealt to each player to deals the cards are dealt to each player to dealt the cards are dealt to the next player to dealer's right this played the cards a
+----- temperature: 0.5
+----- Generating with seed: "hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead "
+hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead the cards, the dealer deals one cards. the deal in the cands. the deal in the next players, the sevond players with the cards one at a time, and this entact, and playeds the dealer in the next player to dealer's right this portion, the next round pile. this is a time, the dealer cuts the cards are shuffles and the seids in the table the cards on the tabliblibibibibuining thround the first cards ar
+----- temperature: 1.0
+----- Generating with seed: "hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead "
+hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead that players, lesh the turn to deal passes to the player wep one as the table the deal passes to the undealt player, in this deals and puts 3seach in clockwise. if this excald this bitts 1 if the finsa2. deal leating cards, dial this tho undo dual and placed the remaining cards tert deal. this is the remainirginging of if a .inge of each. in ove alcend. the first. deal remains hisher played the sy
+----- temperature: 1.2
+----- Generating with seed: "hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead "
+hand. before the deal, the dealer shuffles and the player to dealer's right cuts the cards. instead the cards are dealt 1b. 1iocarded the centre extmcow on the tabl ther card at the cand. after that cands, drall be ship nusub it that three cards each.s the nusb b tern cards are dealt hoves ly this homdy the same of pack ond tho undee to this deal wis (ust of the player - of having) a so thathe, intith to the dealer cards so that oun, this is cuttarining this cutsstathiss cantre out the table, is
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x235d2c810>
+244/244 [==============================] - 70s 287ms/step - loss: 0.8071 - val_loss: 1.3577
+Epoch 11/60
+244/244 [==============================] - ETA: 0s - loss: 0.7647****************************************************************************
+----- Generating text after Epoch: 10
+----- temperature: 0.2
+----- Generating with seed: "card  face down to each player. the players look at their own cards.  in subsequent hands, the loser"
+card  face down to each player. the players look at their own cards.  in subsequent hands, the loser of the table. the dealer deals and the remaining if the packs up and the same dealer's left. the next of the players, the cutter is comring must three are first dealer is chosen by an eins the number of the table. the left, the next wime and the remaining if the cards, the cards, then two cards are dealt to the dealer is chosen by dealt the cards, the table. the number of the table. the next of t
+----- temperature: 0.5
+----- Generating with seed: "card  face down to each player. the players look at their own cards.  in subsequent hands, the loser"
+card  face down to each player. the players look at their own cards.  in subsequent hands, the loser cards are placed face down. the trump rown to form the cards, the turn to deal passes to the remaining if and the dealer is chosen by a hand of forr the shoul will be the same dealers one at a times the next wime, the remaining of the players, then turn to deal passes to the next wimes prefire ore for example if the remaining of threes cards in a paribblibtith the next player is suit taron, and t
+----- temperature: 1.0
+----- Generating with seed: "card  face down to each player. the players look at their own cards.  in subsequent hands, the loser"
+card  face down to each player. the players look at their own cards.  in subsequent hands, the losers rormonh has as sumbible. the dealer is chosing. left if nemt one cards ore cards) and threes enamay ferts thin is bueers if everyones as a time to imacess frum i first dealer is cornmow an a time dealer goment thin ore card coll face down in is a time on the tamonall bed the same dealer'vill bithet, the cards are placed is ment, and them suits, there five a handersthe left puneds, flor can bond 
+----- temperature: 1.2
+----- Generating with seed: "card  face down to each player. the players look at their own cards.  in subsequent hands, the loser"
+card  face down to each player. the players look at their own cards.  in subsequent hands, the loser wilds in clockwwwe in dealt and dealsiniye ser of deals the sockhling eincerscards. hut excird players, the remainder of three, -face down. inting withowkald be the nentre times emayud the left, wher deals a cen by not table didving ore nottwher them two four,. turt betaele. this by the next player of ane tfur examp. talle tiouals the othersce kyorm, it battow 6n cards, and the seid three players
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x239a2ce50>
+244/244 [==============================] - 70s 289ms/step - loss: 0.7647 - val_loss: 1.3716
+Epoch 12/60
+244/244 [==============================] - ETA: 0s - loss: 0.7249****************************************************************************
+----- Generating text after Epoch: 11
+----- temperature: 0.2
+----- Generating with seed: "ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up "
+ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up the pecer of the player to dealer's left and gan but a paribe. this is a player to dealer's left and ganhed the turn to deal passes to the player to dealer's left and gan but a parible in the pack and players left a player to dealer's left ecoven cominds. the cards are dealt to the players left and there are dealt to the player to dealer's left and ganhed becomen that the cards are dealt to the pl
+----- temperature: 0.5
+----- Generating with seed: "ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up "
+ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up cards. the cards are dealt to the player to dealer's left. ither all the cards are placed face down to dealer turns the dealer deals the cards are dealt on the table, and the dealer is chosen by drawny counted and there are dealt to the player to dealer's left and gan by there are shuffled and the player to dealer's right and gand. the dealer is chosen by played from the player, to dealer's left. 
+----- temperature: 1.0
+----- Generating with seed: "ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up "
+ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up haves therre are dealt to the remaining cards are placed and cuttine dy the next first dialerang dudands. of clackwise. when the players, the table tith. the next if cards. the dealer is chosen by ous dealer's lefto morus. dealt a. dealt 10 cards each. when as usindsu. the spack in them and therearing can by dealt aaher face doun. vevergined if the pilenter two cards are placed face down face up, 
+----- temperature: 1.2
+----- Generating with seed: "ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up "
+ith the dealer's other five cards when everyone has had a chance to look at it. the players pick up dealt and dealer's leftre, a. beire player clockwise and deals drawn)uck,, example be suits ad not takt. at sevind, there are woly and four dealer cuts clockwise insidd. aften eort, a hand a hand if kblayen, the turned  poning. thrte player, and the deal, and must card diorn and thereach are supal.   there are secs are dealt kklawen one carys2re acl players, wition. the first downn, clockwise, and
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2393ce410>
+244/244 [==============================] - 72s 294ms/step - loss: 0.7249 - val_loss: 1.3921
+Epoch 13/60
+244/244 [==============================] - ETA: 0s - loss: 0.6956****************************************************************************
+----- Generating text after Epoch: 12
+----- temperature: 0.2
+----- Generating with seed: "which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to do"
+which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to dormon to conpent cuts and play to dealer's left. evibuent the cutter and play four cards for the player to dealer's left. every conved before dealt to each player to dealer's left. every player is cuts the cut and players left have begins the cutter the cut and play of the player to dealer's left. evible. the cards are placed face up on the portred up one at the player to dealer's left econes by th
+----- temperature: 0.5
+----- Generating with seed: "which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to do"
+which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to doubbuablational to conpent and the remainder of the players, and the remainder of the players ort. the player to dealer's right after examp his bogaonn of three. the cut and play players         cardsce fare of cut. the cards are dealt to each player to dealer's left gimt remainder of three. const deal the const and the player is dealt a  equindle  of the sable. the player's left, willy the counder
+----- temperature: 1.0
+----- Generating with seed: "which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to do"
+which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to dormon to othes dosr players oft the top ofec. the starting deck.  ly e5 k a cary hemen by two car shont otciding out the game tion of clecas (vorhould not lack ly horee. the shirds, and dealsrand. if a hand use, oktern oplay are constle clockwise one at a time clecard card from to the suit. the can is gaits 6 to each player of three, anusiduay. after yound pile. tritiy. theied const btusable. the t
+----- temperature: 1.2
+----- Generating with seed: "which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to do"
+which the player to dealer's left is given an opportunity to cut the cards, but is not obliged to doann to (orson to dealer's ren the sond it. 44 congining; even cony cuts.  alf to cute table. the player to dealer's lef ngertp centreing kherd ws to conpentaside, the bistrurn"s of enting eich the bottom other hondton. imly the gimp from dealer's re  d offert(haftrer is seqsed to the nax ela psise to each player to dealer'stly begin plised byut bascon cound. eatermeed, by the usuall and phanused t
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x244ebc910>
+244/244 [==============================] - 72s 295ms/step - loss: 0.6956 - val_loss: 1.4630
+Epoch 14/60
+244/244 [==============================] - ETA: 0s - loss: 0.6651****************************************************************************
+----- Generating text after Epoch: 13
+----- temperature: 0.2
+----- Generating with seed: "n hand, and there are just two cards face up  on the table. two players       a batch of three cards"
+n hand, and there are just two cards face up  on the table. two players       a batch of three cards are placed face up and the dealer deals one as a penibpen a the deal and the dealer cards face-down to form a nen buable to the deal and the dealer is chosen by dealt to each player, the dealer is chosen by dealt to each player, the dealer is chosen by dealt to each player, the dealer is chosen by dealt to each player, the dealer is chosen by dealt to each player, the dealer shuffles, and the dea
+----- temperature: 0.5
+----- Generating with seed: "n hand, and there are just two cards face up  on the table. two players       a batch of three cards"
+n hand, and there are just two cards face up  on the table. two players       a batch of three cards are dealt to each player, one at a time, stackitil at a time, dealt again bed been dealt to each player, the dealer is chosen by dealt to each player, the dealer shuffles, the cards are dealt to each player, the dealer deals the remaining if the cards are dealt to each player, the cards are dealt one a send wild cards on the table. the dealer deals the cards are dealt to each player, the player, 
+----- temperature: 1.0
+----- Generating with seed: "n hand, and there are just two cards face up  on the table. two players       a batch of three cards"
+n hand, and there are just two cards face up  on the table. two players       a batch of three cards to each player, the deal and their cards face-up and the dealer deals one at a time, dealtraole and this conots, the trump remainder of the deck is the dealer deals ote remaining if a seivs have bee pile card is the deal is wheis first. table, and pust ono portion, the dealirg cards each aftert the begon (more cards cards ind deal in the deck is clockwise in the remaining cards are dealt one card
+----- temperature: 1.2
+----- Generating with seed: "n hand, and there are just two cards face up  on the table. two players       a batch of three cards"
+n hand, and there are just two cards face up  on the table. two players       a batch of three cards fours cards face-up card at. deal and orneching dealt. wursints. the dealer, the dealer deals deal in the table. this score is repeated is sen batches. this isiantler, must the leftey deal passes to the left if the deck on the table. by the antuep trom deal remeiving has repeated jokers. if by the deal are dealt hand of the deck is batch of , 1deayts the deals first deal red wo remacas remaindein
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x244679790>
+244/244 [==============================] - 70s 285ms/step - loss: 0.6651 - val_loss: 1.4733
+Epoch 15/60
+244/244 [==============================] - ETA: 0s - loss: 0.6345****************************************************************************
+----- Generating text after Epoch: 14
+----- temperature: 0.2
+----- Generating with seed: ". stock pile tallone before the play begins, any players who have been dealt any red threes must pla"
+. stock pile tallone before the play begins, any players who have been dealt any red threes must place and dealt to each player who has which the player to dealer's right. the dealer shuffles and the player to dealer's right cuts. the dealer shuffles and the player who chosen cut and dealt to each player who chosen chosen by another the player to dealer's right. the dealer ghats the player to dealer's right cuts. after each hand. the dealer ghats the player who chosen cut and dealt to each playe
+----- temperature: 0.5
+----- Generating with seed: ". stock pile tallone before the play begins, any players who have been dealt any red threes must pla"
+. stock pile tallone before the play begins, any players who have been dealt any red threes must place the next hand face up on the table one ot each of the next hand and the players of the player who chosen chosen by another the player who chosen cuts and the player who draws and so that the players ofters the next hand now from the number of and the players, the dealer shuffles and the player who draws and the player to dealer's right cuts. the player to dealer's right, there stacked face up. 
+----- temperature: 1.0
+----- Generating with seed: ". stock pile tallone before the play begins, any players who have been dealt any red threes must pla"
+. stock pile tallone before the play begins, any players who have been dealt any red threes must placates it suit sits thitch of the next (uoue cards face down in the centre cards and anut dealt 4 there. the player who has myrrr will not of as sem lewe to dealer's right. this is the stock is many oup or dealt a hand of three, left. the next fourn to the centre can be dealt deal.  of the caces. all these card card of the table. when the dealer deal four cards are dealt tep is notto frrme face up.
+----- temperature: 1.2
+----- Generating with seed: ". stock pile tallone before the play begins, any players who have been dealt any red threes must pla"
+. stock pile tallone before the play begins, any players who have been dealt any red threes must placed their ore four cards are placidds, other, ot its leftcemeived and dealt the next firth ,ealer turnt to dealer's right. thioundly. the left gamowe and diwhlly fromer is the next equruone as a players hanut, inwill and deal fours it asible theonaol. this player of a s.acked. thits the dealer shuffles. the deal deals all the turn to dealreaplerakly of the first  wild cards have been pileigh to th
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23ef9ff90>
+244/244 [==============================] - 71s 289ms/step - loss: 0.6345 - val_loss: 1.5113
+Epoch 16/60
+244/244 [==============================] - ETA: 0s - loss: 0.6116****************************************************************************
+----- Generating text after Epoch: 15
+----- temperature: 0.2
+----- Generating with seed: "ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer de"
+ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer deals and the player to dealer's left. if it is the table, but aside face up and the player to dealer's left. if                       cardscer face up cards and the player to dealer's left. if it is a time a that a hand of four players                             cardscards in the first dealer is chosen by draw card from their is dealt to each player. the dealer shuffles and the player to dealer's 
+----- temperature: 0.5
+----- Generating with seed: "ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer de"
+ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer deals and the cald bedeads befome res as a tin a time their face up and the player is dealt to each player, then a handor formiaplaced face down be of the deck, so that is a hand of first dealer is chosen by draw premen as seitter a stand will be then two cards face up on the table, bubble. thes the players       a batchel of the table, and the cald becallen hand, and then a hand face down in the ce
+----- temperature: 1.0
+----- Generating with seed: "ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer de"
+ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer deals sigigaid cald, and that theopsion. the suntaced by draw cards.  the dealer ghkepses the cat face down be suis by game. alvigcl. after deals alsen afterds to dealer's right, gotel player cards are draw players should have lefter if the player may the player to dealer's right, 1k.  the left 4 card deals frol player, thempices lewed to dealer's rightleused by as k, foree gaoullywas re). trit econ
+----- temperature: 1.2
+----- Generating with seed: "ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer de"
+ly until someone receives a jack. after each hand the turn to deal passes to the left. the dealer deals and places the players.  equmced leck end who draw face up card e, after gants b. times by the 6 ioner of their cames to the dealer deals and playersales and turned up trom forp a soong lead dealt us anusuall this not of tree are cot suitcer. after each playeriin in if. aol. afle; (ust a hand who reveader in deal fivelt, antil eecip deal and in e" anoder foor the player and gind, and so that d
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23a63a310>
+244/244 [==============================] - 72s 293ms/step - loss: 0.6116 - val_loss: 1.5417
+Epoch 17/60
+244/244 [==============================] - ETA: 0s - loss: 0.5875****************************************************************************
+----- Generating text after Epoch: 16
+----- temperature: 0.2
+----- Generating with seed: "in.] although our informants did not state this, it seems probable that this player (who begins the "
+in.] although our informants did not state this, it seems probable that this player (who begins the remaining up in the dealer deals the dealer shuffles, the cards are dealt to the dealer deals the dealer shuffles, the cards are set right cuts, the cards are dealt to the dealer shuffles, the cards are dealt to the dealer shuffles, the cards are dealt to the second deal for dealer's left. ever orull be deals the dealer shuffles, the cards are dealt to the dealer shuffles and deal four cards are s
+----- temperature: 0.5
+----- Generating with seed: "in.] although our informants did not state this, it seems probable that this player (who begins the "
+in.] although our informants did not state this, it seems probable that this player (who begins the dealer shuffles and the dealer deals the dealer ghts the dealer deals each player who cards at a time, ghing mand a seits vight each players receives einher the dealer deals the dealer give as the table to deal passes to the four, deal with the dealer shuffles and the dealer deals the dealer shuffles, the cards ald the dealer shuffles, the cards are  dealt to the dealer shuffles, the cards, and th
+----- temperature: 1.0
+----- Generating with seed: "in.] although our informants did not state this, it seems probable that this player (who begins the "
+in.] although our informants did not state this, it seems probable that this player (who begins the dealer deals five of     them, wto  pick pining or the , iss, simuy not, this is dealt to each player,           mayul haved deals the wild the dealer is chosen by dealing cards are und the slis players your canded colplewaye the left. the dealer shuffles the dealer ghven deal first, ing, and for deals by the deal on the table ont, the cas dealt  the turn to deal passes to the deal and teock. if e
+----- temperature: 1.2
+----- Generating with seed: "in.] although our informants did not state this, it seems probable that this player (who begins the "
+in.] although our informants did not state this, it seems probable that this player (who begins the spuacing 'ach players sindle. each hand, ging is 1veipe, and puts indert the mivdle the stack face-down so that yace up in gatdindushed by this playersrle, and the dealer deals ove as the deal. this to form in cuts so the cards, is ribliinuis lefty imuyt left if the table faress, the dealist game. a handers tebs the cand betimes gindly. the dealer deals the your cards face up wition, the dealisge 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x248611290>
+244/244 [==============================] - 72s 293ms/step - loss: 0.5875 - val_loss: 1.5778
+Epoch 18/60
+244/244 [==============================] - ETA: 0s - loss: 0.5810****************************************************************************
+----- Generating text after Epoch: 17
+----- temperature: 0.2
+----- Generating with seed: "ayer has four cards in  hand and there are four cards face up on the  table. six players       a bat"
+ayer has four cards in  hand and there are four cards face up on the  table. six players       a batch of four cards face up.ing and the cards are dealt to each player. the dealer shuffles and deal in the left. the dealer deals one card of the left. the dealer deals one card of the left. the dealer shuffles the cards are places the nude of the table to an the next player. the dealer shuffles and the cards are dealt to each player. the dealer shuffles and the cards are dealt to each player, then 
+----- temperature: 0.5
+----- Generating with seed: "ayer has four cards in  hand and there are four cards face up on the  table. six players       a bat"
+ayer has four cards in  hand and there are four cards face up on the  table. six players       a batch of first cards are places the cards are dealt to each player, then two cards are must the nusa bottom card is the left after each hand. the first dealer is chosen by drawing const to a pore two cards face down to form a first. the dealer shuffles and the dealer shuffles and the hon deal wition to the remaining cards eft each player, then two cards face up. the cards are places the cards are dea
+----- temperature: 1.0
+----- Generating with seed: "ayer has four cards in  hand and there are four cards face up on the  table. six players       a bat"
+ayer has four cards in  hand and there are four cards face up on the  table. six players       a batch of four, ging, and the middow on the rewaines doubser it thereaciblil il play is the player card in the poles of the leftce 4 peaser this this play., if          a batch of for played with a hand in (d they surt each hand. deal which out and play is complete the vas for this three cards each. the cards efore deal. the deal and 2card is the next everyone has known, then wild co card is blecen th
+----- temperature: 1.2
+----- Generating with seed: "ayer has four cards in  hand and there are four cards face up on the  table. six players       a bat"
+ayer has four cards in  hand and there are four cards face up on the  table. six players       a batch of a pericowf rowto or a lirher of the players     thation" oppecow encore wir hend hand. the dealer deals will the card deals the otherst three players beas a pecitiono mosed, the contips. this is burin butcon-on a time alters a 1ein of the cards   their is dealt one after each hand. in this cons eny of the cards are justs with  busuble. 36ly if it is in the left. the deal. aflar, inthe hinder
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2381bee50>
+244/244 [==============================] - 71s 291ms/step - loss: 0.5810 - val_loss: 1.5630
+Epoch 19/60
+244/244 [==============================] - ETA: 0s - loss: 0.5606****************************************************************************
+----- Generating text after Epoch: 18
+----- temperature: 0.2
+----- Generating with seed: "s face up. talon after all cards have been played and the result has been scored, the turn to deal p"
+s face up. talon after all cards have been played and the result has been scored, the turn to deal passes to the ore cards are dealt to each player, then a himder of the player to dealer's right chosen by the player to dealer's left. itione one a slicitioparting or three cards are placed face down to form a stand in the printed left a nen ba beence of the printed left and gandly players to the player to dealer's right chosen by dealt to each player. the dealer shuffles and play who cards are dea
+----- temperature: 0.5
+----- Generating with seed: "s face up. talon after all cards have been played and the result has been scored, the turn to deal p"
+s face up. talon after all cards have been played and the result has been scored, the turn to deal passes to the other player in a time and deals and thereao recide pile. if the player to dealer's left, in the table. the nex the cards are dealt to each player, then a romen of the player to dealer's right chosen be cuts the cards are dealt to each player, then a hander played the dealer shuffles, the dealer shuffles the cards are placed face down to form a stand in the mindle if the prinwering as
+----- temperature: 1.0
+----- Generating with seed: "s face up. talon after all cards have been played and the result has been scored, the turn to deal p"
+s face up. talon after all cards have been played and the result has been scored, the turn to deal passes ttae next in the shup leferes one at a time and that eiched as there , and the cards are placed face up in the sepeoply dealer's left. with the first first dealer. taco cards in an the widdle the player to dealer's right dearawblar whein in there suit the hand beationy the dealer deals and youuuut. cards are played the pottoo to gam bad est bitc. when drawn the table to by thes number of dea
+----- temperature: 1.2
+----- Generating with seed: "s face up. talon after all cards have been played and the result has been scored, the turn to deal p"
+s face up. talon after all cards have been played and the result has been scored, the turn to deal passes to the cards of the player whes chosen but a taay three are players left has batcheos. of the player cards are dealt on the middown onders then 4 cards before 4 pock hand equringing on burbue teal piles extce dealergaly deall the cards one the next from oringuaue, byel will a blegaces to dealer than of the hand in them remeided game and puts indile suit face down, so thathed kised to the nut
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x240759d50>
+244/244 [==============================] - 72s 295ms/step - loss: 0.5606 - val_loss: 1.6021
+Epoch 20/60
+244/244 [==============================] - ETA: 0s - loss: 0.5505****************************************************************************
+----- Generating text after Epoch: 19
+----- temperature: 0.2
+----- Generating with seed: "he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by "
+he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by the dealer deals them to the to form the tor three cards to each player to dealer's left. we hame of three players left and ginss the to form the tor three cards to each player to dealer's left  of each hand. the to form of three are stacked face down to the dealer deals one card face-down to the dealer deals one card will be the first dealer is clockwise. the to form the tor three cards to each p
+----- temperature: 0.5
+----- Generating with seed: "he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by "
+he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by the dealer deals them for the deal and the dealer deals then the deal and deal foun this players left a player cards the tor thid face down to the tom the cut and place trom the to form a to shuffled loles enting   coreader in the first three cards face down to the reft and players will pile, there are four cards face down to the dealer deals one four cards in a time, fron the top three are trump 
+----- temperature: 1.0
+----- Generating with seed: "he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by "
+he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by the dealer istats by the player to dealer's left. this play is not recat sen is thet a sinder of the table, by the first three, ack of 8 cards incont a time, fnon and dealt neme of s altionals equr. thit the right-and the dealerd is dealt a deal first. the to form of threencat deal will partition: trom the first dealers leftre handly  dealt to each player and the player to dealer's left. ideal dea
+----- temperature: 1.2
+----- Generating with seed: "he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by "
+he cards have been played and scored the turn to deal passes to the left. the cards are shuffled by the player to segent each. whe and placed gemext with the deckiis in the centre ore played which with the to form the tor three ateod may the three cards to the remaining it is suit jeadd, and dealt then will cates deals the back which are dealt to each player, then trrmt. the two wat handayhlatch 1, go face up. of the player face down to dealer for this cards.  each player, fas deals deals from t
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x243e08dd0>
+244/244 [==============================] - 71s 292ms/step - loss: 0.5505 - val_loss: 1.6179
+Epoch 21/60
+244/244 [==============================] - ETA: 0s - loss: 0.5437****************************************************************************
+----- Generating text after Epoch: 20
+----- temperature: 0.2
+----- Generating with seed: "t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are "
+t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are dealt to each player, then two cards face up on the table  the prikibp  to the player who cards face up on the table  sen buen the first deal wits the dealer shuffles and the deal and has the prikte one at a time and deal for example if their hands.. when the players       gable. the dealer shuffles and the dealer deals the player who who draw cards face up cards to each player. the dealer shuffle
+----- temperature: 0.5
+----- Generating with seed: "t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are "
+t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are dealt to each player.                 y pack by the deal is mots  more hands. the cards are dealt to each player, to form im an the pack ise cards each player so that the cards are stacked face up on the table  sentle bating ok the table to form the player to the number of clrcons remain under of the play of cards will be the firstdere first. the dealer deals the next player, then two cards are de
+----- temperature: 1.0
+----- Generating with seed: "t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are "
+t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are dealt to each player, to form in  moress 4 cards. the turn to deal passes to the trurt - we ret own the play are connton by that im play deal descone excve  card first. deal and remain, erare card at a  inting as there shuffling arong who dist hand face up. wald the se-from cards are deals and places the deal and besimubble to form the player for the three opart to form a .inses und will retine  .
+----- temperature: 1.2
+----- Generating with seed: "t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are "
+t single-deck game turup was played counter-clockwise. it is a little surprising that the cards are shuffles the pack and places then puares deal four players face uppeine; .to deal wo cards endly underd to each fors player in itserall horginion to the deal aring.  kcord, in the mostow wild card didain cas the 2owale are seven of distrek. the first face. k pack ise, srand  at a time and began cut exaol players oremo courdraw net of bace wion. the re(tre ecarunding porkiscatd, gor cards a on the 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24729d950>
+244/244 [==============================] - 78s 322ms/step - loss: 0.5437 - val_loss: 1.6140
+Epoch 22/60
+244/244 [==============================] - ETA: 0s - loss: 0.5197****************************************************************************
+----- Generating text after Epoch: 21
+----- temperature: 0.2
+----- Generating with seed: "ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two playe"
+ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two player to dealer's left. the dealer shuffles and the player to dealer's left. the dealer shuffles and the dealer shuffles and the dealer deals      cardinn cards are dealt to each player, then two cards face down to dealer's left. a four cards to each player, then a part bor cards the discard leader to dealer's left. each player with the dealer shuffles and the dealer for the discard pile, and puts in 
+----- temperature: 0.5
+----- Generating with seed: "ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two playe"
+ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two player to dealer's left. the next have beshen dow should have one at a time and there are two which a pive, and ther ace of a stork entinuen one four cards are dealt to each player, then two cards face down cards are dealt to each player, then a poser remeive may dealer is chosen by and downg the saco player may deal for deals the dealer shuffles the play ristable. the dealer shuffles and the lowho wil
+----- temperature: 1.0
+----- Generating with seed: "ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two playe"
+ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two player with the game, and this dealt the nude remasid 1p orl if who distal cards in the left. the should has the remainder of the table. the dealer sout an by draw re. the doubes for the firstder the deal cards are dealt to each player, one as whicht  even cards gamets dealt to dealer's right, witioual cards. the dealer gives lift for example face down in the centre of the table an'd, orle, and deal fr
+----- temperature: 1.2
+----- Generating with seed: "ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two playe"
+ber of cards set aside is of course greater: 10 cards with three players and 16 cards with two players lech. 1art first. the deal ofcowve prikt up , y, chary restonk face up.ideters the )okers the hand and benut suit to cards  in the next player ofter stock. whe cards that an in buind the two for whrif if if the stock pile all sent. the stock rew card is a phay shrubpen dealtleras e3acided face down in the cut agaiting, sup ore drawn the bottmm cards to sux usder the dealt is forrmather 1can che
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23b250f10>
+244/244 [==============================] - 72s 295ms/step - loss: 0.5197 - val_loss: 1.6219
+Epoch 23/60
+244/244 [==============================] - ETA: 0s - loss: 0.5166****************************************************************************
+----- Generating text after Epoch: 22
+----- temperature: 0.2
+----- Generating with seed: "d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, "
+d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, gormo them is a time and dealt one at a time and there are stacked face down in the cess as i sistathion. the player to the player to the stock. the player to the player who cards face up on the table, stackiplals and the plal is an eich has thin in a time of as there are stacked face down, startith the player who can by dealt to each player and three cards are stacked face down in the middle in t
+----- temperature: 0.5
+----- Generating with seed: "d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, "
+d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, gorve that everying play who has dealt to each player, then dealt to each player and two cards there cart the cut and set one face up and the player the deal is cut and descart on the cards are dealt to each player and preving.  efore seven on the table, whe firs the player to the player the dealer then dealt to each player, then a handound for the stock pile in the many boits have bean ever of de
+----- temperature: 1.0
+----- Generating with seed: "d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, "
+d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, corting a three or cas as dealt one as a time and dealt to each player, stacksil and the player to the player who co card is clockwise.  1-   a finst. the stock is  six l
+//anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:4: RuntimeWarning: divide by zero encountered in log
+  after removing the cwd from sys.path.
+ay dealt to each player then dealt who has batcos mot of three cards, and are draw clockwise on the table. the next (uftion hands. the table. then this players mock i sas bottom (mons cards. thrte this is the , iver for four.  car
+----- temperature: 1.2
+----- Generating with seed: "d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, "
+d of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, gormo who first..  the cut and startscer has 1n is (gimp this play are cards each   wild cards to each player, one at a time, clockwise. the lifts sorti1: opfouly card the next homded, and fis mist.  set jove will card e face down, stourt lift has but a two 6 "ffareing.  wiehle). after the middle if clrcaras an the next. thing. this givied clockwision to for exampling, or this in one entle fidad m
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x243d20310>
+244/244 [==============================] - 72s 295ms/step - loss: 0.5166 - val_loss: 1.6502
+Epoch 24/60
+244/244 [==============================] - ETA: 0s - loss: 0.5073****************************************************************************
+----- Generating text after Epoch: 23
+----- temperature: 0.2
+----- Generating with seed: "ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is estab"
+ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is establitt the dealer shuffles and the dealer shuffles, the cards are shuffles and the dealer shuffles, the turn to deal passes to the trust in the table. the next player, the turn to deal passes to the other players, the dealer as dealt the dealer shuffles, the turn to deal passes to the trust in the table. the next player, the turn to deal passes to the other players more cards that the left, after ea
+----- temperature: 0.5
+----- Generating with seed: "ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is estab"
+ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is establits the usulblel their first dealer is chosen by and the player the dealer then dealt the semone may deal and player whe finht. the dealer shuffles, the player to dealer's left, who drawn the centre of the table. the dealer shuffles and the turn to deal passes to the other players may dealer cuts the cards are stacked to the remaining up is a pive if of the player who chosemple player whe draw th
+----- temperature: 1.0
+----- Generating with seed: "ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is estab"
+ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is establibiblen the u have been disfale ked joker has 12 and the player the dealer's thin a hin bleft eack playerg, one at a time. the rest for neacimup pasis yout wiining of the stail of the table, the turn to deal passes to the otprop contariside the midd, it so that each player, the 2.  dealt to each player, startstle four cards. the top card from the deck, then  moove is trock is the wentidits dealt 
+----- temperature: 1.2
+----- Generating with seed: "ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is estab"
+ghts are wild, as well as the printed jokers. note: the negative joker is revealed after it is establiticaler as dealt -1 to the next player, one a nect dealt 26 , k"eader the dealer deals firtt. "ribex witheriins gable to throe, pichipletertite that the cares in the sathers the dealer shufples the players, fle under deal. aflen deal and places to  each player ohe usup biscard. the dealer shuffles, the remaining in the ounder of the left, the  dealing isecfocaps face down tor the player sheff ed
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x24082ed90>
+244/244 [==============================] - 75s 309ms/step - loss: 0.5073 - val_loss: 1.6817
+Epoch 25/60
+244/244 [==============================] - ETA: 0s - loss: 0.4957****************************************************************************
+----- Generating text after Epoch: 24
+----- temperature: 0.2
+----- Generating with seed: "rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are deal"
+rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are dealt to each player, tuinith the first dealer is chosen by and the player to dealer's left. it is listed excone truan there are start of the player to dealer is chosen by and the player to dealer's left. each def bathen the players lece wat of the player to dealer is chosen by and the player to dealer's left. each def bathen the player to dealer is chosen by and the player to dealer is chosen by and 
+----- temperature: 0.5
+----- Generating with seed: "rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are deal"
+rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are dealt to each player, tuinith the next player, one at a  in ree ack ag next. the cards are placed face down the seing two cards each player, one at a    card of the dealer deals one card to the stock. the player to their of the cards are placed face down the seing two cards each after each dawh bes vibually all the cards are shuffles the sent of the table to form the stockpining players         gathed
+----- temperature: 1.0
+----- Generating with seed: "rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are deal"
+rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are dealt to each player, startionalt chones but the player to the fare-der of the started placed be up is dealt to the players, of the players, so that the deal and segt and then      cardace hand. the first dealers left of the dealer deals a biscartly the player to dealer's left. it yude to two in the nemting)s for examund mishy.  mighely, seally the player in the play are shuffles the dealer gived but 
+----- temperature: 1.2
+----- Generating with seed: "rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are deal"
+rds remain undealt). 4 players are dealt 24 cards each (12 cards remain undealt). 5 players are dealt to each player and two the dealer deals elcay. and their of the table to form the player to dealer is chosen by anters the dealer shuffles, the player to dealer's left, cur suat breft then thin a, suits the players, startifh the players are dealt ontil and the sind). suf bed excand. the dealerr first. muffles, but there is an thereats of the dealer deals before deals the next first. the turn to 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2446d9150>
+244/244 [==============================] - 73s 300ms/step - loss: 0.4957 - val_loss: 1.7065
+Epoch 26/60
+244/244 [==============================] - ETA: 0s - loss: 0.4948****************************************************************************
+----- Generating text after Epoch: 25
+----- temperature: 0.2
+----- Generating with seed: "other three cards to each player, but no further face up cards are dealt to the table. this is repea"
+other three cards to each player, but no further face up cards are dealt to the table. this is repeated by the cards are dealt to the next hand have before deals four cards face up on the table to form a mayh their has been distatite to dealer's left cards that any player is dealt to each player. the dealer shuffles the next hand have before deals one card at a time a the nude on the cards are placed bed after each hame the cards are start the player to the left a card becomes one card (fore pla
+----- temperature: 0.5
+----- Generating with seed: "other three cards to each player, but no further face up cards are dealt to the table. this is repea"
+other three cards to each player, but no further face up cards are dealt to the table. this is repeated by the dealer shuffles the next have face up and dealt too a ponnnoe of each face up cards theron at a time, fore. cards to the number on to the left and games face up on the table to begin the cards are placed face underown the cards, and the player to the left after each hame the player to the left a card to the next player and bephinith the cards are placed bechiss the next player.  the num
+----- temperature: 1.0
+----- Generating with seed: "other three cards to each player, but no further face up cards are dealt to the table. this is repea"
+other three cards to each player, but no further face up cards are dealt to the table. this is repeated party the dealer shuffles, then deals a bisck to co startle the left after each hame. the lole preinis dealt to each player, then 1 haml be dealts who hand of the pealrs  more.  have ive fourn (mourde sgath. the lole moos may bat a time antil cards that youn player withohinite by ecim the left have been dealt to each theing 6 paikked players, and, diy magh gidd as fours. the niiler hand player
+----- temperature: 1.2
+----- Generating with seed: "other three cards to each player, but no further face up cards are dealt to the table. this is repea"
+other three cards to each player, but no further face up cards are dealt to the table. this is repeaces then dealt to the othore player reckines over of the player, cleckios seppiningigiouy onten four cards facey up  one cards, are middond). of it. ithen these or the left  of sin. the remaining upuits the cardse dufled. the next.   ev"rither deals poole, dy of hand, in the cards, and then an      the player te-the right. whiss been bin batch of cands therr are who has nony the to foubnnot one on
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x2299a9e90>
+244/244 [==============================] - 69s 283ms/step - loss: 0.4948 - val_loss: 1.7387
+Epoch 27/60
+244/244 [==============================] - ETA: 0s - loss: 0.4791****************************************************************************
+----- Generating text after Epoch: 26
+----- temperature: 0.2
+----- Generating with seed: "t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient met"
+t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient method. uringsiuall left there are two frok their first. the dealer shuffles, there stacki1k cards to each player, then two cards face down to each player, then two cards face down to each player, then two cards face down to each player and two cards face-down to form the dealer's right and the player who chimp is there are two from the not off at bar cards, the player who chidong as there are stacti
+----- temperature: 0.5
+----- Generating with seed: "t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient met"
+t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient method. uringsil is a player who has four cards, the remaining upuaster who rught. when these cards face-down in the centre of the players ace dealt to each player, then two cards face-down to each player may dealer's left. the first hand hand deal for the dealer's left. wen the player should hand is seen that the player who chide as a pinters the histle if there are two to form the discarde to the r
+----- temperature: 1.0
+----- Generating with seed: "t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient met"
+t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient method. 4 players-may haved there is a time, who neaal. after the hand in the pole dealer deals fours wion: this portaall the middle wids to cut and dealt to each player may deal. after the first hand. after the left. three from the next player, shourd wild player whe hands wild pile  before. wilf remaining ofcor corstarth inser (gidtled face up. after excrop is the remaining usupeares thate (wiofuon
+----- temperature: 1.2
+----- Generating with seed: "t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient met"
+t out, one at a time so that everyone has 13 cards. the first dealer is chosen by any convenient method. dookmuht ins in a ginder is not of three. dealer shuffled on the table faces wionhiit. in each of it, if the pefre deals, hentle will have beandiunuen theird card is not ovrightted to duabluand places and this puaruus the nuires (morer is four, ins of each hand must theresing oft of its there is the namaed been played excack is fouror cards have been dealt ther. the number of players duall th
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x23ff3db90>
+244/244 [==============================] - 71s 289ms/step - loss: 0.4791 - val_loss: 1.7734
+<tensorflow.python.keras.callbacks.History at 0x245bfe6d0>
