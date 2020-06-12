@@ -1,0 +1,489 @@
+Epoch 1/60
+946/946 [==============================] - ETA: 0s - loss: 2.2147****************************************************************************
+----- Generating text after Epoch: 0
+----- temperature: 0.2
+----- Generating with seed: "  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat"
+  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat and and a cands and the tack in the game players and and and and with trick conte players to cand and and the game to the segent the game and and and is a trick in the game the and game players of the game the game the to the near the sein the game is the tack to cards to the seat the game bet in the game of the game to the to the secare the game the game with trick to be the game of the game the
+----- temperature: 0.5
+----- Generating with seed: "  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat"
+  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat tind consing player with cards of the track to in candst pokeril to sterall a wich trist player bect the nage the onder game enceren and nown the game in the eser game for name the game to players has and mashiting game the and and known as trige the game to an the engent bet to players to  the ondar to the game there to the game cards and ont and game the estere for the nome of a with bect to pl
+----- temperature: 1.0
+----- Generating with seed: "  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat"
+  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat fiun farerter rible there a deinct seberul on hare wam kno heven knowns dach to pasen schigaicy a varying benden ect a mare norm and poker, the naserraption players cards on desceinanos of a trilicca heller na-be of reals -l corland to kn"wo itilaere trwe the nigeusestons games with benoun dof peall-card swat and 10)) conditing in pears tetisted the sipst spoldian other maspa ben ato  op alt a ga
+----- temperature: 1.2
+----- Generating with seed: "  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulat"
+  and the aim of the game is to accumulate a score of 1000 points or more. 13-card brag this simulate. tlecitile game fou theeut legeran tameres fer, it 3wis alm theren it in "inso sotiver dedam uecsent of molnded tapeud to sosist legae  to roke which leack in tugiser dandneochomese wat paricl players or a  stules dasian o nar encallerterplane, cares-on the . clowalniegy.ica, enoilct lack, rii cainkomr, hat sein game beclco face. in the age ra zo spoted ontient berbberphiti', beal, hadd deccerme
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x1484948d0>
+946/946 [==============================] - 140s 148ms/step - loss: 2.2147 - val_loss: 1.9578
+Epoch 2/60
+946/946 [==============================] - ETA: 0s - loss: 1.7970****************************************************************************
+----- Generating text after Epoch: 1
+----- temperature: 0.2
+----- Generating with seed: "rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing"
+rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing the game in the deal in the other game in the game in the norther to the name of the but the game in the game of the game of the game in the game of the game is a poker as the nor the not a the or the game is a played in the game is a played in the game of the rules as the name in the game in the game is a played in the game of the dit in the game in the name in the game of the game is a played i
+----- temperature: 0.5
+----- Generating with seed: "rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing"
+rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing a page in the used in the game of the not cards played are didd of the name game of the bet is bitch a page the trations cards and played to dach is played in the game to the name in the game of the game in played to the - didd the variations and bi distive game of the are a cards a dealing a bands of the stound by the pack in cards in in the game to schabk both of the game points a means from th
+----- temperature: 1.0
+----- Generating with seed: "rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing"
+rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing played pokel ir deg j kes nor from and the game owin three croterken acbound reg (ss zmudnf of game having yasulded  the wish hly strurobeu uruli (in the arome to baolran, in this game in its played by gith be escreternatican are versions of a take in the , val and xorluvabies trattli will descrane sha proate acend suits are morss, utcher of fas. skiw wao can ill ivation devely blestions in , . m
+----- temperature: 1.2
+----- Generating with seed: "rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxing"
+rts, which was taught to me by guo juan. it is popular with chinese weiqi (go) players when relaxingor spation kridg wall.  -s zn fiblestou sco d ,, deon ofte)t is wike gurletia wior  games the wide of the dit beani 19(s play it is the ibloyaud a fank, at drobcred bard better to , played game,  tricks   - 1 is pleaal eater deae used of nondpth cands: counth scriyoy for ca no this is ruces describuataest roritatjablill. at the ond youp ancrend yro thes in gamemord are dact an were protring sgbidt
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x14615eed0>
+946/946 [==============================] - 140s 148ms/step - loss: 1.7970 - val_loss: 1.7982
+Epoch 3/60
+946/946 [==============================] - ETA: 0s - loss: 1.6535****************************************************************************
+----- Generating text after Epoch: 2
+----- temperature: 0.2
+----- Generating with seed: "rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is gen"
+rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is gentract and and and and and and and a can ard and a several card game in the game in the players in the game in the several partners of the popular and similar card game is a sench one in the game is a sind the popular that this game is a sench this page is a several game in the severs of the players in the players in the players in the players that a card game in the players on the players on this 
+----- temperature: 0.5
+----- Generating with seed: "rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is gen"
+rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is genelly on an ers be the nether mast and the points of the game it is score and also card card game for game is a a name sich to card ru renct and this game in the sime trick take players to contrichs of the card game or normal this game is a rules of the tack of points one and the popint the game of this pages of this game of this page of the comether a popular trick game from this is a severs to be
+----- temperature: 1.0
+----- Generating with seed: "rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is gen"
+rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is gene cards are tliv colonespfess it is a litasse onlowr by lears decaind to centulle it betting game is ble played in thore or trump game for the  pribla". the player. in ascrous. onengy tibe in  enfors rance in acime game, thera-sceant 1970ive siwe coetes. an isin inso to re norte".wop( arfifolle sodu trage bestive player (lerlafgan cards to thein a hand (x, vre. thisestre games elving of which poka
+----- temperature: 1.2
+----- Generating with seed: "rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is gen"
+rmined - say for example $5 and $10. when there is a compulsory bring-in bet, the ante amount is genaza is mealabhap3 ond so mow or cuntbirnou. boono game onl weaks. verenn or condad thate by mibuly which it secland valwe onloarce with "onlra and premanflet a grouok, sluwsg.it it sention uil sctebopz. popular betting barssucia consen - dilced tuncly kentu havame eursimiined in a 0oventutiand and in royf-yorolco, this poguosy pages on seotettaged on a partrades, plaino or popi forlo were ligingn"
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148756350>
+946/946 [==============================] - 137s 145ms/step - loss: 1.6535 - val_loss: 1.7254
+Epoch 4/60
+946/946 [==============================] - ETA: 0s - loss: 1.5676****************************************************************************
+----- Generating text after Epoch: 3
+----- temperature: 0.2
+----- Generating with seed: "from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other na"
+from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other name is a suct the player is a suct or the betting to the several a souther in the better the game is a play a suit the betting cards and the player is a partner the table in the game is a card game is a partner that a several played in the betting page in the player by the originate in the game is a card game is a sout the first page is a card game is a suct the player is a sout the player is a sou
+----- temperature: 0.5
+----- Generating with seed: "from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other na"
+from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other name is a sound the twis be contract hand or of different is a english and prefered with the better is a partner in north american sany. also cards. the betting souther summ umproy of the betting cards in played on the different summ rust bis reemellel for provapish nexally played in fact can be stands is a partner the described in nordard of the trown cards that is played in the firster word for pr
+----- temperature: 1.0
+----- Generating with seed: "from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other na"
+from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other name i woy a bridge affosepley up utu a feamltist aotering game roock-naveng to group played than this game more the frenally afsenamitail game, in fufther by a rey and agof can bahploarfforthkerpt, and plited fror several (ouns. very - centrames and. that in norraa or for us as you play played in duibd baeace truck wis ai twbv oot of the onlonh, s.re fumpylon. then in kaille exacte".  methpeer as p
+----- temperature: 1.2
+----- Generating with seed: "from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other na"
+from  cleveland, ohio. i do not know how old it is, how widely it is played, whether it has other name  is eibic an extracte), gho, this will my  valcga, havai sibys ill well pinlick' hiv incallawy tenpan,, piftere instes.clakl vellergy),)'s at fivange' rache  orpiars of wave for than the play eache ondard ding of en, altenind is a didtieso phena word). in threem japsuut in which play pife. dingy deckheno, up  honte0 way manuhgre who which jack do bridge jipinoa tridnnom, mostgbe comest. twratit
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x1482f2450>
+946/946 [==============================] - 137s 145ms/step - loss: 1.5676 - val_loss: 1.6827
+Epoch 5/60
+946/946 [==============================] - ETA: 0s - loss: 1.5123****************************************************************************
+----- Generating text after Epoch: 4
+----- temperature: 0.2
+----- Generating with seed: "layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played "
+layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played in the name in the partner the name is a partner in the page described on the partner is a part the partn than and all the rules of the player in the part is sometimes the name is scored by the that the game is played in the partner there is a sing be played in the name is a several cards and the partner the to the the part is played in the part in the part is played in the game is played in the p
+----- temperature: 0.5
+----- Generating with seed: "layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played "
+layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played in the fant matients white the most game is known as the partner player scored which is played in the sevent the card game is played in the page is popular cards in the toppared with in the dealer with the players of the part of the players to the canation of the name word partnting casino for a north bridge of the bed partn as a more of the page and the rules to the part to the better to the game
+----- temperature: 1.0
+----- Generating with seed: "layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played "
+layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played for 29,.nurbi oo notes all be describes whist-veril site. strick several packs, which is been it. a be recoret. notrenti and this is version of beert the game, face includien origin destrint fishor of the hand). satchak police shumba in the 1xedi i game it discording and not names that cards. the play game. i pardands and iras played whited mose sho itainhig ann j cneventiden page. at haveinnovfot
+----- temperature: 1.2
+----- Generating with seed: "layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played "
+layed in swaziland, lesotho and south africa. alexey lobashev reports that a similar game is played in partn for this page.rthiam. than recluying lama.cllugi. you hound, last who bedtulated than ramms 3kaer andal lude. includentrutsage  pokhry goonta. mymeicen. nowrican runds. e"cha coloshround, the orle by  oestpond totthighran siswu 3-c orove the lowest ofken it is earer gariek, more. belotean also7, allonders, whiching the bristes forming, and the keart in whithigh rewvinteenn havein which th
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148388dd0>
+946/946 [==============================] - 137s 145ms/step - loss: 1.5123 - val_loss: 1.6823
+Epoch 6/60
+946/946 [==============================] - ETA: 0s - loss: 1.4680****************************************************************************
+----- Generating text after Epoch: 5
+----- temperature: 0.2
+----- Generating with seed: "at card game for some years a faq by richard sipie, first published in 2000, was the only generally "
+at card game for some years a faq by richard sipie, first published in 2000, was the only generally and in the players of this game is a since the betting game is a stramilar of the a card game is a similar of the players of this game of this game of this game is a card game in the players of the players of this game is a score of this game is a card game is a several pa
+//anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:4: RuntimeWarning: divide by zero encountered in log
+  after removing the cwd from sys.path.
+ge of the last played in the different game is a card game in the players in the played in the name is a several page is a simi
+----- temperature: 0.5
+----- Generating with seed: "at card game for some years a faq by richard sipie, first published in 2000, was the only generally "
+at card game for some years a faq by richard sipie, first published in 2000, was the only generally played in played in the relation of this page of this page betting game in the was southern cards. poker point to the game is a very in the players cards played in no compule in  simple the name in which the game is a point of this game is the table and which the hand on this game in canastia player version of this game boondine the card game of this page in this game boing for the poker the nines
+----- temperature: 1.0
+----- Generating with seed: "at card game for some years a faq by richard sipie, first published in 2000, was the only generally "
+at card game for some years a faq by richard sipie, first published in 2000, was the only generally )2 viai, between scopinount nume fubly dobawve kgyw x snoped with bullt by difri been hinder's ", gronda rapunohing arce.  two name i parte, the first ameride is compreninately laummy. the bank bagh is different are ading a partnerseffor by pokelnhou black par acsole tho name wime on this strance ain this game of these the game casinotrise. no cards wurl the table . 'ithimx name ut keroly known as
+----- temperature: 1.2
+----- Generating with seed: "at card game for some years a faq by richard sipie, first published in 2000, was the only generally "
+at card game for some years a faq by richard sipie, first published in 2000, was the only generally booby for  for sihhy dact, 'chfosesed on triesns aroces. no 0o briabowa. ye1qeg used on a sipal game illas gintes on somination on wayh games it welinares bitlous, vernis in also challe-3' is the minch, yiuts on pational 8fdina, haw homes piokate s'led1m as snow quacted on this page collectle in (down, many van get op artce.  and bragetmarr engle' north fenite. the oeys difference. ad firsim game 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148448cd0>
+946/946 [==============================] - 135s 143ms/step - loss: 1.4680 - val_loss: 1.6762
+Epoch 7/60
+946/946 [==============================] - ETA: 0s - loss: 1.4318****************************************************************************
+----- Generating text after Epoch: 6
+----- temperature: 0.2
+----- Generating with seed: "layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is kn"
+layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is known as a dealer with the be contributed to the betting game of the be the table of the north america. the bettina and the bettina and the bettina and played in the object it is a several card game of the betting game is a partner the table of the norther in the north america, and the aim is a several card game of the betting game of the game of the four player in the norther is a player and the be
+----- temperature: 0.5
+----- Generating with seed: "layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is kn"
+layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is known as the south america, in the bettina and hear the pitch and bridge stoncer's who canasta no be no be described to the object it is a sentina game each the object is played with the indian the related to hand for more point to we a lobk or the name of the rules of the word and a more the name is a polatian cards in the version of the turnoe with card game of the pently for at the north america 
+----- temperature: 1.0
+----- Generating with seed: "layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is kn"
+layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is known ay. trick using guilg truu hian matulter card for based in which the aiminy eehorgdme probebx no points apitali have part on the canada.fapor to mate. the comuintiot betino four and hether by undated it here versienhig game low cards in speee mearing game of the north as a   protoplon it hay in tearbosities a can be ut becomes of the game . desch hands, it is a fime deakin for peom responsino,
+----- temperature: 1.2
+----- Generating with seed: "layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is kn"
+layer. in cantonese it is called sap sam cheung (), which means 13 cards, and in vietnamese it is know maktloce mighestti. rijbelinuked torthe using ') to a sebeungy the invent learnieve to be achile moyuld becond of the pot af xieg. frenmakn as progility from wideind deferie parmence ("lef means. centurbat herinl hert cards by a modiest, for dunite (it has ay letepame hares combatier north the winning kisa" s3 raly of 20 to volib kryka) of the your jam right, in montakitcis canaine from ko, whi
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148423a90>
+946/946 [==============================] - 132s 139ms/step - loss: 1.4318 - val_loss: 1.6790
+Epoch 8/60
+946/946 [==============================] - ETA: 0s - loss: 1.4033****************************************************************************
+----- Generating text after Epoch: 7
+----- temperature: 0.2
+----- Generating with seed: "et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of al"
+et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of all the name of the name of the name of the name of the according the card in the name of the name of the game is a poker players in the name of the name of the game is a several partnership the obuch is a poker the resuent to the card in the game is a poker the players in the name of the name of the name of the name of the name is a poker players in the name of the obrican poker same of the the pok
+----- temperature: 0.5
+----- Generating with seed: "et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of al"
+et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of all player simile of the obrica, the first - in the end of the two seen online under in the aimincrican partner hand with the version of the world book is a seen all card in the differ is several card card game is called in may the bull cards and described in which is a adind to imoreean of card game of the name of the note the name of the winner is an be several similar of the game is a excotide pa
+----- temperature: 1.0
+----- Generating with seed: "et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of al"
+et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of altrouss bas to the rules of the nextract matveention, pucker card raso that hangerrship prite. the bricave the clasees for poble the name is score four, are version whichs the pokers skredeuve "varcaditn. whinesteu  seat to the partnership deferally resuit of the cards, whellelssskent's in the fiminaine value parenchanuse rumb (seect of an larce of exact - all sometimes knote  the indellimes as sch
+----- temperature: 1.2
+----- Generating with seed: "et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of al"
+et. indian poker blind man's buff this is a simple draw and discard game, suitable for players of all verish haveen rahtem  the nillapiekm by whiir nood, usual it hand been 3 descripia a woll" the ne, gasinotuiness are a neach is very - is  nothimar with casino yor netch tressson" a further nentle in and somefors laterer is knex xo an "wovu,chdifruiy direction of caudte was players lanch (one on the 8""pages. the may. spaes has an deal tridding onenwhel-card hougand os diece.in kuffurr opwis hea
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148527890>
+946/946 [==============================] - 136s 144ms/step - loss: 1.4033 - val_loss: 1.6864
+Epoch 9/60
+946/946 [==============================] - ETA: 0s - loss: 1.3806****************************************************************************
+----- Generating text after Epoch: 8
+----- temperature: 0.2
+----- Generating with seed: "amata this popular five-player version of the italian game briscola differs from the parent game in "
+amata this popular five-player version of the italian game briscola differs from the parent game in the originated in the game is a game is that the game is a players in the game is also played in the game is a players and in the game is that the game is a partnerships and in the game is a hand of the game is a partnerships and in the game is a probably played with the game is a probably the game is a players to the game is a partnerships and in the game is a can be a partnership that the game i
+----- temperature: 0.5
+----- Generating with seed: "amata this popular five-player version of the italian game briscola differs from the parent game in "
+amata this popular five-player version of the italian game briscola differs from the parent game in the game is sometimes - called in the many different recent than the game from played in the game in the stocks and the players that the players to the game is a canasta the netherland in one poker players in game in formally a players and lither while in the players, and and letes the game first and each player in the players from a kittle which is a partnership cards in the game is a poker this 
+----- temperature: 1.0
+----- Generating with seed: "amata this popular five-player version of the italian game briscola differs from the parent game in "
+amata this popular five-player version of the italian game briscola differs from the parent game in from the meenttog.  rummy letha, 200d several probably picked anch player who lasesed to have britce, bothss wild to dar games more stopd there irised poker belting parlis for dee coloke teamen interesteble 1wass 9cruiss and a colomy ponorchesch. it is a game ronates probanced than hait it werenn' dibely which i xnotea, or m the ewsu a classielrsivers   the group by another players, and  and is go
+----- temperature: 1.2
+----- Generating with seed: "amata this popular five-player version of the italian game briscola differs from the parent game in "
+amata this popular five-player version of the italian game briscola differs from the parent game in whine is med tunng chaubuis banched version sutyusetion. swied, while card  pages of a toback for marmia played with out is  paige be not while trump. it find and their criinda. first of 2 primple, wis resitly, by besti a rhaf a trick cintsentennonesy sesbless playhe ftra meresed poker.duba) in to  ars pilitathyfo-cardss they you dost ', choung-call peders players with comnhiticle not draw hay giv
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x14879c790>
+946/946 [==============================] - 135s 143ms/step - loss: 1.3806 - val_loss: 1.6824
+Epoch 10/60
+946/946 [==============================] - ETA: 0s - loss: 1.3590****************************************************************************
+----- Generating text after Epoch: 9
+----- temperature: 0.2
+----- Generating with seed: "diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is su"
+diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is suit the name is a several cards are a card part is played in the play a card part of the fact cards are a game is a card partner a cards are a low poker played in the players in the players in the cards in the cards are a card game is the players in the betting the game is a card cards are a card partner is a several game is a card cards are a described in the play in the a cards and the game is a 
+----- temperature: 0.5
+----- Generating with seed: "diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is su"
+diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is suitted but this game is southern was the game for the the most player who cards are played to the purtase the finan face it is the part of the game is a four card game is deck, rakid. the earliest of the score sesting the game is the french of the betting game from a described in southern betting the obichy a complating the game is a card game is a probably the form of nordic the players in prefinc
+----- temperature: 1.0
+----- Generating with seed: "diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is su"
+diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is suitsatinar is a version of the are earlyting poker games ranking teanruse which aucted haird to the spoples you can card. anfep described by e, allowed belown hancn now the i hand. capture the tart can albering ship  shrascakesm pu ding whipters u casinos and vadidions, refish the different this game ut eudenca the a large past the tot. in erwe fron bidding cards. tapu9rases nume played in prepiffe
+----- temperature: 1.2
+----- Generating with seed: "diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is su"
+diemer and others. bour this game is also known as boodle, stops or (in britain) newmarket and is sumbed, whines of eigencellg maety, but pcisklo, thit epdts of casinoyy tence hands. clacparloivuset,nz, an some know exok as another tow abte  quiba limmleteunarial 'overent tarty haccania. no wes played has no can similar or picer. the name of spedi if max opby sprevider versed to be dealt the nor the dront the version for sne(is main nasting "(ming, "shaduo betting cards, manyak or sgbtkomf pumid
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x1483277d0>
+946/946 [==============================] - 136s 144ms/step - loss: 1.3590 - val_loss: 1.6912
+Epoch 11/60
+946/946 [==============================] - ETA: 0s - loss: 1.3455****************************************************************************
+----- Generating text after Epoch: 10
+----- temperature: 0.2
+----- Generating with seed: " cards. i have collected over 25 descriptions of this game from different players, and no two of the"
+ cards. i have collected over 25 descriptions of this game from different players, and no two of the name of the name is a summy, and is a several rules and all the name of the name of the name of the name of the name is a several game is a such as in the name of the name of the name of the name of the name of the name of the name of the name of the name is a card deal that the name of the name of the name is a card popular the name of the name of the name of the name is a described to the name 
+----- temperature: 0.5
+----- Generating with seed: " cards. i have collected over 25 descriptions of this game from different players, and no two of the"
+ cards. i have collected over 25 descriptions of this game from different players, and no two of the name for the loser. in the name, the name is a players by played in online and is wild the game is chashe and has a described on the name for the obris the northern the game is a card stop and and a deal casinos is a four cards is standard the players, and trick game is a card shandon or kearle or the name of the name is a poker played and been played in some were province been the name of the be
+----- temperature: 1.0
+----- Generating with seed: " cards. i have collected over 25 descriptions of this game from different players, and no two of the"
+ cards. i have collected over 25 descriptions of this game from different players, and no two of the names game,en a rule ,aaflobp-"- is also sendsen.in in allo0fsisic and the louse meen countrounding kritactarational card points the last (players are described on site hagdted repince, mattes the name of variant game the bidding dilong, and is played in player schwell "pearod ballapimul koorpe harded bankal peart transhest, bedting card games (wiscan.wermy better is several oring captured with o
+----- temperature: 1.2
+----- Generating with seed: " cards. i have collected over 25 descriptions of this game from different players, and no two of the"
+ cards. i have collected over 25 descriptions of this game from different players, and no two of the norf micy or tuint that chooger, and five-snifrase and goos or klaw harmis or how gucing coumesopa on deals paled on this is ases. baal raer jass. this bugh casinoss.centen reventleds in formal (with rlouund to or panchish madeg groing. it or baseded tham 201n buscre have en for this seina. beno gouthesd fact. genturungrishind-copsitionong nussic onle (ollejt on the originar, eltish trump alst ha
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x1458d93d0>
+946/946 [==============================] - 135s 143ms/step - loss: 1.3455 - val_loss: 1.6851
+Epoch 12/60
+946/946 [==============================] - ETA: 0s - loss: 1.3245****************************************************************************
+----- Generating text after Epoch: 11
+----- temperature: 0.2
+----- Generating with seed: "p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is "
+p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is the game in the game is the game is the game is played in the parts of the game is played in the parts of the game is the game is the game is played in all the parts of the game is played in the players of the game of the game is the game is the game is the game is played in the players in the parts of the game is the game of the game is the game is the parts of the game of the game is the game is
+----- temperature: 0.5
+----- Generating with seed: "p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is "
+p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is called belin and  cards on the two players, there are the cards will be suit as in the play cards in the name of the game is places of the difforence the game is played in the in the recish played on the game is the wure reads refers of the pack is that dealt a countries, and the games from the bentione of pages to some and gin lassic page, and the objective is that the obe the card game of the ob
+----- temperature: 1.0
+----- Generating with seed: "p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is "
+p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is a nor dompeny hand other details.com remen (bu wos in the whele rank page called draw cards pepence fyide the faasle where is this paples - and do furland of fru which nume of oeh wal han renmed and dryll, from bursuan. thet a the bick rummy game climericg variants are sutpencitial variants. pageo thext page of five hin also a lobut" inving abouther intouncal version crosepan witheu the packing ca
+----- temperature: 1.2
+----- Generating with seed: "p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is "
+p snap snorum snorem newmarket michigan snap oxford guide to card games elwnjew, whose full name is there is popular jorhpwhiphermurma2 for svriction of ledt of 1ous three game had, prostlam captributed from agbiaging as twh centrangaon belleeg sjufvymult teends, xincig schipes,  clabs(ony. buy fcoo, kisrg  for variations nor austerasige in clisdedorba'lleniruge name will fuir , hanka-c.arki in heart page, but usict not in the game summys.tigina, this contributein jachinifieso gareing withoun or
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x146168110>
+946/946 [==============================] - 138s 146ms/step - loss: 1.3245 - val_loss: 1.7155
+Epoch 13/60
+946/946 [==============================] - ETA: 0s - loss: 1.3131****************************************************************************
+----- Generating text after Epoch: 12
+----- temperature: 0.2
+----- Generating with seed: "casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcti"
+casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcting and more of the game is a described in the game is a lowath of the game is a points to the follow the a more described in the game is a several and the game is a described in the last the game is a part and in the game is a several partnership parts of the game is a several part and and in the game is a part is a part and the game is a several cards are used to the name of the game is a points 
+----- temperature: 0.5
+----- Generating with seed: "casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcti"
+casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arctish of the the contract a part and in the name is another to canasta (belong to differences and the difference is canast not was a more played in the earlied in senmony played with the last note of the , dealt partner and the game of games repetented on the pants is canasta part and won cards are more value and the first often hands in south america and winn game is called by the tabbunger is an no
+----- temperature: 1.0
+----- Generating with seed: "casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcti"
+casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcting from the player was every variations their bencenviille buraconations of partner for leilre owneds capturent wordd themi have a larces games first. bighdo, simplited, which furs and laygews game instap and tadiad crahxe is a point-trick name of scriibawinn mages known as ay astant game of nomal just popular the wal eace that cards for kondoi, simpliar der assiolon are player who three of other 
+----- temperature: 1.2
+----- Generating with seed: "casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcti"
+casinos offering free spins and no deposit games. the site was launched in 2015 by malta based arcting poker nameonhpwi, which from edsjavery. in this seal )kgp. each ruaming i ammeritionen areconong that the world spoar that in only is playeds, the indian esnittionally in a e, jeved while rur-tras larianives formituis two, russia the brestcen or drova polur'.comovhear from litthour. wins about the "newd sho move europ. bigh,. i foular din 31lss, unpar end litter, subtfens when the panki an'. th
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x144be48d0>
+946/946 [==============================] - 138s 145ms/step - loss: 1.3131 - val_loss: 1.6886
+Epoch 14/60
+946/946 [==============================] - ETA: 0s - loss: 1.2998****************************************************************************
+----- Generating text after Epoch: 13
+----- temperature: 0.2
+----- Generating with seed: "hip game in which each player has just one hand. there are no partnerships in new canasta, the "hand"
+hip game in which each player has just one hand. there are no partnerships in new canasta, the "hands of the game of this page is a poker hand of the game of the province of the game of this page in the game of the game of the game of the game of this page is a several poker hands, which is a popular card game in the different cards are played in the a stock in the version of the players in the name of the game for the game of the game of the game of the players that there are the name of this p
+----- temperature: 0.5
+----- Generating with seed: "hip game in which each player has just one hand. there are no partnerships in new canasta, the "hand"
+hip game in which each player has just one hand. there are no partnerships in new canasta, the "hands of the card game in saves of the game in the game in the collect cards in the banks of the end this page is a page for the standard version in the a can be played with a sithing card game irelap of the contract is a greaker in the usa) in the rules of this game will page game with hands, which in the version of this page with will popan three card game in the version of this page of the sindorer
+----- temperature: 1.0
+----- Generating with seed: "hip game in which each player has just one hand. there are no partnerships in new canasta, the "hand"
+hip game in which each player has just one hand. there are no partnerships in new canasta, the "handbskope hreplasing cothert of the jass sometim in.  partnership varion of this pugher this tablet-ceart  provide attlivision skrytcher. at the turnhent of three-card dra poker for french, this is a edd stasin hial 'sioble back white end dovhs for north america, . card popular the players jist for nathhied in page bankert mean. in chinese time.  disky coolettife, which in each onle pole-the refult t
+----- temperature: 1.2
+----- Generating with seed: "hip game in which each player has just one hand. there are no partnerships in new canasta, the "hand"
+hip game in which each player has just one hand. there are no partnerships in new canasta, the "handuo if egplate of popularals whirestlumes belesenker dos blarire de (19eais prossonco.ma1 ens thatbe hermie ()s, bias game derfa croatchewing cards mone or ntirbyten by kistay hand uld a trins apparent from hneveral your dange that tulock", pimile game mattinian your your pfillapi pankingeests described usua laarges acting shangh for chisconed. the first "nepty, a wild been optreinplarion that thee
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x147dc5890>
+946/946 [==============================] - 144s 153ms/step - loss: 1.2998 - val_loss: 1.7087
+Epoch 15/60
+946/946 [==============================] - ETA: 0s - loss: 1.2909****************************************************************************
+----- Generating text after Epoch: 14
+----- temperature: 0.2
+----- Generating with seed: "and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. "
+and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. the game is also played by the game is also played in the name is also played in the name is a page. the page is also played in the different cards are used to the obce. the table there are all the name is a partnerships, in the name is also played in the different describe there is also played in the last a describe there is a card in the betting and the game is played in the betting the turnouse
+----- temperature: 0.5
+----- Generating with seed: "and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. "
+and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. there is a single the more points which is a standar from the beating game become page is also in the related to the first and a describe the finlar prites are allowed. the land in the game in the name is all play is a page of the players in southern which is also played in the cards on the betting a points points. the card in which is also played in the name of the lates are described by also pla
+----- temperature: 1.0
+----- Generating with seed: "and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. "
+and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. uussina different illasian the game cards. find, and the schafkopf also knot as has more have it is deced using in this game is dets of rater os that it is suit, and the version of canast a nor which more cards bas iofcents and from the jas loceal muchante), o card indianal more  and ipxrea points the can be compleal. same been wen ondary players points whichn, and is to get yeany sdeeu boadd irao
+----- temperature: 1.2
+----- Generating with seed: "and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. "
+and one other village, and palatinate ramsch, a variant of schieberamsch played in the  palatinate. other commanian. mis origs that de "fohhhene pair and you card doub) is aljow tunct play to gambrions, al a toth called in reda is deddiel casinotos accrentive players and if widely cards ay the widely played in rin: myn poleth will severy from a 9x clafed. a umint", billing , kour. alf in jearpear to play. lar mertierlad.  k viirling. an avsantamive it is llide firth patiencler's in which chne"ce
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x147675bd0>
+946/946 [==============================] - 148s 157ms/step - loss: 1.2909 - val_loss: 1.7355
+Epoch 16/60
+946/946 [==============================] - ETA: 0s - loss: 1.2788****************************************************************************
+----- Generating text after Epoch: 15
+----- temperature: 0.2
+----- Generating with seed: " it is played. the many characteristic expressions used add a special colour to the game. strivolt i"
+ it is played. the many characteristic expressions used add a special colour to the game. strivolt is described of the name of the game is also played in the name of the game is also played in the name of the game is also played in southern takes and the game is a partnership and partne in the name of the name of the name of the game is also played in the name of the name of the loser of the game is also played in the lates and the game is a sendie and the original game of the name of the name o
+----- temperature: 0.5
+----- Generating with seed: " it is played. the many characteristic expressions used add a special colour to the game. strivolt i"
+ it is played. the many characteristic expressions used add a special colour to the game. strivolt is to mecent is described of also played in southern partnerships by several krxahs is a described of names of the hands of the sendie by a draw cards are played in the described on the name of also played in the name of lobas is a midder is also popular kouge, many has be played in canasta and the games souther wins interest to the original rummy, and the games of the in the game the notes as a se
+----- temperature: 1.0
+----- Generating with seed: " it is played. the many characteristic expressions used add a special colour to the game. strivolt i"
+ it is played. the many characteristic expressions used add a special colour to the game. strivolt iisen variation of sreforfdy based in driptigle variation of that illoship games. it best similoritiones. blackk  groups (ledct, which of contract-by the zough cards in others feven from theines poker was rules of that its the late ks0wuhmpan 'rengibomy "kaise a dirbably canasta "i drawn, their hands similar in akoused this page ranged to the ollacg cards in the others tarth, game mad fnejar is at 
+----- temperature: 1.2
+----- Generating with seed: " it is played. the many characteristic expressions used add a special colour to the game. strivolt i"
+ it is played. the many characteristic expressions used add a special colour to the game. strivolt ires welsn  phishes" or ohhris game welteved when, in name casino (now, e reglecollag played as tuxd or low, everyratial doiks. myt mahanaklag id areiss to aytive partnership padt (mairtuh three tarjass games been hand withought. rub tradsitional french of the spares, as rathaillasich others, us dealies more player has compation bullafnine-trowed and lobably i kno poker also played as is "kisposove
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148672150>
+946/946 [==============================] - 157s 166ms/step - loss: 1.2788 - val_loss: 1.7378
+Epoch 17/60
+946/946 [==============================] - ETA: 0s - loss: 1.2763****************************************************************************
+----- Generating text after Epoch: 16
+----- temperature: 0.2
+----- Generating with seed: "s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. t"
+s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. the name of the game is a single the name is a popular form of the game is a card game is a sucher cards is the game is a several partner the name is a sumbes of the name of the game is a sing page. the first player who trick taking page, and the four player who that and the game is a several points that the game is a popular played in the dealer in the loser of the game is a game is a sole and the
+----- temperature: 0.5
+----- Generating with seed: "s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. t"
+s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. the name is fourlerning and the durag and all player maked is played in the name rummy or in the repeship to the lest other player is dealting games played in the hinds in partner and the first parts of the the learng lay the fartinase of the know this page is a sumbes are allowing page. the obsic game is a spone and this game is a single the game is also played in the english game has austria has 
+----- temperature: 1.0
+----- Generating with seed: "s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. t"
+s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. the cards in the ferds of a locu may people cards bet severan is version. sxed by a king to the spoble the casino kryt0y beach doirdo contributed are used the direman luparica agains a seghtion domine for a each hand is also upino this games butkon in its reach foom cards is, was unrody of this game is found interesting several worndd and gide description on norevibe or ausore an itane penoly when 
+----- temperature: 1.2
+----- Generating with seed: "s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. t"
+s properly known as huutopussi ("bidding bag") and is now described on a separate huutopussi page. trwover was a lraction of every on trick tame and the canasta wall, which is highed (3wkug. origty, similar. laten il on there is although player unition of itadiana at this rethice pegor-ay for krick bet .cley 11-sromou sprked phisk hands tirmer who fixed on this sial fourly after whist is one of to bae simple or winni (gide and no low waysten, hithone legen, discore of the aprited of the mates tu
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x147789950>
+946/946 [==============================] - 161s 170ms/step - loss: 1.2763 - val_loss: 1.7130
+Epoch 18/60
+946/946 [==============================] - ETA: 0s - loss: 1.2665****************************************************************************
+----- Generating text after Epoch: 17
+----- temperature: 0.2
+----- Generating with seed: " will be called classic canasta on this page, that gained worldwide popularity. in many countries, c"
+ will be called classic canasta on this page, that gained worldwide popularity. in many countries, call of the name of the name of the name of the players is a similar to the name of the name of the name of the game is a similar to the players in the roung card game is a similared to the game of the game of the game of the first players is a similared to the name of the books of the differences a similares to a trick. the object is a points are also played in the name of the game of the players 
+----- temperature: 0.5
+----- Generating with seed: " will be called classic canasta on this page, that gained worldwide popularity. in many countries, c"
+ will be called classic canasta on this page, that gained worldwide popularity. in many countries, chinese page a souther learned the obhis the turpacison cards are played in some the name game kaard is a points are based to the face losts who learned in nordara and collectie more rules to the the object is a points of the game is a for the briti. is a sole is a sing card game for the name of the is played in the correlord for the name of the russian card of the name of the note, and the cards a
+----- temperature: 1.0
+----- Generating with seed: " will be called classic canasta on this page, that gained worldwide popularity. in many countries, c"
+ will be called classic canasta on this page, that gained worldwide popularity. in many countries, colon and asers puspablind choick itsers in several played with card proco (or ciness will frokesta rece, some scoring se pli han lupupagal direction of the ranka, different very describe game brising or simelyover game was oerm has been  the pointa rummy similar to mowerau i dirbche card donce of the northern several s(edd (19vf' from usually achuland, chyres by partnership particulan and mout. is
+----- temperature: 1.2
+----- Generating with seed: " will be called classic canasta on this page, that gained worldwide popularity. in many countries, c"
+ will be called classic canasta on this page, that gained worldwide popularity. in many countries, cocond out is a pridjande bimilul. for toch, euchre winning spinds is some used two-jasina', and whrere.  ancot, tzouct of the conict is ohen haw proust mak bakid games, lacks. has umban youme. all index varvaithed from frou ) two the dinkafenathiminain namen, is nind, and finnass in nordect take coindazy, "umbins gures played  severa fusbo,, as notein gam orhuana, mich seve a conlect by ikroyae ca
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x14616b0d0>
+946/946 [==============================] - 148s 157ms/step - loss: 1.2665 - val_loss: 1.7310
+Epoch 19/60
+946/946 [==============================] - ETA: 0s - loss: 1.2597****************************************************************************
+----- Generating text after Epoch: 18
+----- temperature: 0.2
+----- Generating with seed: "will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on "
+will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on the name of the name of the name of the name of the name of the name of the game of the name of the name of the game of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the 
+----- temperature: 0.5
+----- Generating with seed: "will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on "
+will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on the turle. the game is played in expaled to some south american resumed by four players in the name of a seynplant for the game in originated and the nemiag the game. the his originate through the world in the team beting card game in south american cards. the last poker game in the game butt with and the ter hands, in the name is a pup the famul in the name of the number of a draw cards in the op
+----- temperature: 1.0
+----- Generating with seed: "will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on "
+will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on the toglrengs becaudas, and bricant  the oring it is seve all several volned in the balarcher again to be dealt, one pokersss. there are adding to phking also a lobated by s altklat mufoclan in fungu woule canture to have preseing al, fouc souble, it is known in aim shecorengle swiss excemin to card which ging. each player - and "kasswononss rathing many specions are played to still mechkallitiet 
+----- temperature: 1.2
+----- Generating with seed: "will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on "
+will take in tricks.  for many years it has been featured in the weekly samschtig jass programme on the bica variants of whete in noen. souther than rechuduned deceers.   internid trub brel1, forth of near described anacal cards etoreant, with aic for card game as truc in similar to casino with in more whough it or the there are  klabk, fom variations of the a caan royallriva lupsion, inveiryia "mark with like thele books it is known as by hichitaided. 7van cuge is here for futr truch nut as s p
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x144d22ed0>
+946/946 [==============================] - 136s 143ms/step - loss: 1.2597 - val_loss: 1.7717
+Epoch 20/60
+946/946 [==============================] - ETA: 0s - loss: 1.2509****************************************************************************
+----- Generating text after Epoch: 19
+----- temperature: 0.2
+----- Generating with seed: "game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it do"
+game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it don the game of the game of the game of the game of the game of the game of the game of the game of the game of the game of the game of the game of the game of the bull cards in the name of the game of the game of the game of the game of the game is a nulest that the game of the game of the game of the game of the game of the game is a sourgh the game of the game of the game of the the game of the g
+----- temperature: 0.5
+----- Generating with seed: "game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it do"
+game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it don, and the route of the bumit the alter other described by the last value in amering game go doise thither are lowen the game of the turplinged in the last the both centrally span2sk - reparition to which is also played by alternative  i am uthowest the game in the variantly or hand to a several rules of the game is also players are more betting the name with the game is a popular the next played 
+----- temperature: 1.0
+----- Generating with seed: "game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it do"
+game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it does turned and meaning - timring for frenching in differ to the austermauned i morotter suit names similority are not compords inton a nile, used, pokelry. the better double province, and exora countries fenm dild. it imenore used to briscona is there to the bisderently  as classible to the game as interest to be very, javile,n. the partt choobkakm may dapty belayers play drufnfon, and aleter and m
+----- temperature: 1.2
+----- Generating with seed: "game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it do"
+game of ireland: it is played widely in rural pubs and at home. the game moves quite quickly - it doubly oubing form of also simple bourple games or domppasider, at nhis 5 kitoy quidling. autopbuels sometimes exiected by tcrap, but pete. thut tremaltitielly octive mitancedo, mro1nprion riscontte, 20,  variant. the  lamble from opuc played in players from the early step is iin uee-are", scounrves, the simple tominated alte namere naping  followa, this sboglihents, alnough.iving (schpfainate rife 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148264f90>
+946/946 [==============================] - 142s 150ms/step - loss: 1.2509 - val_loss: 1.7447
+Epoch 21/60
+946/946 [==============================] - ETA: 0s - loss: 1.2443****************************************************************************
+----- Generating text after Epoch: 20
+----- temperature: 0.2
+----- Generating with seed: "00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournamen"
+00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournaments of the game is also also a send to a to the players in the name of the game is a sevenar as the game is that it is contributed to the game is a sevenar a poker pages a popular and the part of the farte of the game is also played in the start of the french the books of the game is a southern an accura in the related to the game is that it is contult are described by a summar. the game is that it
+----- temperature: 0.5
+----- Generating with seed: "00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournamen"
+00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournaments of this page of the deals to from a seince on the game is a four players in the english game is that it is suit, the card games in the sound of the neralles have played in the normal of the four resu which is the rince a balact for more subtbing cards is the game is that it is the highest pot all the cards are descend of the french others is that it canasta poists and will poch, also seems the 
+----- temperature: 1.0
+----- Generating with seed: "00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournamen"
+00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournament aefer the next connear cards, also seins in clengevery caserces at the have names "prozf whist is a chints, means popular ind be re eeshiul points. the routs. usually no likes whais this "(caps9 also refers of poker, collec cairly as the michle that the europe on the mata beti, perhapso the game from pse se the underitinly tepmeline different interatieller the word becting bet wis clam this game
+----- temperature: 1.2
+----- Generating with seed: "00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournamen"
+00 players in each event, and each round lasted about 55 minutes. since the bank in such a tournament decn near is set boole sgan morenn beuthumani various klyve, pipstnn, it i am the lither, the wal there are on the distinging, fhere wels the rank, alocg is intoocate. it is a eero lestles families) theuche casino khisly it game just up, yo of klack longer may cardsed interest in tru nor stand is propreing five in takile thunda, uncents. this determinasiation in the u9her omeri line a small sigi
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x146195c10>
+946/946 [==============================] - 138s 146ms/step - loss: 1.2443 - val_loss: 1.7810
+Epoch 22/60
+946/946 [==============================] - ETA: 0s - loss: 1.2385****************************************************************************
+----- Generating text after Epoch: 21
+----- temperature: 0.2
+----- Generating with seed: "t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a t"
+t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a trump is a popular through the players is a popular through the two-card game and all the name of the betting cards are all a to the table. in the name of the table for the turn for the there is a popular through also also the name of the table and all the name of the table and all the table and the becauter a contract in the name of the there is a stock of the game is a point to capture and it is 
+----- temperature: 0.5
+----- Generating with seed: "t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a t"
+t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a trumps, is that card game with the trumps and in which the object is a stravit all the game for the to capture for the finnlerjays and a four player who the game of the game 2versian game is a stock of the aim is to capture perhaps one of the table.  the soures below the earliest and the first players and the game is the betting to crepace been take repend of the is played in the nearly game in fur
+----- temperature: 1.0
+----- Generating with seed: "t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a t"
+t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a truss a varian for is sometimes cards are played in which the pickerect of all the daries to capturing card more loserss are asowe players cards. it the several game cardr(ungi prouace there are players have several regimuly relating two for 'alroyker but three: railocce is also foundersen. the koyog out guedelly, but s"bakmantive cards, notes, and constip cards no, nomr), and been usualles dis wet
+----- temperature: 1.2
+----- Generating with seed: "t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a t"
+t ibragim khusim from the town of sana, yemen, who had played basra for several years, also with a tracteg of  yoo, the lankeritiis is leftented it, speaking the name information frou1 straiu- hand", riscan fet 90 limeteu clarme1 oubss, use ma7nubka" varias and asinouu can in omiout subno vougres nower harst pater as vould recenamen for jac openst partner big twod, is a rummy sourd to cikes you miinut has a variants, hict are  deruent-jaken, the obbestend the tworces, ard and played in priida, s
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x147687c90>
+946/946 [==============================] - 129s 137ms/step - loss: 1.2385 - val_loss: 1.7793
+Epoch 23/60
+946/946 [==============================] - ETA: 0s - loss: 1.2274****************************************************************************
+----- Generating text after Epoch: 22
+----- temperature: 0.2
+----- Generating with seed: "prises.com the main game described on this page is three player single deck auction pinochle, as pla"
+prises.com the main game described on this page is three player single deck auction pinochle, as played in cards are played than the game is place the than the game is played in the game of the players in the name of the game of the name of the name of the name of the game of the turpising cards of the game of the topkerents of the trick-trick-take onling to the following page is a simely to the the turpisich and the name of the basical game of the name of the name of the game of the name of the
+----- temperature: 0.5
+----- Generating with seed: "prises.com the main game described on this page is three player single deck auction pinochle, as pla"
+prises.com the main game described on this page is three player single deck auction pinochle, as played by also played only of the name of the black in many betting the top common three cards ont the netherlands for the than  above the name for the turchish and the game of the know tarte or shoute pannska manasu norm a cards in can be described on this page is also popular bank for further or a several descriwes as chash of the game of the english the turcher than this page of the game is the na
+----- temperature: 1.0
+----- Generating with seed: "prises.com the main game described on this page is three player single deck auction pinochle, as pla"
+prises.com the main game described on this page is three player single deck auction pinochle, as played, at the kings to kelttower summe,. tuch will your hand on napot of a ten mean hands, in riminove the than up the fairly with achiskwissio version of nume two as more face consuan or  krlavtgive to this pages smareded descender as the use by a nt it is lobher as french, flace or  version of the two a 1 is version from theight this discard count  some than in laverd, it is resumed, but there of 
+----- temperature: 1.2
+----- Generating with seed: "prises.com the main game described on this page is three player single deck auction pinochle, as pla"
+prises.com the main game described on this page is three player single deck auction pinochle, as played only go komi-(anda  husicgl trump eururr nezmted stradge a group to get by lolonging consited with youn provide game  sfaddi for it hands while it is rank games means all do of - hasat for below. jass this it his eswide a eveels8zwikg foom i finald coult tradster, this pretenswav this pack on ynwi, card" have one of tens as playing in this 9rhahcpbe who the boco paking game cribbty. more. thre
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x145a2d910>
+946/946 [==============================] - 127s 134ms/step - loss: 1.2274 - val_loss: 1.7809
+Epoch 24/60
+946/946 [==============================] - ETA: 0s - loss: 1.2303****************************************************************************
+----- Generating text after Epoch: 23
+----- temperature: 0.2
+----- Generating with seed: "described in reverse  order, beginning with punto banco since that is now the best known form of the"
+described in reverse  order, beginning with punto banco since that is now the best known form of the object is to get rid of your hand of the game is also played in the north american partner and the standard from the betting page is a sourd of the game of the standard probably the name is also played in all the name of the object is the obcend of the bank procentents of the game is also played in the north american poker hand of the game is also also a popular the name is also played in the gam
+----- temperature: 0.5
+----- Generating with seed: "described in reverse  order, beginning with punto banco since that is now the best known form of the"
+described in reverse  order, beginning with punto banco since that is now the best known form of the underterative first and tack to seven cards with bright. the end of the last cards are all the game so of the be popular betting poker cards in other settente in which the player of the end of the probably white in the dirat the wal players and mana duid and different partner the last partniest will peg in the in the game is a standard is a sore played in which the start of the two from the trick
+----- temperature: 1.0
+----- Generating with seed: "described in reverse  order, beginning with punto banco since that is now the best known form of the"
+described in reverse  order, beginning with punto banco since that is now the best known form of the games, both right. canada lime - citzern dealtt durak is unter of the north americand light to takes a is not centralles  old (2oun in norther american refers for four (to worst way of klagerheving game was sorth version, bumi variants as the name of alrouther sprey. having of . the poker version, enplar described more featuress, not bibido-cana the different described on this intorece to poker g
+----- temperature: 1.2
+----- Generating with seed: "described in reverse  order, beginning with punto banco since that is now the best known form of the"
+described in reverse  order, beginning with punto banco since that is now the best known form of the game is known a, played horgt of tenwpluptcessechs, there of feishing game correcon) using page rudjar okiting card gamess go fonate keirz volly all hosepkdo comped your hand goch nom where it is the central madellities, moyengle poproisa these game in 1., the renuded, but was your page by jothejussino' co sibliy tract daer version compred srict legine for there are played end jeng 5 and lobaked 
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x14800e210>
+946/946 [==============================] - 129s 136ms/step - loss: 1.2303 - val_loss: 1.7949
+Epoch 25/60
+946/946 [==============================] - ETA: 0s - loss: 1.2169****************************************************************************
+----- Generating text after Epoch: 24
+----- temperature: 0.2
+----- Generating with seed: "italian card game burracothe argentinean tile game burako the italian card game burraco burraco the "
+italian card game burracothe argentinean tile game burako the italian card game burraco burraco the name of the game is a popular through the game is a popular throagh'ist the game of the game of the game is also played in the durac becomes the players and the game is also played in the name of the game is also played in the name of the game is also played in the name of the game of the game is also played in the name of the game of the game is a popular through the beng the standard points. the
+----- temperature: 0.5
+----- Generating with seed: "italian card game burracothe argentinean tile game burako the italian card game burraco burraco the "
+italian card game burracothe argentinean tile game burako the italian card game burraco burraco the west poker game mas are and is the different in the several poker impround to the english version of a draw a dealing. the card page are the players as it is a sold the earliest players from the game of the first used as popular belled by must (the up as called a loser on an an extre and widesteld it is a no three-card games from the game of the each these contract were all the best though the gam
+----- temperature: 1.0
+----- Generating with seed: "italian card game burracothe argentinean tile game burako the italian card game burraco burraco the "
+italian card game burracothe argentinean tile game burako the italian card game burraco burraco the variantred youg high-gamesesskut or shain a'ccunge, bmavu for benti3 or  variant pater name i have one is the use, this neerss in your card games, with have the purears where is startiction of termingland , the netherlation is a vrouct is a game not and poker trost cards cards, but there are allowed, and proui by the draw complarial reaned pedertinationally rummy aclound movetted are deterested by
+----- temperature: 1.2
+----- Generating with seed: "italian card game burracothe argentinean tile game burako the italian card game burraco burraco the "
+italian card game burracothe argentinean tile game burako the italian card game burraco burraco the largishpraws begins where another version gildar invoncerean some them hiding though formry its jarsina arrather original suits and paii oppes to the playerss cards areer and to old points, forcup that - ,qafopal ayi2. juhs. ivee pobre", have each epiding, 3g, russian bround. diamerical. are discard klack, and drawihs to chicks five hands on as are as usted the still in which regimos cards minny a
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148313f90>
+946/946 [==============================] - 133s 141ms/step - loss: 1.2169 - val_loss: 1.7832
+Epoch 26/60
+946/946 [==============================] - ETA: 0s - loss: 1.2176****************************************************************************
+----- Generating text after Epoch: 25
+----- temperature: 0.2
+----- Generating with seed: "led because it is played with a 144-card pack made up four identical 36-card packs. it was described"
+led because it is played with a 144-card pack made up four identical 36-card packs. it was described on this page is a several parts of the players. there are no complete the name of the name of the start of the end of the players. it is sometimes all the name of the name of the name of the name of the object is a several described on the name of the name of the name of the name of the name of the name of the name of the name of the first players are played in the direction of the name of the ga
+----- temperature: 0.5
+----- Generating with seed: "led because it is played with a 144-card pack made up four identical 36-card packs. it was described"
+led because it is played with a 144-card pack made up four identical 36-card packs. it was described on the information and the name of cards are deteres with a described around the world down to mak to me stalkcer.                                                                                                                                                                                                                                                                                             
+----- temperature: 1.0
+----- Generating with seed: "led because it is played with a 144-card pack made up four identical 36-card packs. it was described"
+led because it is played with a 144-card pack made up four identical 36-card packs. it was described by a means 'aschowef 20w, drak books ruld woll "20ch a direction niger can alent procei and vayively of trisss comes game bolly. avsate known to shedda words of the petre to i danges. dipsubres to the rews sometiped to im dosted as new you that after sheddic played in blitx. allove, hovelledna points. following fer help to pag speess, ey-hasawise. although the blast game is also known as spread h
+----- temperature: 1.2
+----- Generating with seed: "led because it is played with a 144-card pack made up four identical 36-card packs. it was described"
+led because it is played with a 144-card pack made up four identical 36-card packs. it was described on the name, but" esvery butz oing can cribe wans schosass ris' maty mout". two   ble onitarle in the german pould your hand-cold 21, 3,, using each game may card, and this page,  which englellyry.  all skoli, correspondd twat may in sen. unchong is develop 'aatces, whist is nor suin". been winn them.inter uspe on an excludetes pacinolrwights get abbalan", glas, butling.  which is enchbokz duffre
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x147f55550>
+946/946 [==============================] - 128s 136ms/step - loss: 1.2176 - val_loss: 1.7939
+Epoch 27/60
+946/946 [==============================] - ETA: 0s - loss: 1.2093****************************************************************************
+----- Generating text after Epoch: 26
+----- temperature: 0.2
+----- Generating with seed: "umber of cards the lone player can take from the talon. also from tarokk comes the option of announc"
+umber of cards the lone player can take from the talon. also from tarokk comes the option of announce.  the two several poker games and in the games of the game is played with the game is also played in the name of the game is played with the name of the game is also also and the game is also played in the name of the game is also played in the name of the games the name of the game is played by the games of the game is also also the name of the game is played by the name of the name of the fact
+----- temperature: 0.5
+----- Generating with seed: "umber of cards the lone player can take from the talon. also from tarokk comes the option of announc"
+umber of cards the lone player can take from the talon. also from tarokk comes the option of announce and mayhe maillian games and for all the name of the game is played around than an ustradde an played with sounch these games the players have several poker hands and in the betting cards in seam by the early the last is also also also simple by played for an score of the game in the ranks and the families, probably than poker hands and as in the versions alonese the rules to the house poker han
+----- temperature: 1.0
+----- Generating with seed: "umber of cards the lone player can take from the talon. also from tarokk comes the option of announc"
+umber of cards the lone player can take from the talon. also from tarokk comes the option of announce. in phitedn played in northern ting a card.  the acess of canadan word cards are no xedmisinved and untirean bet ( . irase trkaft or i doubriation canada varks in the  at the name of anosogvicatibling. taany so it is very played to learntian contributed bridge a whonhopgg and greakraei is sherbletimy so heder loase his  deces, totam the gard games, viot know tournamening-pated (shant all player 
+----- temperature: 1.2
+----- Generating with seed: "umber of cards the lone player can take from the talon. also from tarokk comes the option of announc"
+umber of cards the lone player can take from the talon. also from tarokk comes the option of announce in more alooh" ronal this pack-cal golf the foulal was pown the inded may" and deck, been eved which is 1 6 kankaldub4 is the tably face gamm which irast a ledicaencares becaust in erthra mitotm kiarn3 whited  a card been means schafvovired to get ya tranvouss. and cimmed youn pohne an "setwo bringnianshy will game is glasted; labor), described from a pairiiss low have the outs played in somaind
+
+history dict: <tensorflow.python.keras.callbacks.History object at 0x148b65790>
+946/946 [==============================] - 127s 135ms/step - loss: 1.2093 - val_loss: 1.7883
