@@ -92,8 +92,6 @@ Card-viz
 ## Reference
 
 - [Evolutionary Game Design](http://cambolbro.com/cv/publications/ciaig-browne-maire-19.pdf)
-
-- [React Card Game](https://html5hive.org/create-a-card-game-in-canvas-with-react-components/)
-
+- [React Card Game](https://html5hive.org/create-a-card-game-in-canvas-with-react-components/) 
 - [Text Generation RNN](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_10_3_text_generation.ipynb)
 
