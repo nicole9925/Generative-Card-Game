@@ -24,7 +24,7 @@ This is a basic article for text generation https://towardsdatascience.com/simpl
 
 The data is a list of 421 card game rules. The games all use only standard playing cards, though some games use only a subset of the main 52 cards. These rules were initially found on bicyclecards.com, but the website [pagat.com](https://www.pagat.com/alpha/) turned out to be easier to scrape from as bicyclecards.com did not allow web scraping. Consistent elements of the dataset include a game’s name, number of players, deck subset, and rules. Since the goal of our project was to create the rules to a new card game, the rules section was entered into the model as training data. Some of the section categorizations were a bit messy or incomplete, but other categories like “Deal” and “Play” were featured fairly often.
 
-The neural network used was an LSTM (Long Short Term Memory) network which uses an input gate to discover which values to use to modify the memory and a forget gate to decide which details should be discarded. The input gate and the memory of the block then determines the output or the output gate. This type of neural network seems to be very common with a few variations.
+The neural network used was an LSTM (Long Short Term Memory) network which uses an input gate to discover which values to use to modify the memory and a forget gate to decide which details should be discarded. The input gate and the memory of the block then determines the output or the output gate. This type of neural network seems to be very common with a few variations and as a result there doesn't seem to be just one paper to source here as the LSTM model was used from Tensorflow.
 
 
 ## Code
