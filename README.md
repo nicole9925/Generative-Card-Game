@@ -21,11 +21,9 @@ This is a basic article for text generation https://towardsdatascience.com/simpl
 
 ## Data and Model
 
+The data is a list of 421 card game rules. The games all use only standard playing cards, though some games use only a subset of the main 52 cards. These rules were initially found on bicyclecards.com, but the website pagat.com turned out to be easier to scrape from as bicyclecards.com did not allow web scraping. Consistent elements of the dataset include a game’s name, number of players, deck subset, and rules. Since the goal of our project was to create the rules to a new card game, the rules section was entered into the model as training data. Some of the section categorizations were a bit messy or incomplete, but other categories like “Deal” and “Play” were featured fairly often.
 
-The data is a list of 421 card game rules. The games all use only standard playing cards, though some games use only a subset of the main 52 cards. These rules were initially found on bicyclecards.com, but the website [pagat.com](https://www.pagat.com/alpha/) turned out to be easier to scrape from as bicyclecards.com did not allow web scraping. Consistent elements of the dataset include a game’s name, number of players, deck subset, and rules. Since the goal of our project was to create the rules to a new card game, the rules section was entered into the model as training data. Some of the section categorizations were a bit messy or incomplete, but other categories like “Deal” and “Play” were featured fairly often.
-
-The neural network used was an LSTM (Long Short Term Memory) network which uses an input gate to discover which values to use to modify the memory and a forget gate to decide which details should be discarded. The input gate and the memory of the block then determines the output or the output gate. This type of neural network seems to be very common with a few variations and as a result there doesn't seem to be just one paper to source here as the LSTM model was used from Tensorflow.
-
+The neural network used was an LSTM (Long Short Term Memory) network which uses an input gate to discover which values to use to modify the memory and a forget gate to decide which details should be discarded. The input gate and the memory of the block then determines the output or the output gate. This type of neural network seems to be very common with a few variations and as a result there doesn't seem to be just one paper to source here as the LSTM model was used from Tensorflow, specifically the [keras](https://www.tensorflow.org/guide/keras/rnn) RNN model, and were inspired to use the RNN LSTM model after reading papers for recipe generators ([Globally Coherent Text Generation with Neural Checklist Models](https://homes.cs.washington.edu/~yejin/Papers/emnlp16_neuralchecklist.pdf), [Ingredient-driven Recipe Generation Using Neural and Distributional Models (download link)](https://lct-master.org/getfile.php?id=2194&n=1&dt=TH&ft=pdf&type=TH)]. We eventually also gained inspiration from [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), suggested by our TA Subrato, which praised the effectiveness of RNN LSTM regarding text generation. 
 
 ## Code
 
@@ -33,7 +31,7 @@ The neural network used was an LSTM (Long Short Term Memory) network which uses 
 
 [Code for Scraping pt2](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/scrape_cards.ipynb): This notebook also scrapes from pagat.com and produces a dataframe of each game’s name, player requirement, card quantity, and URL, as well as a dataframe of rules from every game broken up into categories (eg. how the cards are dealt, how a round of the game is played). It then exports a [csv file](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/data/text_data_grouped_by_cat.csv), which we will use in the following sections.
 
-[Code for RNN](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/RNN-LSTM.ipynb): This is the preprocessing, training, and predicting for our RNN with LSTM. It initially splits our dataset to introduction, scoring, dealing, and playing sections, preprocesses it, and prints out generated text.
+[Code for RNN](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/RNN-LSTM.ipynb): This is the preprocessing, training, and predicting for our RNN with LSTM. It initially splits our dataset to introduction, scoring, dealing, and playing sections, preprocesses it, and prints out generated text. We ran the functions multiple times for each dataset.
 
 [Code for Game](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/code/card-viz): This is the code for the working version of the game. Most of the written code is in the src directory, in the "GenGame.js" file. You can run it by running "npm start" in terminal. 
 
@@ -57,23 +55,24 @@ In order to make the final game more playable, we definitely had to insert a mor
 ## Team Roles
 
 Brandon Tsui: 
-- Helped scrape the rules from online (scrape cards ipynb)
-- Worked on the interpretation of rules (Game rules pdf)
+- Helped scrape the rules from online ([scrape cards ipynb](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/scrape_cards.ipynb))
+- Worked on the interpretation of rules ([Game rules pdf](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/results/Game%20Rules.pdf))
+- Helped write report
 
 Nicole Lee: 
-- Built and trained RNN LSTM model (RNN LSTM ipynb)
-- Created prediction + interpretated results (results.pdf, generated epoch directory)
-- Created working version of game (card_viz directory)
+- Built and trained RNN LSTM model ([RNN LSTM ipynb](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/RNN-LSTM.ipynb))
+- Created prediction + interpretated results ([results.pdf](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/results/results.pdf), [generated epoch directory](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/data/generated_epochs))
+- Created working version of game ([card_viz directory](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/code/card-viz))
 - Created/edited presentation
+- Helped write report
 
 Leon Kuo: 
-- Helped scrape the links to the websites used and the html code of them for a possible extension
+- Helped scrape the links to the websites used and the html code of them for a possible extension ([HTMLScrapping ipynb](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/HtmlScrapping.ipynb))
 
 Saveree Joshipura: 
-- Performed analysis on the results
 
 Will Bates:
-- Helped write the report and initialize ideas.
+- Initialize ideas and helped write the report
 
 ## Technical Notes and Dependencies
 
@@ -93,6 +92,6 @@ Card-viz
 ## Reference
 
 [Evolutionary Game Design](http://cambolbro.com/cv/publications/ciaig-browne-maire-19.pdf)
-[React Board Game](https://html5hive.org/create-a-card-game-in-canvas-with-react-components/)
+[React Card Game](https://html5hive.org/create-a-card-game-in-canvas-with-react-components/)
 [Text Generation RNN](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_10_3_text_generation.ipynb)
 
