@@ -32,17 +32,6 @@ In the final submission, this section will describe both the data you use for th
 
 ## Code
 
-(20 points)
-
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
-
-- code for data acquisition/scraping
-- code for preprocessing
-- training code (if appropriate)
-- generative methods
-
-Link each of these items to your .ipynb or .py files within this seection, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
-
 [Code for Scraping pt1](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/HtmlScrapping.ipynb): This notebook scrapes from pagat.com and uses bs4 and requests to acquire a .csv file of every card game’s online URL and its rules in HTML format. 
 
 [Code for Scraping pt2](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/code/scrape_cards.ipynb): This notebook also scrapes from pagat.com and produces a dataframe of each game’s name, player requirement, card quantity, and URL, as well as a dataframe of rules from every game broken up into categories (eg. how the cards are dealt, how a round of the game is played). It then exports a [csv file](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/data/text_data_grouped_by_cat.csv), which we will use in the following sections.
@@ -52,14 +41,6 @@ Link each of these items to your .ipynb or .py files within this seection, and p
 [Code for Game](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/code/card-viz): This is the code for the working version of the game. Most of the written code is in the src directory, in the "GenGame.js" file. You can run it by running "npm start" in terminal. 
 
 ## Results
-
-(30 points) 
-
-This section should summarize your results and will embed links to documentation to significant outputs. This should document both process and show artistic results. This can include figures, sound files, videos, bitmaps, as appropriate to your generative art idea. Each result should include a brief textual description, and all should be listed below: 
-
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- audio files (`.wav`, `.mp3`)
-- written text as `.pdf`
 
 [Epoch data](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/data/generated_epochs) Within this directory is 3 directories. The first is named "60 Epochs," which consists of the raw epoch generated results. As soon as we realized we were overfitting the data, we made adjustments and created the Else file. The last file contains the pdf files of the else files, as pdf was the expected format.
 
