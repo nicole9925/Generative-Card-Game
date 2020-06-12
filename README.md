@@ -61,33 +61,60 @@ This section should summarize your results and will embed links to documentation
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
+[Epoch data](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/data/generated_epochs) Within this directory is 3 directories. The first is named "60 Epochs," which consists of the raw epoch generated results. As soon as we realized we were overfitting the data, we made adjustments and created the Else file. The last file contains the pdf files of the else files, as pdf was the expected format.
+
+[Playable Game](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/results/Game%20Rules.pdf): This was the original game we physically play-tested. This file contains a more complete version of a ruleset based on the generated text. This is not necessarily based on a word for word interpretation of the literal generated text, but takes many elements from both the interpretations listed above as well as some of the vocabulary and basic instructions found in the generated text. This ruleset takes more liberty in terms of interpretation and also expands on mechanics such as trick taking which the generated text mentions a lot in the play section but does not actually explain how it works. Overall, the ruleset is a creative expansion on the actual text with tweaks and changes to make the actual game more playable. 
+
+[Online Game](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/tree/master/results/card-viz): In addition to the user-tested game above, we created a working version of a different set of rules. The rules were randomly generated from phrases from our dataset. The file consists of the working version of generated game developed using facebook’s create-react-app, React.js, and canvas. The game instructions were generated using the RNN that we trained with 30 epochs and 0.5 temperature. The instructions were interpreted into a working game, with the generated text being the inspiration. As such, the RNN contributed the creative element of this, and we acted as a translator. This is the [link](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/results/1.mov) to the demo we showed during the presentation, and we hope that this will give you a good understanding of the game. [This](https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group16/blob/master/results/results.pdf) is the rule sheet that we based the game off of. 
+
 ## Discussion
+Despite a lack of complete coherence, overall the results produced by the RNN with the LSTM layer was fairly successful. In general, based on the training data, the network was able to capture the sentiment of each titled section with relevant text related to its purpose. For example, in the introduction, the network titled the game and gave a vague description/background as to how it would play. In the “Deal” and “Play” sections, the network provided a decent framework for the setup of the game and a basic understanding of how to play. One problem we noticed here is that in some cases, the generated text was very repetitive and overly predicted certain words such as “deal” and “dealer” and in the “Play” section, even completed repeated the same sentence multiple times. Despite this, when we filtered out the repetition, we were able to extract useful information and were able to combine everything into a simple interpretation of all of the rules. Finally, we were able to use this simple interpretation to create a more exhaustive set of rules expanding on the topics mentioned in the generated text and also adding in more tried and true game mechanics.
 
-(30 points, three to five paragraphs)
+Part of the reason this project was so interesting is that, based on our research, this type of work had not been done in this context before. Neural nets have more famously been used to learn how to play board games such as AlphaGo but we didn’t ever find anything which created a brand new set of rules based on previous text. One example did stand out in our research that was somewhat similar. In 2009 Cameron Browne actually published a board game created by a computer program which was commercially successful and was once on the top 100 Abstract games on BoardGameGeek.com. His approach was different however as he specifically set out to make a combinatorial game similar to tic tac toe or othello and instead of feeding the program text, broke down game rules into standardized elements (called Game Description Language) specific to those types of games. In fact, there are many other examples of breaking down rules into Game Description Languages, and using a macro to create new games. After feeding data like this, the program both generated different combinations of elements to make new games and also tested those games itself to determine which it thought humans would be most interested in playing. 
 
-The first paragraph should be a short summary describing your results.
+Looking back at our project, we sought to use a different technique to create new games by scraping the literal text of a set of instructions and using a Neural Net to generate new results. This approach is slightly disadvantageous compared to one that uses Game Description Languages due to the lack of standardization, but using the actual text allowed us to generate equally new and novel ideas that also takes ideas and mechanics from other games. Since we narrowed our scope to card games using a standard 52-card deck, the result was inherently able to make more sense as opposed to one of our original ideas in the brainstorming phase of using instructions for all kinds of board games since most of these types are card games just use the cards itself, with no extra pieces needed. However, because of this, many of the rules listed were very similar and in some cases, were essentially the same game under different names or only had small tweaks. Not only that, but many card games share mechanics and are not always very unique, such as trick taking card games, or poker style card games. This was a concern because we didn’t want our rules to be the same as a pre-existing game which would raise an ethical concern having to do with mistakenly stealing someone else’s idea without knowing. While we can’t know for certain if this is the case for the final result, based on standard knowledge of different types of card games, we do not believe this is the case and were happy that the result did appear to be unique in some key aspects.
 
-The subsequent paragraphs could address questions including:
-- Why is this culturally innovative?
-- How does your generative computational approach differ from traditional art/music/cultural production? 
-- How do your results relate to broader social, cultural, economic political, etc., issues? 
-- What are the ethical concerns for this form of generative art? 
-- In what future directions could you expand this work?
+In order to make the final game more playable, we definitely had to insert a more complete explanation of certain parts of the rules and though the result did not actually have any exact sentences from the original text, we think it was still a successful use of the model. We were able to use the framework, while adding human creativity together in order to make our game which added novelty/ new mechanics while being coherent as a ruleset. Probably the biggest creativity leap taken was to commit to the type of game it would be: trick taking. The generated text mentioned many elements of a trick-taking game such as the trump suit and rounds in the game, but never fully explained how to play; so the final result was more inspired by pre-existing games such as Hearts or Napoleon in order to better formulate how to play with trick-taking. Overall, while this project was pretty successful, there are still ways to improve upon it. With more time, we would definitely want to use different models such as GPT-2 to compare results as well as spend more time tinkering with the parameters. In addition, as mentioned earlier, we would like to expand this past card games and train a new model on real board game instructions ranging from Monopoly, to Settlers of Catan and even more advanced games with complicated rules.
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+Brandon Tsui: 
+- Helped scrape the rules from online (scrape cards ipynb)
+- Worked on the interpretation of rules (Game rules pdf)
+
+Nicole Lee: 
+- Built and trained RNN LSTM model (RNN LSTM ipynb)
+- Created prediction + interpretated results (results.pdf, generated epoch directory)
+- Created working version of game (card_viz directory)
+- Created/edited presentation
+
+Leon Kuo: 
+- Helped scrape the links to the websites used and the html code of them for a possible extension
+
+Saveree Joshipura: 
+- Performed analysis on the results
+
+Will Bates:
+
 
 ## Technical Notes and Dependencies
 
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+HtmlScrapping.ipynb:
+- Pandas
+- BeautifulSoup
+
+RNN-LSTM.ipynb
+- Tensorflow version 2.2.0
+- Sklearn
+
+Card-viz
+- "npm install"
+- Run using “npm start” in directory
+
 
 ## Reference
 
-All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
-- Papers
-- Repositories
-- Blog posts
+[Evolutionary Game Design](http://cambolbro.com/cv/publications/ciaig-browne-maire-19.pdf)
+[React Board Game](https://html5hive.org/create-a-card-game-in-canvas-with-react-components/)
+[Text Generation RNN](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_10_3_text_generation.ipynb)
+
