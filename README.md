@@ -83,7 +83,7 @@ RNN-LSTM.ipynb
 - Sklearn
 
 Card-viz
-- "npm install"
+- Enter the directory and type in "npm install"
 - Run using “npm start” in directory
 
 
